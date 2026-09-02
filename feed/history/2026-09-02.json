@@ -2,11 +2,21 @@
  "summary": {
   "boards": 10,
   "failed": [],
-  "jobsPushed": 36,
+  "jobsPushed": 44,
   "maxAgeDays": 30,
-  "fetchedAt": "2026-09-02T16:08:19.345Z"
+  "fetchedAt": "2026-09-02T16:12:42.702Z"
  },
  "rows": [
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Senior Associate, Data Scientist -  Business Cards Marketing Data Science",
+   "location": "New York, NY",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Associate--Data-Scientist----Business-Cards-Marketing-Data-Science_R248511-1",
+   "posted": "2026-08-05",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
   {
    "type": "job",
    "company": "Capital One",
@@ -15,37 +25,27 @@
    "location": "New York, NY",
    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Lead-Data-Engineer_R247610-1",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
   },
   {
    "type": "job",
-   "company": "Thomson Reuters",
+   "company": "Capital One",
    "ats": "workday",
-   "title": "Staff Software Engineer / Architect - AI, CoCounsel FDE",
-   "location": "United States of America, Frisco, Texas; United States of America, New York, New York; United States of America, New York, New York; United States of America, Eagan, Minnesota",
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Staff-Software-Engineer---Architect---AI--CoCounsel-FDE_JREQ200171",
-   "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
+   "title": "Lead Machine Learning Engineer (Python, AWS, SQL, GenAI) (Enterprise Platforms Technology)",
+   "location": "New York, NY",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Lead-Machine-Learning-Engineer--Python--AWS--SQL--GenAI---Enterprise-Platforms-Technology-_R248546-2",
+   "posted": "2026-08-05",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
   },
   {
    "type": "job",
-   "company": "Thomson Reuters",
+   "company": "Capital One",
    "ats": "workday",
-   "title": "Senior Software Engineer - AI, CoCounsel FDE",
-   "location": "United States of America, Frisco, Texas; United States of America, New York, New York; United States of America, Richmond, Virginia; United States of America, New York, New York; United States of America, Eagan, Minnesota",
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Senior-Software-Engineer---AI--CoCounsel-FDE_JREQ200170",
-   "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
-  },
-  {
-   "type": "job",
-   "company": "Thomson Reuters",
-   "ats": "workday",
-   "title": "Tax Analyst",
-   "location": "United States of America, Frisco, Texas; United States of America, New York, New York; United States of America, Ann Arbor, Michigan; United States of America, Eagan, Minnesota",
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Tax-Analyst_JREQ202419",
-   "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
+   "title": "Lead Machine Learning Engineer",
+   "location": "New York, NY",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Lead-Machine-Learning-Engineer_R240620-1",
+   "posted": "2026-08-05",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
   },
   {
    "type": "job",
@@ -55,7 +55,7 @@
    "location": "Switzerland, Zug, Zug; United Kingdom, London",
    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Switzerland-Zug-Zug/Lead-Applied-Scientist--Document-Understanding_JREQ202341",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
   },
   {
    "type": "job",
@@ -65,17 +65,107 @@
    "location": "Switzerland, Zug, Zug; United Kingdom, London",
    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Switzerland-Zug-Zug/Senior-Applied-Scientist--Search---NLP-GenAI_JREQ201522-3",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
   },
   {
    "type": "job",
-   "company": "Fractal",
+   "company": "Thomson Reuters",
    "ats": "workday",
-   "title": "Senior Business Analyst",
-   "location": "New York",
-   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Senior-Business-Analyst_SR-45283-1",
-   "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
+   "title": "Senior Applied Scientist",
+   "location": "United States of America, Eagan, Minnesota; Canada, Toronto, Ontario; United States of America, New York, New York; United States of America, Ann Arbor, Michigan; United Kingdom, London; Switzerland, Zug, Zug; United States of America, Frisco, Texas",
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Senior-Applied-Scientist_JREQ198518-1",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Thomson Reuters",
+   "ats": "workday",
+   "title": "Senior Applied Scientist, Document Understanding",
+   "location": "United States of America, New York, New York; United States of America, Frisco, Texas; Canada, Toronto, Ontario; United States of America, Ann Arbor, Michigan; United States of America, Eagan, Minnesota",
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Senior-Applied-Scientist--NLP-GenAI_JREQ195787",
+   "posted": "2026-08-18",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Thomson Reuters",
+   "ats": "workday",
+   "title": "Lead Applied Scientist, Document Understanding",
+   "location": "United States of America, New York, New York; United States of America, Frisco, Texas; Canada, Toronto, Ontario; United States of America, Ann Arbor, Michigan; United States of America, Eagan, Minnesota",
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Lead-Applied-Scientist--NLP-GenAI_JREQ195790",
+   "posted": "2026-08-17",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Thomson Reuters",
+   "ats": "workday",
+   "title": "Lead Research Engineer, Search & Retrieval",
+   "location": "United States of America, New York, New York; United States of America, Frisco, Texas; Canada, Toronto, Ontario; United States of America, Ann Arbor, Michigan; United States of America, Eagan, Minnesota",
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Lead-Research-Engineer--Search---Retrieval_JREQ202959-8",
+   "posted": "2026-08-14",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Thomson Reuters",
+   "ats": "workday",
+   "title": "Lead Research Engineer",
+   "location": "United States of America, Eagan, Minnesota; Canada, Toronto, Ontario; United States of America, New York, New York; United States of America, Ann Arbor, Michigan; United Kingdom, London; Switzerland, Zug, Zug; United States of America, Frisco, Texas",
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Lead-Research-Engineer_JREQ198566-3",
+   "posted": "2026-08-12",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Thomson Reuters",
+   "ats": "workday",
+   "title": "Lead Applied Scientist, Search - NLP/GenAI",
+   "location": "Switzerland, Zug, Zug; United Kingdom, London",
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Switzerland-Zug-Zug/Lead-Applied-Scientist--Search---NLP-GenAI_JREQ201521-1",
+   "posted": "2026-08-12",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Thomson Reuters",
+   "ats": "workday",
+   "title": "Manager AI and Applied Research",
+   "location": "United States of America, Eagan, Minnesota; United States of America, Frisco, Texas; United States of America, New York, New York; Canada, Toronto, Ontario; United States of America, Ann Arbor, Michigan",
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Manager-AI-and-Applied-Research_JREQ194816-4",
+   "posted": "2026-08-07",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Thomson Reuters",
+   "ats": "workday",
+   "title": "Director, Applied Research",
+   "location": "United States of America, New York, New York",
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Senior-Director--Applied-Research_JREQ199086-1",
+   "posted": "2026-08-05",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Thomson Reuters",
+   "ats": "workday",
+   "title": "Staff Software Engineer / Architect - AI, CoCounsel FDE",
+   "location": "United States of America, Frisco, Texas; United States of America, New York, New York; United States of America, New York, New York; United States of America, Eagan, Minnesota",
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Staff-Software-Engineer---Architect---AI--CoCounsel-FDE_JREQ200171",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Thomson Reuters",
+   "ats": "workday",
+   "title": "Senior Software Engineer - AI, CoCounsel FDE",
+   "location": "United States of America, Frisco, Texas; United States of America, New York, New York; United States of America, Richmond, Virginia; United States of America, New York, New York; United States of America, Eagan, Minnesota",
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Senior-Software-Engineer---AI--CoCounsel-FDE_JREQ200170",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
   },
   {
    "type": "job",
@@ -85,37 +175,7 @@
    "location": "New York",
    "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/AI-Enablement-Consultant_SR-44946-1",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
-  },
-  {
-   "type": "job",
-   "company": "Fractal",
-   "ats": "workday",
-   "title": "Data Solutions Architect",
-   "location": "New York",
-   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Data-Solutions-Architect_SR-45252-1",
-   "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
-  },
-  {
-   "type": "job",
-   "company": "Fractal",
-   "ats": "workday",
-   "title": "Technical Life Sciences Consultant, Pharma (Data Governance)",
-   "location": "New York",
-   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Technical-Life-Sciences-Consultant--Pharma--Data-Governance-_SR-44833",
-   "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
-  },
-  {
-   "type": "job",
-   "company": "Fractal",
-   "ats": "workday",
-   "title": "Principal Program Manager, Databricks & Enterprise Data Platforms",
-   "location": "New York",
-   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Principal-Program-Manager--Databricks---Enterprise-Data-Platforms_SR-44785",
-   "posted": "2026-08-18",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
   },
   {
    "type": "job",
@@ -125,17 +185,67 @@
    "location": "London",
    "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/London/Senior-Data-Analytics-Consultant_SR-44857",
    "posted": "2026-08-12",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
   },
   {
    "type": "job",
-   "company": "Accenture",
+   "company": "Fractal",
    "ats": "workday",
-   "title": "Customer AI Engineer",
+   "title": "Principal consultant - CPG Data foundations & Strategy",
    "location": "London",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Customer-AI-Developer-Specialist_R00314667",
-   "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/London/Senior-CPG-Data-Foundation-Advisor_SR-43253",
+   "posted": "2026-08-04",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Fractal",
+   "ats": "workday",
+   "title": "Technical Life Sciences Consultant, Pharma (Data Governance)",
+   "location": "New York",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Technical-Life-Sciences-Consultant--Pharma--Data-Governance-_SR-44833",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Fractal",
+   "ats": "workday",
+   "title": "Senior Business Analyst",
+   "location": "New York",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Senior-Business-Analyst_SR-45283-1",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Fractal",
+   "ats": "workday",
+   "title": "Product Owner, Lifesciences",
+   "location": "New York",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Product-Owner--Lifesciences_SR-44690",
+   "posted": "2026-08-06",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Fractal",
+   "ats": "workday",
+   "title": "Data Solutions Architect",
+   "location": "New York",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Data-Solutions-Architect_SR-45252-1",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Fractal",
+   "ats": "workday",
+   "title": "Principal Program Manager, Databricks & Enterprise Data Platforms",
+   "location": "New York",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Principal-Program-Manager--Databricks---Enterprise-Data-Platforms_SR-44785",
+   "posted": "2026-08-18",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
   },
   {
    "type": "job",
@@ -145,7 +255,7 @@
    "location": "London, South Bank Central",
    "url": "https://kantar.wd3.myworkdayjobs.com/KANTAR/job/London-South-Bank-Central/Research-Manager_R102531",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
   },
   {
    "type": "job",
@@ -155,47 +265,7 @@
    "location": "UK - London",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Machine-Learning-Scientist-III_R-109301",
    "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Performance Marketing Analyst",
-   "location": "UK - London",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Performance-Marketing-Analyst_R-107296-1",
-   "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Principal Android Engineer - Search and Recommendations Experience",
-   "location": "UK - London",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Principal-Android-Engineer---Search-and-Recommendations-Experience_R-101945-1",
-   "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Senior Analytics Partner, People Analytics",
-   "location": "Washington - Seattle Campus",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Analytics-Partner--People-Analytics_R-106210-1",
-   "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Analyst II, Global Crisis Operations",
-   "location": "Washington - Seattle Campus",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Analyst-Crisis-Operations_R-109163",
-   "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
   },
   {
    "type": "job",
@@ -205,37 +275,7 @@
    "location": "Washington - Seattle Campus",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Machine-Learning-Scientist---CRM-Marketing_R-105322-1",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Analyst Crisis Operations",
-   "location": "UK - London",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Analyst-Crisis-Operations_R-108965-2",
-   "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Principal Product Manager - AI Builder",
-   "location": "UK - London",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Principal-Product-Manager---AI-Builder_R-108076-1",
-   "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Senior Analyst - Sales Operations",
-   "location": "UK - London",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Analyst---Sales-Operations_R-109060-2",
-   "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
   },
   {
    "type": "job",
@@ -245,27 +285,7 @@
    "location": "UK - London",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Data-Scientist--Analytics_R-107159",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Product Manager III, AI Analytics Products",
-   "location": "UK - London",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Product-Manager-III--Analytics-Platform-Capabilities_R-107980-1",
-   "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Senior Machine Learning engineer - Distribution & Supply",
-   "location": "Washington - Seattle Campus",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Machine-Learning-engineer---Distribution---Supply_R-106600",
-   "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
   },
   {
    "type": "job",
@@ -275,17 +295,7 @@
    "location": "Washington - Seattle Campus",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Data-Scientist-III--Media---Paid-Social-Analytics_R-109076",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Senior Finance Analyst",
-   "location": "UK - London",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Finance-Analyst_R-109217-1",
-   "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
   },
   {
    "type": "job",
@@ -295,7 +305,7 @@
    "location": "Washington - Seattle Campus",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Director--Machine-Learning-Science---Marketing_R-107109",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
   },
   {
    "type": "job",
@@ -305,7 +315,47 @@
    "location": "UK - London",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Data-Scientist-III--Analytics--B2B-Supply-Optimisation-_R-106959",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Principal Android Engineer - Search and Recommendations Experience",
+   "location": "UK - London",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Principal-Android-Engineer---Search-and-Recommendations-Experience_R-101945-1",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Senior Analytics Partner, People Analytics",
+   "location": "Washington - Seattle Campus",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Analytics-Partner--People-Analytics_R-106210-1",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Product Manager III, AI Analytics Products",
+   "location": "UK - London",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Product-Manager-III--Analytics-Platform-Capabilities_R-107980-1",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Senior Machine Learning engineer - Distribution & Supply",
+   "location": "Washington - Seattle Campus",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Machine-Learning-engineer---Distribution---Supply_R-106600",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
   },
   {
    "type": "job",
@@ -315,37 +365,7 @@
    "location": "Washington - Seattle Campus",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Software-Development-Engineer---AI-Foundations_R-105310-1",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Principal Program Manager - Transformation Programs",
-   "location": "Washington - Seattle Campus",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Principal-Program-Manager---Transformation-Programs_R-108948",
-   "posted": "2026-08-18",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Senior Data Platform Engineer (Data Lake and Catalog)",
-   "location": "UK - London",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Data-Platform-Engineer--Data-Lake-and-Catalog-_R-107322-1",
-   "posted": "2026-08-18",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Cyber Threat Intelligence Analyst III",
-   "location": "Washington - Seattle Campus",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Cyber-Threat-Intelligence-Analyst-III_R-108216",
-   "posted": "2026-08-11",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
   },
   {
    "type": "job",
@@ -355,7 +375,67 @@
    "location": "Washington - Seattle Campus",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Machine-Learning-Engineer_R-108467",
    "posted": "2026-08-10",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Principal Program Manager - Transformation Programs",
+   "location": "Washington - Seattle Campus",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Principal-Program-Manager---Transformation-Programs_R-108948",
+   "posted": "2026-08-18",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Performance Marketing Analyst",
+   "location": "UK - London",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Performance-Marketing-Analyst_R-107296-1",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Analyst II, Global Crisis Operations",
+   "location": "Washington - Seattle Campus",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Analyst-Crisis-Operations_R-109163",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Analyst Crisis Operations",
+   "location": "UK - London",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Analyst-Crisis-Operations_R-108965-2",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Senior Finance Analyst",
+   "location": "UK - London",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Finance-Analyst_R-109217-1",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Cyber Threat Intelligence Analyst III",
+   "location": "Washington - Seattle Campus",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Cyber-Threat-Intelligence-Analyst-III_R-108216",
+   "posted": "2026-08-11",
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
   },
   {
    "type": "job",
@@ -365,7 +445,7 @@
    "location": "Washington - Seattle Campus",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Principal-Analyst---Security-Operations_R-108156",
    "posted": "2026-08-06",
-   "fetchedAt": "2026-09-02T16:08:19.345Z"
+   "fetchedAt": "2026-09-02T16:12:42.702Z"
   }
  ]
 }
