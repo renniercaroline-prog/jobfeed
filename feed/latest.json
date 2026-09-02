@@ -1,451 +1,831 @@
 {
  "summary": {
-  "boards": 10,
+  "boards": 5,
   "failed": [],
-  "jobsPushed": 44,
+  "jobsPushed": 82,
   "maxAgeDays": 30,
-  "fetchedAt": "2026-09-02T16:12:42.702Z"
+  "fetchedAt": "2026-09-02T16:41:58.026Z"
  },
  "rows": [
   {
    "type": "job",
-   "company": "Capital One",
+   "company": "G-Research",
    "ats": "workday",
-   "title": "Senior Associate, Data Scientist -  Business Cards Marketing Data Science",
-   "location": "New York, NY",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Associate--Data-Scientist----Business-Cards-Marketing-Data-Science_R248511-1",
-   "posted": "2026-08-05",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
+   "title": "Machine Learning Performance Engineer",
+   "location": "London, UK",
+   "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Performance-Engineer_R3703",
+   "posted": "2026-08-19",
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
   },
   {
    "type": "job",
-   "company": "Capital One",
+   "company": "G-Research",
    "ats": "workday",
-   "title": "Lead Data Engineer",
-   "location": "New York, NY",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Lead-Data-Engineer_R247610-1",
-   "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
+   "title": "Data Software Engineer",
+   "location": "London, UK",
+   "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Software-Engineer_R3714",
+   "posted": "2026-08-20",
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
   },
   {
    "type": "job",
-   "company": "Capital One",
+   "company": "G-Research",
    "ats": "workday",
-   "title": "Lead Machine Learning Engineer (Python, AWS, SQL, GenAI) (Enterprise Platforms Technology)",
-   "location": "New York, NY",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Lead-Machine-Learning-Engineer--Python--AWS--SQL--GenAI---Enterprise-Platforms-Technology-_R248546-2",
-   "posted": "2026-08-05",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Capital One",
-   "ats": "workday",
-   "title": "Lead Machine Learning Engineer",
-   "location": "New York, NY",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Lead-Machine-Learning-Engineer_R240620-1",
-   "posted": "2026-08-05",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Thomson Reuters",
-   "ats": "workday",
-   "title": "Lead Applied Scientist, Document Understanding",
-   "location": "Switzerland, Zug, Zug; United Kingdom, London",
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Switzerland-Zug-Zug/Lead-Applied-Scientist--Document-Understanding_JREQ202341",
-   "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Thomson Reuters",
-   "ats": "workday",
-   "title": "Senior Applied Scientist, Search - NLP/GenAI",
-   "location": "Switzerland, Zug, Zug; United Kingdom, London",
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Switzerland-Zug-Zug/Senior-Applied-Scientist--Search---NLP-GenAI_JREQ201522-3",
-   "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Thomson Reuters",
-   "ats": "workday",
-   "title": "Senior Applied Scientist",
-   "location": "United States of America, Eagan, Minnesota; Canada, Toronto, Ontario; United States of America, New York, New York; United States of America, Ann Arbor, Michigan; United Kingdom, London; Switzerland, Zug, Zug; United States of America, Frisco, Texas",
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Senior-Applied-Scientist_JREQ198518-1",
-   "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Thomson Reuters",
-   "ats": "workday",
-   "title": "Senior Applied Scientist, Document Understanding",
-   "location": "United States of America, New York, New York; United States of America, Frisco, Texas; Canada, Toronto, Ontario; United States of America, Ann Arbor, Michigan; United States of America, Eagan, Minnesota",
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Senior-Applied-Scientist--NLP-GenAI_JREQ195787",
-   "posted": "2026-08-18",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Thomson Reuters",
-   "ats": "workday",
-   "title": "Lead Applied Scientist, Document Understanding",
-   "location": "United States of America, New York, New York; United States of America, Frisco, Texas; Canada, Toronto, Ontario; United States of America, Ann Arbor, Michigan; United States of America, Eagan, Minnesota",
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Lead-Applied-Scientist--NLP-GenAI_JREQ195790",
-   "posted": "2026-08-17",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Thomson Reuters",
-   "ats": "workday",
-   "title": "Lead Research Engineer, Search & Retrieval",
-   "location": "United States of America, New York, New York; United States of America, Frisco, Texas; Canada, Toronto, Ontario; United States of America, Ann Arbor, Michigan; United States of America, Eagan, Minnesota",
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Lead-Research-Engineer--Search---Retrieval_JREQ202959-8",
-   "posted": "2026-08-14",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Thomson Reuters",
-   "ats": "workday",
-   "title": "Lead Research Engineer",
-   "location": "United States of America, Eagan, Minnesota; Canada, Toronto, Ontario; United States of America, New York, New York; United States of America, Ann Arbor, Michigan; United Kingdom, London; Switzerland, Zug, Zug; United States of America, Frisco, Texas",
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Lead-Research-Engineer_JREQ198566-3",
-   "posted": "2026-08-12",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Thomson Reuters",
-   "ats": "workday",
-   "title": "Lead Applied Scientist, Search - NLP/GenAI",
-   "location": "Switzerland, Zug, Zug; United Kingdom, London",
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Switzerland-Zug-Zug/Lead-Applied-Scientist--Search---NLP-GenAI_JREQ201521-1",
-   "posted": "2026-08-12",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Thomson Reuters",
-   "ats": "workday",
-   "title": "Manager AI and Applied Research",
-   "location": "United States of America, Eagan, Minnesota; United States of America, Frisco, Texas; United States of America, New York, New York; Canada, Toronto, Ontario; United States of America, Ann Arbor, Michigan",
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Manager-AI-and-Applied-Research_JREQ194816-4",
-   "posted": "2026-08-07",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Thomson Reuters",
-   "ats": "workday",
-   "title": "Director, Applied Research",
-   "location": "United States of America, New York, New York",
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Senior-Director--Applied-Research_JREQ199086-1",
-   "posted": "2026-08-05",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Thomson Reuters",
-   "ats": "workday",
-   "title": "Staff Software Engineer / Architect - AI, CoCounsel FDE",
-   "location": "United States of America, Frisco, Texas; United States of America, New York, New York; United States of America, New York, New York; United States of America, Eagan, Minnesota",
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Staff-Software-Engineer---Architect---AI--CoCounsel-FDE_JREQ200171",
-   "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Thomson Reuters",
-   "ats": "workday",
-   "title": "Senior Software Engineer - AI, CoCounsel FDE",
-   "location": "United States of America, Frisco, Texas; United States of America, New York, New York; United States of America, Richmond, Virginia; United States of America, New York, New York; United States of America, Eagan, Minnesota",
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Senior-Software-Engineer---AI--CoCounsel-FDE_JREQ200170",
-   "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Fractal",
-   "ats": "workday",
-   "title": "AI Enablement Consultant",
-   "location": "New York",
-   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/AI-Enablement-Consultant_SR-44946-1",
-   "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Fractal",
-   "ats": "workday",
-   "title": "Senior Data Analytics Consultant",
-   "location": "London",
-   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/London/Senior-Data-Analytics-Consultant_SR-44857",
-   "posted": "2026-08-12",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Fractal",
-   "ats": "workday",
-   "title": "Principal consultant - CPG Data foundations & Strategy",
-   "location": "London",
-   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/London/Senior-CPG-Data-Foundation-Advisor_SR-43253",
+   "title": "Security Data and Platform Engineer",
+   "location": "London, UK",
+   "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Infrastructure-Security-Engineer_R3500",
    "posted": "2026-08-04",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
   },
   {
    "type": "job",
-   "company": "Fractal",
+   "company": "G-Research",
    "ats": "workday",
-   "title": "Technical Life Sciences Consultant, Pharma (Data Governance)",
-   "location": "New York",
-   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Technical-Life-Sciences-Consultant--Pharma--Data-Governance-_SR-44833",
-   "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
+   "title": "Senior CSIRT Analyst",
+   "location": "London, UK",
+   "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Cyber-Investigation---Response-Analyst-1_R3588",
+   "posted": "2026-08-17",
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
   },
   {
    "type": "job",
-   "company": "Fractal",
-   "ats": "workday",
-   "title": "Senior Business Analyst",
-   "location": "New York",
-   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Senior-Business-Analyst_SR-45283-1",
-   "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
+   "company": "DraftKings",
+   "ats": "dkxml",
+   "title": "Senior Procurement Analyst, Marketing",
+   "location": "Boston, Massachusetts, United States",
+   "url": "https://careers.draftkings.com/jobs/jr14790/senior-procurement-analyst-marketing/",
+   "posted": "2026-08-14",
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
   },
   {
    "type": "job",
-   "company": "Fractal",
-   "ats": "workday",
-   "title": "Product Owner, Lifesciences",
-   "location": "New York",
-   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Product-Owner--Lifesciences_SR-44690",
-   "posted": "2026-08-06",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
+   "company": "DraftKings",
+   "ats": "dkxml",
+   "title": "Data Engineering Manager, Customer",
+   "location": "Boston, Massachusetts, United States",
+   "url": "https://careers.draftkings.com/jobs/jr14797/data-engineering-manager-customer/",
+   "posted": "2026-08-14",
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
   },
   {
    "type": "job",
-   "company": "Fractal",
-   "ats": "workday",
-   "title": "Data Solutions Architect",
-   "location": "New York",
-   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Data-Solutions-Architect_SR-45252-1",
-   "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
+   "company": "DraftKings",
+   "ats": "dkxml",
+   "title": "Senior Procurement Analyst, Technology",
+   "location": "Boston, Massachusetts, United States",
+   "url": "https://careers.draftkings.com/jobs/jr14788/senior-procurement-analyst-technology/",
+   "posted": "2026-08-14",
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
   },
   {
    "type": "job",
-   "company": "Fractal",
-   "ats": "workday",
-   "title": "Principal Program Manager, Databricks & Enterprise Data Platforms",
-   "location": "New York",
-   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Principal-Program-Manager--Databricks---Enterprise-Data-Platforms_SR-44785",
-   "posted": "2026-08-18",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Kantar",
-   "ats": "workday",
-   "title": "Research Manager",
-   "location": "London, South Bank Central",
-   "url": "https://kantar.wd3.myworkdayjobs.com/KANTAR/job/London-South-Bank-Central/Research-Manager_R102531",
-   "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Machine Learning Scientist III",
-   "location": "UK - London",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Machine-Learning-Scientist-III_R-109301",
-   "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Senior Machine Learning Scientist - CRM Marketing",
-   "location": "Washington - Seattle Campus",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Machine-Learning-Scientist---CRM-Marketing_R-105322-1",
-   "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Senior Data Scientist, Product Analytics",
-   "location": "UK - London",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Data-Scientist--Analytics_R-107159",
-   "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Data Scientist III, Media & Paid Social Analytics",
-   "location": "Washington - Seattle Campus",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Data-Scientist-III--Media---Paid-Social-Analytics_R-109076",
-   "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Director, Machine Learning Science - Marketing",
-   "location": "Washington - Seattle Campus",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Director--Machine-Learning-Science---Marketing_R-107109",
-   "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Data Scientist III, Analytics (B2B Supply Optimisation)",
-   "location": "UK - London",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Data-Scientist-III--Analytics--B2B-Supply-Optimisation-_R-106959",
-   "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Principal Android Engineer - Search and Recommendations Experience",
-   "location": "UK - London",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Principal-Android-Engineer---Search-and-Recommendations-Experience_R-101945-1",
-   "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Senior Analytics Partner, People Analytics",
-   "location": "Washington - Seattle Campus",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Analytics-Partner--People-Analytics_R-106210-1",
-   "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Product Manager III, AI Analytics Products",
-   "location": "UK - London",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Product-Manager-III--Analytics-Platform-Capabilities_R-107980-1",
-   "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Senior Machine Learning engineer - Distribution & Supply",
-   "location": "Washington - Seattle Campus",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Machine-Learning-engineer---Distribution---Supply_R-106600",
-   "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Senior Software Development Engineer - AI Foundations",
-   "location": "Washington - Seattle Campus",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Software-Development-Engineer---AI-Foundations_R-105310-1",
-   "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Senior Machine Learning Engineer",
-   "location": "Washington - Seattle Campus",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Machine-Learning-Engineer_R-108467",
-   "posted": "2026-08-10",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Principal Program Manager - Transformation Programs",
-   "location": "Washington - Seattle Campus",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Principal-Program-Manager---Transformation-Programs_R-108948",
-   "posted": "2026-08-18",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Performance Marketing Analyst",
-   "location": "UK - London",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Performance-Marketing-Analyst_R-107296-1",
-   "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Analyst II, Global Crisis Operations",
-   "location": "Washington - Seattle Campus",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Analyst-Crisis-Operations_R-109163",
+   "company": "DraftKings",
+   "ats": "dkxml",
+   "title": "Senior Technical Compliance Analyst",
+   "location": "Boston, Massachusetts, United States",
+   "url": "https://careers.draftkings.com/jobs/jr14955/senior-technical-compliance-analyst/",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
   },
   {
    "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Analyst Crisis Operations",
-   "location": "UK - London",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Analyst-Crisis-Operations_R-108965-2",
-   "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Senior Finance Analyst",
-   "location": "UK - London",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Finance-Analyst_R-109217-1",
+   "company": "DraftKings",
+   "ats": "dkxml",
+   "title": "Analyst II, Casino Analytics",
+   "location": "Boston, Massachusetts, United States",
+   "url": "https://careers.draftkings.com/jobs/jr14842/analyst-ii-casino-analytics/",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
   },
   {
    "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Cyber Threat Intelligence Analyst III",
-   "location": "Washington - Seattle Campus",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Cyber-Threat-Intelligence-Analyst-III_R-108216",
-   "posted": "2026-08-11",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
-  },
-  {
-   "type": "job",
-   "company": "Expedia Group",
-   "ats": "workday",
-   "title": "Principal Analyst - Security Operations",
-   "location": "Washington - Seattle Campus",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Principal-Analyst---Security-Operations_R-108156",
+   "company": "DraftKings",
+   "ats": "dkxml",
+   "title": "Data Science Manager, Marketing",
+   "location": "Boston, Massachusetts, United States",
+   "url": "https://careers.draftkings.com/jobs/jr13978/data-science-manager-marketing/",
    "posted": "2026-08-06",
-   "fetchedAt": "2026-09-02T16:12:42.702Z"
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "DraftKings",
+   "ats": "dkxml",
+   "title": "Senior Procurement Analyst, Operations",
+   "location": "Boston, Massachusetts, United States",
+   "url": "https://careers.draftkings.com/jobs/jr14792/senior-procurement-analyst-operations/",
+   "posted": "2026-08-14",
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Internal Communications Associate",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Internal-Communications-Associate-5902",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "AI Engineer – Human Capital",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/AI-Engineer-Human-Capital-5841",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Human Capital Analytics Developer",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Human-Capital-Analytics-Developer-5794",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Researcher - People Analytics",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Researcher-People-Analytics-5791",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Compliance Analyst",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Compliance-Analyst-5722",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Investment Management Legal Analyst",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Investment-Management-Legal-Analyst-5971",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Legal Analyst",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Legal-Analyst-6027",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Legal Analyst and Contract Negotiator (London)",
+   "location": "London",
+   "url": "https://www.deshaw.com/careers/Legal-Analyst-and-Contract-Negotiator-London-6030",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Applied AI Engineer",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Applied-AI-Engineer-5375",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Machine Learning Researcher",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Machine-Learning-Researcher-4954",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Product Manager — AI Vendor Tools",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Product-Manager-AI-Vendor-Tools-5910",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Quantitative Analyst",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Quantitative-Analyst-2636",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "All Positions in Quantitative Strategies",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/All-Positions-in-Quantitative-Strategies-3456",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Strategy and Business Development Associate – Commercial Data Insights",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Strategy-and-Business-Development-Associate-Commercial-Data-Insights-5785",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Quant Systems: Systems Developer (London)",
+   "location": "London",
+   "url": "https://www.deshaw.com/careers/Quant-Systems-Systems-Developer-London-5295",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Quant Systems: Systems Developer (New York)",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Quant-Systems-Systems-Developer-New-York-5739",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "AI Product Engineer – Venture Studio (Startup Incubator)",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/AI-Product-Engineer-Venture-Studio-Startup-Incubator-5545",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Trader/Analyst Intern (London) – Summer 2027",
+   "location": "London",
+   "url": "https://www.deshaw.com/careers/Trader-Analyst-Intern-London-Summer-2027-5862",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Quantitative Analyst Intern (New York) – Summer 2027",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Quantitative-Analyst-Intern-New-York-Summer-2027-5890",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Quantitative-Analyst-Ph-D-Intern-New-York-Summer-2027-5891",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Software Developer Intern (New York) – Summer 2027",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Software-Developer-Intern-New-York-Summer-2027-5894",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Software Developer, Ph.D. Intern (New York) – Summer 2027",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Software-Developer-Ph-D-Intern-New-York-Summer-2027-5893",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Investor Relations Intern (London) - Summer 2027",
+   "location": "London",
+   "url": "https://www.deshaw.com/careers/Investor-Relations-Intern-London-Summer-2027-5917",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Systems Engineering Intern (London) - Summer 2027",
+   "location": "London",
+   "url": "https://www.deshaw.com/careers/Systems-Engineering-Intern-London-Summer-2027-5925",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Systems Engineering Intern (New York) - Summer 2027",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Systems-Engineering-Intern-New-York-Summer-2027-5916",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Proprietary Trading Intern (New York) – Summer 2027",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Proprietary-Trading-Intern-New-York-Summer-2027-5731",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Principal Product Manager - AI Concierge & Growth",
+   "location": "london",
+   "url": "https://wise.jobs/job/principal-product-manager-ai-concierge-and-growth-in-london-jid-3689",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "AI Implementation Manager — Wise Assistant",
+   "location": "london",
+   "url": "https://wise.jobs/job/ai-implementation-manager-wise-assistant-in-london-jid-4095",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Data Analyst - Wise Platform - Fincrime",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-data-analyst-wise-platform-fincrime-in-london-jid-3958",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Staff Applied ML Engineer - Financial Crime",
+   "location": "london",
+   "url": "https://wise.jobs/job/staff-applied-ml-engineer-financial-crime-in-london-jid-3730",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Product Analyst - Business Operations - Wise Business",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-product-analyst-business-operations-wise-business-in-london-jid-3713",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Product Analyst - Business Onboarding",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-product-analyst-business-onboarding-in-london-jid-3568",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Product Analyst - Send",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-product-analyst-send-in-london-jid-3428",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Product Analyst - Onboarding",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-product-analyst-onboarding-in-london-jid-3403",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Director of Risk Analytics",
+   "location": "london",
+   "url": "https://wise.jobs/job/director-of-risk-analytics-in-london-jid-4083",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Data Science Lead - AML Risk",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-data-science-lead-aml-risk-in-london-jid-3146",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Analytics Engineering Director - Servicing",
+   "location": "london",
+   "url": "https://wise.jobs/job/analytics-engineering-director-servicing-in-london-jid-2000",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Principal Implementation Manager - Wise Platform Verification",
+   "location": "london",
+   "url": "https://wise.jobs/job/principal-implementation-manager-wise-platform-verification-in-london-jid-4079",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Staff User Researcher - Mitigation Platform",
+   "location": "london",
+   "url": "https://wise.jobs/job/staff-user-researcher-mitigation-platform-in-london-jid-3774",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Analytics Manager - Internal Audit",
+   "location": "london",
+   "url": "https://wise.jobs/job/analytics-manager-internal-audit-in-london-jid-3799",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Growth Analyst",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-growth-analyst-in-london-jid-3885",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Data Analyst - Wise Platform Pricing",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-data-analyst-wise-platform-pricing-in-london-jid-3790",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Marketing Analyst - Growth Drivers",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-marketing-analyst-growth-drivers-in-london-jid-3894",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Analytics Manager - Growth",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-analytics-manager-growth-in-london-jid-3807",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Data Analyst - Wise Platform Pricing",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-data-analyst-wise-platform-pricing-in-london-jid-3325",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Analytics Manager - Marketing Science",
+   "location": "london",
+   "url": "https://wise.jobs/job/analytics-manager-marketing-science-in-london-jid-2295",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Marketing Data Analyst - Paid Social",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-marketing-data-analyst-paid-social-in-london-jid-4035",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Data Analyst - Growth",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-data-analyst-growth-in-london-jid-3806",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Data Analyst - Regulatory Reporting",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-data-analyst-regulatory-reporting-in-london-jid-3893",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Product Analyst - FinCrime",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-product-analyst-fincrime-in-london-jid-3314",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Principal AI Content Designer, FinCrime",
+   "location": "london",
+   "url": "https://wise.jobs/job/principal-ai-content-designer-fincrime-in-london-jid-3203",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Data Scientist - Treasury Markets Quant",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-data-scientist-treasury-markets-quant-in-london-jid-4034",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Machine Learning Engineer I - FinCrime",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-machine-learning-engineer-i-fincrime-in-london-jid-3964",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Machine Learning Engineer II - FinCrime",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-machine-learning-engineer-ii-fincrime-in-london-jid-4021",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Staff Data Scientist - AML",
+   "location": "london",
+   "url": "https://wise.jobs/job/staff-data-scientist-aml-in-london-jid-2899",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Product Analyst - FinCrime",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-product-analyst-fincrime-in-london-jid-3864",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Product Analyst - Regional Expansion",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-product-analyst-regional-expansion-in-london-jid-3607",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Product Analyst - WISE Platform",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-product-analyst-wise-platform-in-london-jid-3717",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior ML Engineering Lead - Financial Crime",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-ml-engineering-lead-financial-crime-in-london-jid-3951",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Data Scientist - Liquidity",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-data-scientist-liquidity-in-london-jid-3950",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Data Scientist - Personalisation/CRM",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-data-scientist-personalisation-crm-in-london-jid-3948",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Data Engineering Manager - Treasury Global Liquidity",
+   "location": "london",
+   "url": "https://wise.jobs/job/data-engineering-manager-treasury-global-liquidity-in-london-jid-2946",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Data Engineer II - Scalable Growth",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-data-engineer-ii-scalable-growth-in-london-jid-3908",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Internal Audit Manager",
+   "location": "london",
+   "url": "https://wise.jobs/job/internal-audit-manager-in-london-jid-3935",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Solutions Engineering Lead",
+   "location": "london",
+   "url": "https://wise.jobs/job/solutions-engineering-lead-in-london-jid-3924",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Software Engineer II - Data Onboarding & Reporting",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-software-engineer-ii-data-onboarding-and-reporting-in-london-jid-3904",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Product Analyst - Wise Business",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-product-analyst-wise-business-in-london-jid-2654",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Principal AI Model Designer",
+   "location": "london",
+   "url": "https://wise.jobs/job/principal-ai-model-designer-in-london-jid-3613",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Privacy and AI Counsel",
+   "location": "london",
+   "url": "https://wise.jobs/job/privacy-and-ai-counsel-in-london-jid-3902",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Data Analyst - FinCrime Operations",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-data-analyst-fincrime-operations-in-london-jid-3185",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Product Analyst - Security Platform",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-product-analyst-security-platform-in-london-jid-3847",
+   "posted": null,
+   "fetchedAt": "2026-09-02T16:41:58.026Z"
   }
  ]
 }
