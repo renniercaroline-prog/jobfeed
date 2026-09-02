@@ -4,9 +4,9 @@
   "failed": [
    "Fireworks AI"
   ],
-  "jobsPushed": 221,
+  "jobsPushed": 222,
   "maxAgeDays": 14,
-  "fetchedAt": "2026-09-02T11:10:17.326Z"
+  "fetchedAt": "2026-09-02T11:22:43.555Z"
  },
  "rows": [
   {
@@ -17,7 +17,7 @@
    "location": "San Francisco, CA | Seattle, WA",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5205545008",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -27,7 +27,7 @@
    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390966008",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -37,7 +37,7 @@
    "location": "San Francisco, CA | New York City, NY",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5406982008",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -47,7 +47,7 @@
    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409008008",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -57,7 +57,7 @@
    "location": "San Francisco, CA | New York City, NY",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5021015008",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -67,7 +67,7 @@
    "location": "San Francisco, CA | New York City, NY",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5129961008",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -77,7 +77,7 @@
    "location": "London, UK",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390791008",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -87,7 +87,7 @@
    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394958008",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -97,7 +97,7 @@
    "location": "London, UK",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398753008",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -107,7 +107,7 @@
    "location": "London, UK",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5405710008",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -117,7 +117,7 @@
    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398280008",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -127,7 +127,7 @@
    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387009008",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -137,7 +137,7 @@
    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5396282008",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -147,7 +147,7 @@
    "location": "San Francisco, CA | New York City, NY",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387754008",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -157,7 +157,7 @@
    "location": "New York City, NY; San Francisco, CA | New York City, NY",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390894008",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -167,7 +167,7 @@
    "location": "New York City, NY; San Francisco, CA | New York City, NY",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390890008",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -177,7 +177,7 @@
    "location": "San Francisco, CA | New York City, NY",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390865008",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -187,7 +187,7 @@
    "location": "San Francisco, CA | New York City, NY",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397596008",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -197,7 +197,7 @@
    "location": "San Francisco, CA | New York City, NY",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5407938008",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -207,7 +207,7 @@
    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394887008",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -217,7 +217,7 @@
    "location": "London, UK",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5399221008",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -227,7 +227,7 @@
    "location": "San Francisco, CA | New York City, NY",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409299008",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -237,7 +237,7 @@
    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5399160008",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -247,7 +247,7 @@
    "location": "San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412944008",
    "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -257,7 +257,7 @@
    "location": "London, UK",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391269008",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -267,7 +267,7 @@
    "location": "New York City, NY; Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5410006008",
    "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -277,7 +277,7 @@
    "location": "San Francisco, CA | Washington, DC",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397711008",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -287,7 +287,7 @@
    "location": "San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390972008",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -297,7 +297,7 @@
    "location": "San Francisco, CA | New York City, NY",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390960008",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -307,7 +307,7 @@
    "location": "San Francisco, CA | New York City, NY",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5404725008",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -317,7 +317,7 @@
    "location": "San Francisco, CA | New York City, NY",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5404730008",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -327,7 +327,7 @@
    "location": "San Francisco, CA | New York City, NY",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5405913008",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -337,7 +337,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/c7c5ef17-af83-483c-a825-f461f9f63b17",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -347,7 +347,7 @@
    "location": "Washington, DC",
    "url": "https://jobs.ashbyhq.com/openai/be7b1bf5-37ab-40f7-9ec1-e9732244f12a",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -357,7 +357,7 @@
    "location": "San Francisco; New York City",
    "url": "https://jobs.ashbyhq.com/openai/bc0d4a9f-235f-4a4b-a854-c6cb0322ccaa",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -367,7 +367,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/ba2ead69-d118-4a91-a4d7-c880d17fa7f9",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -377,7 +377,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/c9e9e3a5-fb93-4162-b876-6266016819c0",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -387,7 +387,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -397,7 +397,7 @@
    "location": "Washington, DC",
    "url": "https://jobs.ashbyhq.com/openai/4cfc6b6b-dd8f-4101-897d-3217e45db1e4",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -407,7 +407,7 @@
    "location": "San Francisco; New York City",
    "url": "https://jobs.ashbyhq.com/openai/7bdb15f0-1e3b-4352-b948-47fb35f25d71",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -417,7 +417,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/cadb7c24-2aea-4b98-a793-65ae9388b5d6",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -427,7 +427,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/26e8c199-7dcb-4144-b263-f35220421a6d",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -437,7 +437,7 @@
    "location": "US - Remote; New York City; Seattle; Washington, DC; San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/f69f75f5-439f-4044-8ae1-8fd810e0402d",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -447,7 +447,7 @@
    "location": "New York City; San Francisco; Mountain View",
    "url": "https://jobs.ashbyhq.com/openai/0a24703f-6108-4422-807e-78831dd98ed1",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -457,7 +457,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/831e2f91-c213-4208-9eb3-4ce2cc6b9acf",
    "posted": "2026-08-23",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -467,7 +467,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/ece054ea-ac75-4b8a-bdbf-5cdf19368312",
    "posted": "2026-08-23",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -477,7 +477,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/9248eab6-74e0-4940-98eb-ca09b17da532",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -487,7 +487,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/9675cfd2-a983-49d7-80db-d3d58c42eb08",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -497,7 +497,7 @@
    "location": "New York City",
    "url": "https://jobs.ashbyhq.com/openai/51977acc-b1f8-48af-bde6-95ddba936d65",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -507,7 +507,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/48993416-b5f5-4c3f-b7c8-b8ca7c2395e0",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -517,7 +517,7 @@
    "location": "Washington, DC",
    "url": "https://jobs.ashbyhq.com/openai/6d1d835d-5882-4191-b78e-fd04a4c05f11",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -527,7 +527,7 @@
    "location": "London, UK",
    "url": "https://jobs.ashbyhq.com/openai/0f78e08a-669d-4d87-960f-518c649e6700",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -537,7 +537,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/5b85c0cc-3f19-4b96-9bd3-3b7521e54f44",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -547,7 +547,7 @@
    "location": "Mountain View; San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/44abed05-4b45-4aa0-bee6-45d113bbef66",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -557,7 +557,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/1b268692-70d8-46c2-a347-2f7705b5c174",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -567,7 +567,7 @@
    "location": "San Francisco; Mountain View",
    "url": "https://jobs.ashbyhq.com/openai/3ac187b2-dd75-4acd-b285-51ae6e603dbd",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -577,7 +577,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/719cc0f6-ed38-41db-8870-299b4d336f37",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -587,7 +587,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/5a682b9f-ef1a-4e47-813a-72b23414d43e",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -597,7 +597,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/65bc2ffe-a622-47cd-949c-2ca8b7ec6951",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -607,7 +607,7 @@
    "location": "San Francisco; New York City",
    "url": "https://jobs.ashbyhq.com/openai/b28b990c-54e4-4be4-a33a-d5518dc3e117",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -617,7 +617,7 @@
    "location": "New York City",
    "url": "https://jobs.ashbyhq.com/openai/832094fd-4d89-4fe4-bc18-9ba88d347a18",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -627,7 +627,7 @@
    "location": "San Francisco; New York City",
    "url": "https://jobs.ashbyhq.com/openai/6c21e5e0-a41c-4936-a278-dd7d2c88f25c",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -637,7 +637,7 @@
    "location": "London, UK",
    "url": "https://jobs.ashbyhq.com/openai/aa55ee20-b904-44c1-8cc7-d9160fc8b341",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -647,7 +647,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/2afc5695-a2f8-4832-bf66-a2ca5f0615dc",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -657,7 +657,7 @@
    "location": "Washington, DC",
    "url": "https://jobs.ashbyhq.com/openai/6882c919-600e-43c8-92f9-803d4eb3bcd2",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -667,7 +667,7 @@
    "location": "London, UK",
    "url": "https://jobs.ashbyhq.com/openai/98bffd0e-05cf-4748-93f1-b115c84e37b4",
    "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -677,7 +677,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/c0f0136e-f4e7-43ca-b3d5-4d7aee5eed7f",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -687,7 +687,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/d4983a0f-1004-4f27-94b3-e1a38c168c1a",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -697,7 +697,7 @@
    "location": "London; Amsterdam",
    "url": "https://jobs.ashbyhq.com/mistral.ai/2c1ff089-db74-467c-b17d-608713e43699",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -707,7 +707,7 @@
    "location": "London",
    "url": "https://jobs.ashbyhq.com/mistral.ai/ee9d2f24-527c-4ad8-b50e-6dbacee081f4",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -717,7 +717,7 @@
    "location": "United States; New Jersey; Boston; Canada; New York; Washington, DC; Ottawa; Toronto; Montreal",
    "url": "https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -727,7 +727,7 @@
    "location": "San Francisco; Salt Lake City; Phoenix; Seattle; Los Angeles; Vancouver",
    "url": "https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -737,7 +737,7 @@
    "location": "Canada; Boston; Chicago; New York; Miami; New Jersey; Atlanta; Washington, DC; Ottawa; Montreal",
    "url": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -747,7 +747,7 @@
    "location": "United Kingdom; Europe; London",
    "url": "https://jobs.ashbyhq.com/cohere/a0f174cf-4407-4334-b812-45a767092fca",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -757,7 +757,7 @@
    "location": "United Kingdom; Europe; London",
    "url": "https://jobs.ashbyhq.com/cohere/691982e3-9357-42e4-b4c3-a65cae906935",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -767,7 +767,7 @@
    "location": "Toronto; United States; New York",
    "url": "https://jobs.ashbyhq.com/cohere/5476ce62-13bd-497b-b988-0a8f85cf6262",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -777,7 +777,7 @@
    "location": "London",
    "url": "https://jobs.ashbyhq.com/elevenlabs/507e390a-eaeb-4000-936e-83e3e498c760",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -787,7 +787,7 @@
    "location": "New York City",
    "url": "https://jobs.ashbyhq.com/synthesia/243dc52d-8367-4ff9-9d71-8c41437ba6e1",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -797,7 +797,7 @@
    "location": "London",
    "url": "https://wayve.firststage.co/jobs?gh_jid=8731231002",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -807,7 +807,7 @@
    "location": "London",
    "url": "https://wayve.firststage.co/jobs?gh_jid=8749904002",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -817,7 +817,7 @@
    "location": "London; Sunnyvale",
    "url": "https://wayve.firststage.co/jobs?gh_jid=8763509002",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -827,7 +827,7 @@
    "location": "London",
    "url": "https://wayve.firststage.co/jobs?gh_jid=8749921002",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -837,7 +837,7 @@
    "location": "London",
    "url": "https://wayve.firststage.co/jobs?gh_jid=8738575002",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -847,7 +847,7 @@
    "location": "London",
    "url": "https://wayve.firststage.co/jobs?gh_jid=8745289002",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -857,7 +857,7 @@
    "location": "London",
    "url": "https://wayve.firststage.co/jobs?gh_jid=8749902002",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -867,7 +867,7 @@
    "location": "Cambridge, MA",
    "url": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/6140838004",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -877,7 +877,7 @@
    "location": "San Francisco, CA; New York, NY",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4725509005",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -887,7 +887,7 @@
    "location": "San Francisco, CA; Seattle, WA; New York, NY",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4728014005",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -897,7 +897,7 @@
    "location": "Washington, DC",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4727138005",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -907,7 +907,7 @@
    "location": "San Francisco, CA; New York, NY",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4727135005",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -917,7 +917,7 @@
    "location": "London, United Kingdom; GB; hybrid",
    "url": "https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -927,7 +927,7 @@
    "location": "San Francisco; CA; us",
    "url": "https://jobs.smartrecruiters.com/Sia/744000146822484",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -937,7 +937,7 @@
    "location": "New York; NY; us",
    "url": "https://jobs.smartrecruiters.com/Sia/744000146566518",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -947,7 +947,7 @@
    "location": "New York; NY; us",
    "url": "https://jobs.smartrecruiters.com/Sia/744000146540469",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -957,7 +957,7 @@
    "location": "San Francisco; CA; us",
    "url": "https://jobs.smartrecruiters.com/Sia/744000145662822",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -967,7 +967,7 @@
    "location": "New York; NY; us",
    "url": "https://jobs.smartrecruiters.com/Sia/744000145662992",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -977,7 +977,7 @@
    "location": "New York; NY; us",
    "url": "https://jobs.smartrecruiters.com/Sia/744000145339480",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -987,7 +987,7 @@
    "location": "Cardiff, London or Remote (UK)",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8143930",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -997,7 +997,7 @@
    "location": "Cardiff, London or Remote (UK)",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8146871",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1007,7 +1007,7 @@
    "location": "Cardiff, London or Remote (UK)",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8156063",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1017,7 +1017,7 @@
    "location": "London",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8158933",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1027,7 +1027,17 @@
    "location": "US Remote, Chicago, SF, Seattle, NYC",
    "url": "https://stripe.com/jobs/search?gh_jid=8106026",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
+  },
+  {
+   "type": "job",
+   "company": "Stripe",
+   "ats": "greenhouse",
+   "title": "Enterprise Commerce Architect, Strategy & Transformation",
+   "location": "San Francisco or Seattle",
+   "url": "https://stripe.com/jobs/search?gh_jid=8139711",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1037,7 +1047,7 @@
    "location": "New York, NY",
    "url": "https://stripe.com/jobs/search?gh_jid=8145119",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1047,7 +1057,7 @@
    "location": "London",
    "url": "https://stripe.com/jobs/search?gh_jid=8130867",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1057,17 +1067,7 @@
    "location": "San Francisco, Seattle, New York City",
    "url": "https://stripe.com/jobs/search?gh_jid=8128745",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
-  },
-  {
-   "type": "job",
-   "company": "Stripe",
-   "ats": "greenhouse",
-   "title": "Software Engineer, New Grad",
-   "location": "London",
-   "url": "https://stripe.com/jobs/search?gh_jid=8130930",
-   "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1077,7 +1077,17 @@
    "location": "San Francisco, Seattle, New York",
    "url": "https://stripe.com/jobs/search?gh_jid=8128744",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
+  },
+  {
+   "type": "job",
+   "company": "Stripe",
+   "ats": "greenhouse",
+   "title": "Software Engineer, New Grad",
+   "location": "London",
+   "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1087,7 +1097,7 @@
    "location": "SF, NY, Remote",
    "url": "https://stripe.com/jobs/search?gh_jid=8144262",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1097,7 +1107,7 @@
    "location": "New York",
    "url": "https://stripe.com/jobs/search?gh_jid=8148653",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1107,7 +1117,7 @@
    "location": "Seattle, New York, San Francisco",
    "url": "https://stripe.com/jobs/search?gh_jid=8172164",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1117,7 +1127,7 @@
    "location": "San Francisco HQ; Seattle Office; New York City Office",
    "url": "https://jobs.ashbyhq.com/plaid/0d80a5be-8860-46ea-9e67-c4a2bb53b1bf",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1127,7 +1137,7 @@
    "location": "San Francisco HQ; New York City Office",
    "url": "https://jobs.ashbyhq.com/plaid/8efcc88b-48eb-486a-bf63-ff9143af7250",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1137,7 +1147,7 @@
    "location": "San Francisco HQ; New York City Office",
    "url": "https://jobs.ashbyhq.com/plaid/95225497-fc9b-4c5d-8df0-df98df219ae5",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1147,7 +1157,7 @@
    "location": "San Francisco HQ; Seattle Office; New York City Office",
    "url": "https://jobs.ashbyhq.com/plaid/172bb8e8-7dc8-4fdc-ae20-525456989ff4",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1157,7 +1167,7 @@
    "location": "London; England; United Kingdom",
    "url": "https://apply.workable.com/j/5C283BDF08",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1167,7 +1177,7 @@
    "location": "London; England; United Kingdom",
    "url": "https://apply.workable.com/j/AAB5597D78",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1177,7 +1187,7 @@
    "location": "London; England; United Kingdom",
    "url": "https://apply.workable.com/j/B465795049",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1187,7 +1197,7 @@
    "location": "London; England; United Kingdom",
    "url": "https://apply.workable.com/j/1D8E055437",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1197,7 +1207,7 @@
    "location": "London; England; United Kingdom",
    "url": "https://apply.workable.com/j/77F198D9DC",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1207,7 +1217,7 @@
    "location": "New York, NY (HQ); San Francisco, CA; Miami, FL",
    "url": "https://jobs.ashbyhq.com/ramp/87de7e0e-5214-49bc-bb81-54782e9c3ad5",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1217,7 +1227,7 @@
    "location": "New York, NY (HQ)",
    "url": "https://jobs.ashbyhq.com/ramp/8efd3a0a-fc66-46e2-9415-bffba10e2919",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1227,7 +1237,7 @@
    "location": "San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8017242",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1237,7 +1247,7 @@
    "location": "London, UK",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8122109",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1247,7 +1257,7 @@
    "location": "San Francisco, CA, US; Remote, US",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8131383",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1257,7 +1267,7 @@
    "location": "San Francisco, CA, US; Remote, US",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8162046",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1267,7 +1277,7 @@
    "location": "San Francisco, CA, US; Remote, US",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684583",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1277,7 +1287,7 @@
    "location": "San Francisco, CA, US; Remote, US",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7638574",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1287,7 +1297,7 @@
    "location": "Palo Alto; Seattle, WA; New York, NY; San Francisco, CA, US; Remote, US",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494956",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1297,7 +1307,7 @@
    "location": "Palo Alto, CA, US; Remote, US",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8076015",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1307,7 +1317,7 @@
    "location": "New York, NY",
    "url": "https://careers.duolingo.com/jobs/8750637002?gh_jid=8750637002",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1317,7 +1327,7 @@
    "location": "New York, NY",
    "url": "https://careers.duolingo.com/jobs/8750587002?gh_jid=8750587002",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1327,7 +1337,7 @@
    "location": "New York, NY",
    "url": "https://careers.duolingo.com/jobs/8759720002?gh_jid=8759720002",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1337,7 +1347,7 @@
    "location": "New York, NY",
    "url": "https://job-boards.greenhouse.io/known/jobs/8728988002",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1347,7 +1357,7 @@
    "location": "New York, NY",
    "url": "https://job-boards.greenhouse.io/known/jobs/8728901002",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1357,7 +1367,7 @@
    "location": "London; GB; hybrid",
    "url": "https://jobs.lever.co/spotify/a4b0ebfd-86e2-4fe4-8c3e-3773220224d0",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1367,7 +1377,7 @@
    "location": "Atlanta, Georgia, United States; New York City",
    "url": "https://www.fanduel.careers/open-positions?gh_jid=8160790",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1377,7 +1387,7 @@
    "location": "Seattle, Washington, USA",
    "url": "https://www.amazon.jobs/en/jobs/10524019/senior-financial-analyst-amazon-music-amazon-music-finance",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1387,7 +1397,7 @@
    "location": "London, England, GBR",
    "url": "https://www.amazon.jobs/en/jobs/10523827/sr-financial-analyst-amazon-music-finance",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1397,7 +1407,7 @@
    "location": "San Francisco, CA; New York, NY",
    "url": "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1407,7 +1417,7 @@
    "location": "San Francisco, CA; New York, NY",
    "url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1417,7 +1427,7 @@
    "location": "San Francisco, CA",
    "url": "https://jobs.ashbyhq.com/Sierra/d9c445da-c7b4-43a3-8d71-d367681c3015",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1427,7 +1437,7 @@
    "location": "San Francisco, CA",
    "url": "https://jobs.ashbyhq.com/Sierra/02e1c456-8489-4a74-9fe7-af8845b040e4",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1437,7 +1447,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/decagon/5433ff3a-9a7c-406b-9dd8-23094141b907",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1447,7 +1457,7 @@
    "location": "San Francisco; New York City",
    "url": "https://jobs.ashbyhq.com/decagon/97f14fcf-d8ff-41b2-9108-d35ddd9f595e",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1457,7 +1467,7 @@
    "location": "San Francisco; New York City",
    "url": "https://jobs.ashbyhq.com/decagon/c68de30e-1293-48bd-8f8e-dbbbb7d204b9",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1467,7 +1477,7 @@
    "location": "San Francisco; Palo Alto",
    "url": "https://jobs.ashbyhq.com/Perplexity/8fe61c73-0daf-4432-a47d-44714c1ef764",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1477,7 +1487,7 @@
    "location": "Belgrade; London; Berlin",
    "url": "https://jobs.ashbyhq.com/Perplexity/3b349a2f-360e-44e6-a57d-6a87bc3016a7",
    "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1487,7 +1497,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/Perplexity/50a2def5-adeb-4f13-99c1-88c32482b772",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1497,7 +1507,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/Perplexity/4fba58de-a168-4948-9d82-a7d4b38f45f2",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1507,7 +1517,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/Perplexity/f4d81f6b-958c-4bc0-a9aa-9850c3508ca9",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1517,7 +1527,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/suno/2058717a-ac2a-4092-9c83-dc7f3241e789",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1527,7 +1537,7 @@
    "location": "New York",
    "url": "https://jobs.ashbyhq.com/claylabs/fe6c6fa6-67e0-40e7-bf2c-496134f983d3",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1537,7 +1547,7 @@
    "location": "London",
    "url": "https://jobs.ashbyhq.com/multiverse/f678fe12-cb69-44c0-aa70-6252777a597c",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1547,7 +1557,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/harvey/2ab9606f-4d25-4aef-b62f-43103de1d5a4",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1557,7 +1567,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/harvey/a725492f-3412-4699-a8cd-0d195bde3450",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1567,7 +1577,7 @@
    "location": "New York",
    "url": "https://jobs.ashbyhq.com/harvey/79bef873-33b0-4b8b-b5f0-2256b2751907",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1577,7 +1587,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/harvey/504ba806-2e23-47f4-887f-b4aa777faae5",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1587,7 +1597,7 @@
    "location": "New York",
    "url": "https://jobs.ashbyhq.com/harvey/976a512f-7665-4350-8258-098993c10ea1",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1597,7 +1607,7 @@
    "location": "London",
    "url": "https://jobs.ashbyhq.com/legora/c2def7d8-f236-4a78-bdb9-5616900dd746",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1607,7 +1617,7 @@
    "location": "London",
    "url": "https://jobs.ashbyhq.com/legora/3f351429-5b70-467c-99bc-b47b4e23c554",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1617,7 +1627,7 @@
    "location": "New York City",
    "url": "https://jobs.ashbyhq.com/legora/49cecda2-8691-4c72-ac8a-a5c9d8bcd008",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1627,7 +1637,7 @@
    "location": "San Francisco; California; United States",
    "url": "https://apply.workable.com/j/A98DBCEFCA",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1637,7 +1647,7 @@
    "location": "London; England; United Kingdom",
    "url": "https://apply.workable.com/j/8D32F7AE51",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1647,7 +1657,7 @@
    "location": "New York; New York; United States",
    "url": "https://apply.workable.com/j/1CAAF77FAF",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1657,7 +1667,7 @@
    "location": "San Francisco; California; United States",
    "url": "https://apply.workable.com/j/783ACAA674",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1667,7 +1677,7 @@
    "location": "Boston",
    "url": "https://jobs.ashbyhq.com/lovable/3944f55e-910f-4248-ba28-2c1e6143eb28",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1677,7 +1687,7 @@
    "location": "New York; Stockholm",
    "url": "https://jobs.ashbyhq.com/lovable/2bad82d6-3fd0-42a2-afbf-f1e9511057d4",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1687,7 +1697,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/cursor/9a175381-45e2-42b6-bd64-6c84532365f9",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1697,7 +1707,7 @@
    "location": "San Francisco; New York",
    "url": "https://jobs.ashbyhq.com/cursor/167f0e93-6915-4d56-803a-be89d1441fb5",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1707,7 +1717,7 @@
    "location": "SF Office",
    "url": "https://jobs.ashbyhq.com/abridge/480c4c99-2ca8-4dc7-ba6b-29a9ee28ed95",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1717,7 +1727,7 @@
    "location": "SF Office; NYC Office",
    "url": "https://jobs.ashbyhq.com/abridge/789a6426-0256-4f42-9382-5267733ddf14",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1727,7 +1737,7 @@
    "location": "SF Office",
    "url": "https://jobs.ashbyhq.com/abridge/c709786d-5d36-4c8a-b973-e4cd0c2a16cd",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1737,7 +1747,7 @@
    "location": "London",
    "url": "https://jobs.ashbyhq.com/cartesia/7e9aba9d-9335-46d2-bbde-247080a3d8d5",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1747,7 +1757,7 @@
    "location": "*HQ - San Francisco, CA",
    "url": "https://jobs.ashbyhq.com/cartesia/177c2be2-8610-48af-b129-308bac955112",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1757,7 +1767,7 @@
    "location": "San Francisco; New York City; London",
    "url": "https://jobs.ashbyhq.com/mercor/a0a98be0-d856-4129-b500-c0a3e412ef01",
    "posted": "2026-08-22",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1767,7 +1777,7 @@
    "location": "New York City",
    "url": "https://jobs.ashbyhq.com/mercor/59c997bf-7ec3-4631-bc4a-3dc5dbe30f28",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1777,7 +1787,7 @@
    "location": "New York City",
    "url": "https://jobs.ashbyhq.com/mercor/2b1d7c4b-721b-4ed7-b61b-7bdceeaaa702",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1787,7 +1797,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/mercor/bebd78ce-5f12-46e9-a285-674e33838211",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "error",
@@ -1795,7 +1805,7 @@
    "ats": "greenhouse",
    "endpoint": "https://boards-api.greenhouse.io/v1/boards/fireworksai/jobs",
    "error": "HTTP 404",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1805,7 +1815,7 @@
    "location": "New York, NY",
    "url": "https://jobs.ashbyhq.com/runway-ml/37be5175-5a9a-4bee-9b5e-fb475350806b",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1815,7 +1825,7 @@
    "location": "San Francisco Bay Area",
    "url": "https://job-boards.greenhouse.io/discord/jobs/8722538002",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1825,7 +1835,7 @@
    "location": "San Francisco Bay Area ",
    "url": "https://job-boards.greenhouse.io/discord/jobs/8730666002",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1835,7 +1845,7 @@
    "location": "Washington, DC",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8123231?t=gh_src=&gh_jid=8123231",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1845,7 +1855,7 @@
    "location": "London; GB; hybrid",
    "url": "https://jobs.lever.co/zopa/962f3756-6e45-480f-984c-64e024b57c4f",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1855,7 +1865,7 @@
    "location": "London; GB; hybrid",
    "url": "https://jobs.lever.co/zopa/60357b56-61ea-42d6-a449-56f26ca1f1e1",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1865,7 +1875,7 @@
    "location": "London; GB; hybrid",
    "url": "https://jobs.lever.co/zopa/6536d687-2c94-451e-b777-5a8fa316c97e",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1875,7 +1885,7 @@
    "location": "London; GB; hybrid",
    "url": "https://jobs.lever.co/zopa/2126949a-ebe9-4308-a1bc-f3fa3effd57b",
    "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1885,7 +1895,7 @@
    "location": "London, England, United Kingdom",
    "url": "https://job-boards.eu.greenhouse.io/clearscoretechnologylimited/jobs/4962201101",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1895,7 +1905,7 @@
    "location": "Hybrid - London, England",
    "url": "https://job-boards.greenhouse.io/oura/jobs/4383256009",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1905,7 +1915,7 @@
    "location": "New York",
    "url": "https://job-boards.greenhouse.io/soundcloud71/jobs/8755542002",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1915,7 +1925,7 @@
    "location": "London, UK",
    "url": "https://jobs.ashbyhq.com/distyl/515d64a3-77ac-4845-a9f3-154441761e30",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1925,7 +1935,7 @@
    "location": "United Kingdom, London",
    "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6166616004",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1935,7 +1945,7 @@
    "location": "Mountain View; CALIFORNIA; us",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146839729",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1945,7 +1955,7 @@
    "location": "San Francisco; California; us",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146802606",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1955,7 +1965,7 @@
    "location": "San Francisco; California; us",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146563519",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1965,7 +1975,7 @@
    "location": "Mountain View; California; us",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146539137",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1975,7 +1985,7 @@
    "location": "London; gb",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146024879",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1985,7 +1995,7 @@
    "location": "Mountain View; CALIFORNIA; us",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000145848354",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -1995,7 +2005,7 @@
    "location": "Mountain View; CALIFORNIA; us",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000145845739",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2005,7 +2015,7 @@
    "location": "Albany; New York; us",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000145578649",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2015,7 +2025,7 @@
    "location": "London; gb",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000144813179",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2025,7 +2035,7 @@
    "location": "London; gb",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000144741139",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2035,7 +2045,7 @@
    "location": "Kirkland; Washington; us",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000144607219",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2045,7 +2055,7 @@
    "location": "Mountain View; CALIFORNIA; us",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000144421079",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2055,7 +2065,7 @@
    "location": "Mountain View; CALIFORNIA; us",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000144420889",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2065,7 +2075,7 @@
    "location": "Mountain View; CALIFORNIA; us",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000144420159",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2075,7 +2085,7 @@
    "location": "London",
    "url": "https://jobs.ashbyhq.com/checkout.com/19615c6a-f769-4af6-80aa-ff90bd92c34b",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2085,7 +2095,7 @@
    "location": "London",
    "url": "https://jobs.ashbyhq.com/checkout.com/69e77801-efff-411c-889e-900d8b3b3ab5",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2095,7 +2105,7 @@
    "location": "London",
    "url": "https://jobs.ashbyhq.com/checkout.com/76517825-1e0b-47fd-b091-4542eac73f33",
    "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2105,7 +2115,7 @@
    "location": "London",
    "url": "https://jobs.ashbyhq.com/checkout.com/cc0a084c-2d4a-4577-8309-dda3d8ec18b8",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2115,7 +2125,7 @@
    "location": "New York City",
    "url": "https://jobs.ashbyhq.com/percepta/30e1aeb2-3a1f-4867-b494-97281207eb76",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2125,7 +2135,7 @@
    "location": "London, UK",
    "url": "https://jobs.ashbyhq.com/orbitalindustries/f61de282-ee9a-4849-a0de-6c9f13328bf7",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2135,7 +2145,7 @@
    "location": "London, UK",
    "url": "https://jobs.ashbyhq.com/orbitalindustries/47c0edc0-7f3f-4aac-85a8-fe32a3628ab4",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2145,7 +2155,7 @@
    "location": "London; England; gb",
    "url": "https://jobs.smartrecruiters.com/ASOS/744000146140939",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2155,7 +2165,7 @@
    "location": "London; England; gb",
    "url": "https://jobs.smartrecruiters.com/ASOS/744000146136339",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2165,7 +2175,7 @@
    "location": "London; England; gb",
    "url": "https://jobs.smartrecruiters.com/ASOS/744000145680899",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2175,7 +2185,7 @@
    "location": "London; England; gb",
    "url": "https://jobs.smartrecruiters.com/ASOS/744000145559874",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2185,7 +2195,7 @@
    "location": "London; England; gb",
    "url": "https://jobs.smartrecruiters.com/ASOS/744000145314499",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2195,7 +2205,7 @@
    "location": "London; England; gb",
    "url": "https://jobs.smartrecruiters.com/ASOS/744000145314149",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2205,7 +2215,7 @@
    "location": "London; England; gb",
    "url": "https://jobs.smartrecruiters.com/ASOS/744000145298719",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2215,7 +2225,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/Serval/711af20c-774f-4443-9ab5-acfead236a57",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   },
   {
    "type": "job",
@@ -2225,7 +2235,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/Serval/60e9f06a-e473-438d-b8e4-916f5dadc2f5",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T11:10:17.326Z"
+   "fetchedAt": "2026-09-02T11:22:43.555Z"
   }
  ]
 }
