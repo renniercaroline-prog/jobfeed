@@ -1,221 +1,161 @@
 {
  "summary": {
-  "boards": 5,
+  "boards": 4,
   "failed": [],
-  "jobsPushed": 21,
+  "jobsPushed": 15,
   "maxAgeDays": 30,
-  "fetchedAt": "2026-09-02T16:53:05.484Z"
+  "fetchedAt": "2026-09-02T17:41:38.989Z"
  },
  "rows": [
   {
    "type": "job",
-   "company": "Burberry",
-   "ats": "sfrss",
-   "title": "Client Experience & Insights Analyst",
-   "location": "London, GB",
-   "url": "https://burberrycareers.com/job/London-Client-Experience-&-Insights-Analyst-Not/1425766700/",
-   "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
-  },
-  {
-   "type": "job",
-   "company": "Burberry",
-   "ats": "sfrss",
-   "title": "Senior Manager, Finance Systems & Master Data",
-   "location": "London, GB",
-   "url": "https://burberrycareers.com/job/London-Senior-Manager%2C-Finance-Systems-&-Master-Data-Not/1422497900/",
+   "company": "Depop",
+   "ats": "workday",
+   "title": "Senior Machine Learning Engineer, Ranking",
+   "location": "London, UK",
+   "url": "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Senior-Machine-Learning-Engineer--Ranking_JR5407",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
+   "fetchedAt": "2026-09-02T17:41:38.989Z"
   },
   {
    "type": "job",
-   "company": "Burberry",
-   "ats": "sfrss",
-   "title": "Senior Manager, IT Internal Audit",
-   "location": "London, GB",
-   "url": "https://burberrycareers.com/job/London-Senior-Manager%2C-IT-Internal-Audit-Not/1385611200/",
+   "company": "Depop",
+   "ats": "workday",
+   "title": "Product Data Scientist",
+   "location": "London, UK",
+   "url": "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Product-Data-Scientist_JR5809",
+   "posted": "2026-08-20",
+   "fetchedAt": "2026-09-02T17:41:38.989Z"
+  },
+  {
+   "type": "job",
+   "company": "Depop",
+   "ats": "workday",
+   "title": "Senior Data Platform Engineer - Data Enablement",
+   "location": "London, UK",
+   "url": "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Senior-Data-Platform-Engineer_JR5548",
+   "posted": "2026-08-19",
+   "fetchedAt": "2026-09-02T17:41:38.989Z"
+  },
+  {
+   "type": "job",
+   "company": "Depop",
+   "ats": "workday",
+   "title": "Senior Data Engineer - Analytics Engineering",
+   "location": "London, UK",
+   "url": "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Senior-Data-Engineer_JR5465",
+   "posted": "2026-08-19",
+   "fetchedAt": "2026-09-02T17:41:38.989Z"
+  },
+  {
+   "type": "job",
+   "company": "Depop",
+   "ats": "workday",
+   "title": "Staff Machine Learning Scientist, Ranking",
+   "location": "London, UK",
+   "url": "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Staff-Machine-Learning-Scientist--Ranking_JR5355",
+   "posted": "2026-08-19",
+   "fetchedAt": "2026-09-02T17:41:38.989Z"
+  },
+  {
+   "type": "job",
+   "company": "Depop",
+   "ats": "workday",
+   "title": "Staff Machine Learning Scientist - Core ML",
+   "location": "London, UK",
+   "url": "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Staff-Machine-Learning-Scientist---Core-ML_JR5341",
+   "posted": "2026-08-19",
+   "fetchedAt": "2026-09-02T17:41:38.989Z"
+  },
+  {
+   "type": "job",
+   "company": "Depop",
+   "ats": "workday",
+   "title": "Senior Product Manager - Ranking (ML)",
+   "location": "London, UK",
+   "url": "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Senior-Product-Manager---Ranking--ML-_JR5787",
+   "posted": "2026-08-10",
+   "fetchedAt": "2026-09-02T17:41:38.989Z"
+  },
+  {
+   "type": "job",
+   "company": "Depop",
+   "ats": "workday",
+   "title": "Senior Data Platform Engineer - Data Infrastructure",
+   "location": "Depop - Remote, UK; London, UK",
+   "url": "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/Depop---Remote-UK/Senior-Data-Platform-Engineer_JR5437",
+   "posted": "2026-08-19",
+   "fetchedAt": "2026-09-02T17:41:38.989Z"
+  },
+  {
+   "type": "job",
+   "company": "Etsy",
+   "ats": "workday",
+   "title": "Market Research Analyst III",
+   "location": "Brooklyn, New York",
+   "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Market-Research-Analyst-III_JR5819-1",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-02T17:41:38.989Z"
+  },
+  {
+   "type": "job",
+   "company": "Etsy",
+   "ats": "workday",
+   "title": "Senior Director, Product Analytics",
+   "location": "Brooklyn, New York",
+   "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Senior-Director--Product-Analytics_JR5815-1",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
+   "fetchedAt": "2026-09-02T17:41:38.989Z"
   },
   {
    "type": "job",
-   "company": "EY",
-   "ats": "sfrss",
-   "title": "Manager, Tax Technology and Transformation, London",
-   "location": "London, GB, E14 5EY",
-   "url": "https://careers.ey.com/ey/job/London-Manager%2C-Tax-Technology-and-Transformation%2C-London-E14-5EY/1422857733/",
-   "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
+   "company": "Etsy",
+   "ats": "workday",
+   "title": "Senior Product Manager, Machine Learning, Ads",
+   "location": "Brooklyn, New York",
+   "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Senior-Product-Manager_JR5790-1",
+   "posted": "2026-08-20",
+   "fetchedAt": "2026-09-02T17:41:38.989Z"
   },
   {
    "type": "job",
-   "company": "EY",
-   "ats": "sfrss",
-   "title": "Talent Solutions Cross Functional AI Product Owner - Associate Director",
-   "location": "London, GB, SE1 2AF",
-   "url": "https://careers.ey.com/ey/job/London-Talent-Solutions-Cross-Functional-AI-Product-Owner-Associate-Director-SE1-2AF/1432982033/",
-   "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
-  },
-  {
-   "type": "job",
-   "company": "Burford Capital",
-   "ats": "sfrss",
-   "title": "Data Analyst",
-   "location": "London, UKM, GB, EC4M 8AB",
-   "url": "https://careers.burfordcapital.com/job/London-Data-Analyst-UKM-EC4M-8AB/1404382800/",
-   "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
-  },
-  {
-   "type": "job",
-   "company": "Burford Capital",
-   "ats": "sfrss",
-   "title": "Corporate Development Analyst",
-   "location": "London, UKM, GB, EC4M 8AB",
-   "url": "https://careers.burfordcapital.com/job/London-Corporate-Development-Analyst-UKM-EC4M-8AB/1356282100/",
-   "posted": "2026-08-05",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
-  },
-  {
-   "type": "job",
-   "company": "BCG X",
-   "ats": "phenom",
-   "title": "Forward Deployed AI Scientist, Campus, United States - BCG X",
-   "location": "Boston, Massachusetts, United States of America",
-   "url": "https://studenttalent.bcg.com/careerhub/explore/jobs/790317755880?post_onboarding_pid=790317755880&show_apply=1&profile_type=candidate&customredirect=1&utm_source=Phenom",
-   "posted": "2026-08-19",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
-  },
-  {
-   "type": "job",
-   "company": "BCG X",
-   "ats": "phenom",
-   "title": "Senior Analyst - BCG Vantage",
-   "location": "Washington, District of Columbia, United States of America",
-   "url": "https://experiencedtalent.bcg.com/careerhub/explore/jobs/790318179269?post_onboarding_pid=790318179269&show_apply=1&profile_type=candidate&customredirect=1&utm_source=Phenom",
-   "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
-  },
-  {
-   "type": "job",
-   "company": "BCG X",
-   "ats": "phenom",
-   "title": "NAMR Unlocking Potential Manager, Stakeholder Enablement & Programs",
-   "location": "Boston, Massachusetts, United States of America",
-   "url": "https://experiencedtalent.bcg.com/careerhub/explore/jobs/790317592271?post_onboarding_pid=790317592271&show_apply=1&profile_type=candidate&customredirect=1&utm_source=Phenom",
-   "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
-  },
-  {
-   "type": "job",
-   "company": "BCG X",
-   "ats": "phenom",
-   "title": "Forward Deployed AI Engineer, Campus, United States - BCG X",
-   "location": "Boston, Massachusetts, United States of America",
-   "url": "https://studenttalent.bcg.com/careerhub/explore/jobs/790317755881?post_onboarding_pid=790317755881&show_apply=1&profile_type=candidate&customredirect=1&utm_source=Phenom",
-   "posted": "2026-08-19",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
-  },
-  {
-   "type": "job",
-   "company": "BCG X",
-   "ats": "phenom",
-   "title": "Senior Analyst - BCG Vantage Technology, Media, and Telecommunications (TMT)",
-   "location": "Seattle, Washington, United States of America",
-   "url": "https://experiencedtalent.bcg.com/careerhub/explore/jobs/790317796098?post_onboarding_pid=790317796098&show_apply=1&profile_type=candidate&customredirect=1&utm_source=Phenom",
-   "posted": "2026-08-13",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
-  },
-  {
-   "type": "job",
-   "company": "BCG X",
-   "ats": "phenom",
-   "title": "Senior Analyst - BCG Vantage, Financial Institutions - Wealth Management",
-   "location": "New York, New York, United States of America",
-   "url": "https://experiencedtalent.bcg.com/careerhub/explore/jobs/790317673159?post_onboarding_pid=790317673159&show_apply=1&profile_type=candidate&customredirect=1&utm_source=Phenom",
-   "posted": "2026-08-05",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
-  },
-  {
-   "type": "job",
-   "company": "BCG X",
-   "ats": "phenom",
-   "title": "Principal Database Platform Engineer",
-   "location": "Boston, Massachusetts, United States of America",
-   "url": "https://experiencedtalent.bcg.com/careerhub/explore/jobs/790317873892?post_onboarding_pid=790317873892&show_apply=1&profile_type=candidate&customredirect=1&utm_source=Phenom",
-   "posted": "2026-08-18",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
-  },
-  {
-   "type": "job",
-   "company": "BCG X",
-   "ats": "phenom",
-   "title": "BCG X Global TA Strategy and Analytics Manager",
-   "location": "London, United Kingdom",
-   "url": "https://experiencedtalent.bcg.com/careerhub/explore/jobs/790317572754?post_onboarding_pid=790317572754&show_apply=1&profile_type=candidate&customredirect=1&utm_source=Phenom",
+   "company": "Etsy",
+   "ats": "workday",
+   "title": "Director of Analytics, Forecasting and Business Insights",
+   "location": "Brooklyn, New York",
+   "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Director-of-Analytics--Forecasting-and-Business-Insights_JR5693-1",
    "posted": "2026-08-11",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
+   "fetchedAt": "2026-09-02T17:41:38.989Z"
   },
   {
    "type": "job",
-   "company": "BCG X",
-   "ats": "phenom",
-   "title": "Senior Analyst- BCG Vantage, Technology, Media, and Telecommunications (TMT)",
-   "location": "London, United Kingdom",
-   "url": "https://experiencedtalent.bcg.com/careerhub/explore/jobs/790318248615?post_onboarding_pid=790318248615&show_apply=1&profile_type=candidate&customredirect=1&utm_source=Phenom",
-   "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
+   "company": "Etsy",
+   "ats": "workday",
+   "title": "Senior Staff Machine Learning Engineer",
+   "location": "Brooklyn, New York",
+   "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Senior-Staff-Machine-Learning-Engineer_JR5795-1",
+   "posted": "2026-08-10",
+   "fetchedAt": "2026-09-02T17:41:38.989Z"
   },
   {
    "type": "job",
-   "company": "BCG X",
-   "ats": "phenom",
-   "title": "Global Operational Innovations Senior Analyst",
-   "location": "London, United Kingdom",
-   "url": "https://experiencedtalent.bcg.com/careerhub/explore/jobs/790318307769?post_onboarding_pid=790318307769&show_apply=1&profile_type=candidate&customredirect=1&utm_source=Phenom",
+   "company": "Coach / Tapestry",
+   "ats": "workday",
+   "title": "Sr. Analyst, Retail Technology",
+   "location": "New York, New York, USA (Corporate Headquarters)",
+   "url": "https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Sr-Analyst--Retail-Technology_JR13070",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
+   "fetchedAt": "2026-09-02T17:41:38.989Z"
   },
   {
    "type": "job",
-   "company": "Conde Nast (Vogue)",
+   "company": "Coach / Tapestry",
    "ats": "workday",
-   "title": "Analyst, Finance Business Partner (Revenue)",
-   "location": "1 World Trade Center, New York, NY",
-   "url": "https://condenast.wd115.myworkdayjobs.com/CondeCareers/job/1-World-Trade-Center-New-York-NY/Analyst--Finance-Business-Partner--Revenue-_R-24524-1",
-   "posted": "2026-08-04",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
-  },
-  {
-   "type": "job",
-   "company": "Conde Nast (Vogue)",
-   "ats": "workday",
-   "title": "Lead, Privacy Engineering & Data Governance",
-   "location": "The Adelphi, London, GB",
-   "url": "https://condenast.wd115.myworkdayjobs.com/CondeCareers/job/The-Adelphi-London-GB/Senior-Data-Analyst_R-24297",
-   "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
-  },
-  {
-   "type": "job",
-   "company": "Conde Nast (Vogue)",
-   "ats": "workday",
-   "title": "US Payroll & Payroll Transformation, Director",
-   "location": "1 World Trade Center, New York, NY",
-   "url": "https://condenast.wd115.myworkdayjobs.com/CondeCareers/job/1-World-Trade-Center-New-York-NY/US-Payroll---Payroll-Transformation--Director_R-24803-2",
-   "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
-  },
-  {
-   "type": "job",
-   "company": "Conde Nast (Vogue)",
-   "ats": "workday",
-   "title": "Research Librarian",
-   "location": "1 World Trade Center, New York, NY",
-   "url": "https://condenast.wd115.myworkdayjobs.com/CondeCareers/job/1-World-Trade-Center-New-York-NY/Research-Librarian_R-24689-2",
-   "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T16:53:05.484Z"
+   "title": "Trading Analyst (FTC)",
+   "location": "Greater London, GBR (United Kingdom Corporate Office)",
+   "url": "https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/Greater-London-GBR-United-Kingdom-Corporate-Office/Trading-Analyst--FTC-_JR11795",
+   "posted": "2026-08-10",
+   "fetchedAt": "2026-09-02T17:41:38.989Z"
   }
  ]
 }
