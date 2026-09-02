@@ -1,522 +1,12 @@
 {
  "summary": {
-  "boards": 28,
+  "boards": 10,
   "failed": [],
-  "jobsPushed": 87,
+  "jobsPushed": 36,
   "maxAgeDays": 30,
-  "fetchedAt": "2026-09-02T16:04:14.399Z"
+  "fetchedAt": "2026-09-02T16:08:19.345Z"
  },
  "rows": [
-  {
-   "type": "job",
-   "company": "IMC Trading",
-   "ats": "greenhouse",
-   "title": "Data Center Engineer",
-   "location": "New York, United States",
-   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4954088101",
-   "posted": "2026-08-17",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Point72 / Cubist",
-   "ats": "greenhouse",
-   "title": "AI Instructor, Point72 Academy",
-   "location": "New York, NY",
-   "url": "https://boards.greenhouse.io/point72/jobs/8729688002?gh_jid=8729688002",
-   "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Point72 / Cubist",
-   "ats": "greenhouse",
-   "title": "Benefits Analyst",
-   "location": "New York, NY or Stamford, CT",
-   "url": "https://boards.greenhouse.io/point72/jobs/8678094002?gh_jid=8678094002",
-   "posted": "2026-08-04",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Point72 / Cubist",
-   "ats": "greenhouse",
-   "title": "Data Engineer, Knowledge Graph   ",
-   "location": "New York, NY",
-   "url": "https://boards.greenhouse.io/point72/jobs/8701705002?gh_jid=8701705002",
-   "posted": "2026-08-12",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Point72 / Cubist",
-   "ats": "greenhouse",
-   "title": "Quantitative Analyst, Structured Products Investment Team",
-   "location": "New York, NY",
-   "url": "https://boards.greenhouse.io/point72/jobs/8745810002?gh_jid=8745810002",
-   "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Point72 / Cubist",
-   "ats": "greenhouse",
-   "title": "Quantitative Developer Intern",
-   "location": "New York",
-   "url": "https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002",
-   "posted": "2026-08-17",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Point72 / Cubist",
-   "ats": "greenhouse",
-   "title": "Quant Library Developer, Macro Technology",
-   "location": "New York; London",
-   "url": "https://boards.greenhouse.io/point72/jobs/8408288002?gh_jid=8408288002",
-   "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Man Group / Man AHL",
-   "ats": "greenhouse",
-   "title": "Analyst, Discretionary Middle Office Accounting",
-   "location": "London",
-   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958911101",
-   "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Man Group / Man AHL",
-   "ats": "greenhouse",
-   "title": "Investment Specialists Analyst",
-   "location": "Boston",
-   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4965206101",
-   "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Man Group / Man AHL",
-   "ats": "greenhouse",
-   "title": "Junior Quant - Systematic Multi-Strat",
-   "location": "London",
-   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4965180101",
-   "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Man Group / Man AHL",
-   "ats": "greenhouse",
-   "title": "Portfolio Management Analyst",
-   "location": "New York",
-   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4933777101",
-   "posted": "2026-08-04",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Man Group / Man AHL",
-   "ats": "greenhouse",
-   "title": "Quant Researcher - Macro; Futures / FX",
-   "location": "London",
-   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4966466101",
-   "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Man Group / Man AHL",
-   "ats": "greenhouse",
-   "title": "Risk & Performance Analyst",
-   "location": "Boston",
-   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101",
-   "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Man Group / Man AHL",
-   "ats": "greenhouse",
-   "title": "Senior Analyst, Regulatory Reporting and Financial Accounting",
-   "location": "London",
-   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958206101",
-   "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Man Group / Man AHL",
-   "ats": "greenhouse",
-   "title": "Trade Support Analyst",
-   "location": "New York",
-   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4965210101",
-   "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Amigo",
-   "ats": "ashby",
-   "title": "Head of Research [NYC or SF]",
-   "location": "New York City",
-   "url": "https://jobs.ashbyhq.com/amigo/97296a49-82ca-4764-9026-880f64e739a0",
-   "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Mariana Minerals",
-   "ats": "ashby",
-   "title": "Machine Learning Engineer (Autonomy) ",
-   "location": "San Francisco HQ; Houston, TX; Ann Arbor, MI",
-   "url": "https://jobs.ashbyhq.com/marianaminerals/c9be8e0d-bb09-4792-954e-10451b170108",
-   "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Faculty",
-   "ats": "ashby",
-   "title": "Senior Data Scientist ",
-   "location": "UK - London",
-   "url": "https://jobs.ashbyhq.com/faculty/b33d0939-ba49-4b52-9580-c089c45d1556",
-   "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Faculty",
-   "ats": "ashby",
-   "title": "Research Scientist - AI Safety",
-   "location": "UK - London",
-   "url": "https://jobs.ashbyhq.com/faculty/188ecaba-2f9c-4a15-a86b-dc2f369f03bd",
-   "posted": "2026-08-06",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Faculty",
-   "ats": "ashby",
-   "title": "Forward Deployed Engineer",
-   "location": "UK - London",
-   "url": "https://jobs.ashbyhq.com/faculty/87b95736-0abf-4b18-b628-0083d52ec961",
-   "posted": "2026-08-10",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Faculty",
-   "ats": "ashby",
-   "title": "Senior Forward Deployed Engineer ",
-   "location": "UK - London",
-   "url": "https://jobs.ashbyhq.com/faculty/c7d3b4b9-fe50-4ebd-8f55-9c6c014014e8",
-   "posted": "2026-08-10",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Faculty",
-   "ats": "ashby",
-   "title": "Senior Data Scientist (Safety)  ",
-   "location": "UK - London",
-   "url": "https://jobs.ashbyhq.com/faculty/54729948-5b4a-404c-bea4-cec5759768b5",
-   "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Faculty",
-   "ats": "ashby",
-   "title": "Lead Machine Learning Engineer",
-   "location": "UK - London",
-   "url": "https://jobs.ashbyhq.com/faculty/73372b67-3d4d-43ec-98b7-282aaec7fd09",
-   "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Faculty",
-   "ats": "ashby",
-   "title": "Lead Data Scientist",
-   "location": "UK - London",
-   "url": "https://jobs.ashbyhq.com/faculty/1f2cb0a2-4aa5-4ce3-b9fd-b90990076b6d",
-   "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Campus Recruiter, Machine Learning and Quantitative Research",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/8229056002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Data Center Construction Project Manager ",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/8434049002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Data Center Engineer",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/5002846002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Data Center Mechanical Engineer",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/7934336002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Data Engineer",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/8631973002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Data Engineer",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/6558007002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Data Specialist",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/6110602002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Data Strategist",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/8690499002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Fundamental Research Analyst",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/8347286002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Grains and Oilseeds Analyst",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/8180726002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Machine Learning Educator",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/8056588002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Machine Learning Engineer",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/8611307002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Machine Learning Performance Engineer",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/7449077002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Machine Learning Research Engineer",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/6485460002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Machine Learning Researcher",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/8576928002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Machine Learning Researcher",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/8384490002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Machine Learning Researcher",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/4276720002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Oil and Refined Products Analyst/Trader",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/8413554002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Power Analyst/Trader",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/7950706002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Quantitative Researcher",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/8498547002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Quantitative Researcher",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/6302325002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Quantitative Researcher",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/8573726002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Quantitative Trader",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/4794171002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Quantitative Trader",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/8573523002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Quantitative Trader",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/8617344002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Senior Quantitative Researcher (OCaml Experience)",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/8751845002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
-  {
-   "type": "job",
-   "company": "Jane Street",
-   "ats": "janestreet",
-   "title": "Tools and Compilers Research and Development",
-   "location": "NYC",
-   "url": "https://www.janestreet.com/join-jane-street/position/5869205002/",
-   "posted": null,
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
-  },
   {
    "type": "job",
    "company": "Capital One",
@@ -525,7 +15,7 @@
    "location": "New York, NY",
    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Lead-Data-Engineer_R247610-1",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -535,7 +25,7 @@
    "location": "United States of America, Frisco, Texas; United States of America, New York, New York; United States of America, New York, New York; United States of America, Eagan, Minnesota",
    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Staff-Software-Engineer---Architect---AI--CoCounsel-FDE_JREQ200171",
    "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -545,7 +35,7 @@
    "location": "United States of America, Frisco, Texas; United States of America, New York, New York; United States of America, Richmond, Virginia; United States of America, New York, New York; United States of America, Eagan, Minnesota",
    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Senior-Software-Engineer---AI--CoCounsel-FDE_JREQ200170",
    "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -555,7 +45,7 @@
    "location": "United States of America, Frisco, Texas; United States of America, New York, New York; United States of America, Ann Arbor, Michigan; United States of America, Eagan, Minnesota",
    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Tax-Analyst_JREQ202419",
    "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -565,7 +55,7 @@
    "location": "Switzerland, Zug, Zug; United Kingdom, London",
    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Switzerland-Zug-Zug/Lead-Applied-Scientist--Document-Understanding_JREQ202341",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -575,7 +65,7 @@
    "location": "Switzerland, Zug, Zug; United Kingdom, London",
    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Switzerland-Zug-Zug/Senior-Applied-Scientist--Search---NLP-GenAI_JREQ201522-3",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -585,7 +75,7 @@
    "location": "New York",
    "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Senior-Business-Analyst_SR-45283-1",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -595,7 +85,7 @@
    "location": "New York",
    "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/AI-Enablement-Consultant_SR-44946-1",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -605,7 +95,7 @@
    "location": "New York",
    "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Data-Solutions-Architect_SR-45252-1",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -615,7 +105,7 @@
    "location": "New York",
    "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Technical-Life-Sciences-Consultant--Pharma--Data-Governance-_SR-44833",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -625,7 +115,7 @@
    "location": "New York",
    "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Principal-Program-Manager--Databricks---Enterprise-Data-Platforms_SR-44785",
    "posted": "2026-08-18",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -635,7 +125,7 @@
    "location": "London",
    "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/London/Senior-Data-Analytics-Consultant_SR-44857",
    "posted": "2026-08-12",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -645,7 +135,7 @@
    "location": "London",
    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Customer-AI-Developer-Specialist_R00314667",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -655,7 +145,7 @@
    "location": "London, South Bank Central",
    "url": "https://kantar.wd3.myworkdayjobs.com/KANTAR/job/London-South-Bank-Central/Research-Manager_R102531",
    "posted": "2026-08-26",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -665,7 +155,7 @@
    "location": "UK - London",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Machine-Learning-Scientist-III_R-109301",
    "posted": "2026-09-02",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -675,7 +165,7 @@
    "location": "UK - London",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Performance-Marketing-Analyst_R-107296-1",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -685,7 +175,7 @@
    "location": "UK - London",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Principal-Android-Engineer---Search-and-Recommendations-Experience_R-101945-1",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -695,7 +185,7 @@
    "location": "Washington - Seattle Campus",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Analytics-Partner--People-Analytics_R-106210-1",
    "posted": "2026-08-31",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -705,7 +195,7 @@
    "location": "Washington - Seattle Campus",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Analyst-Crisis-Operations_R-109163",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -715,7 +205,7 @@
    "location": "Washington - Seattle Campus",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Machine-Learning-Scientist---CRM-Marketing_R-105322-1",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -725,7 +215,7 @@
    "location": "UK - London",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Analyst-Crisis-Operations_R-108965-2",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -735,7 +225,7 @@
    "location": "UK - London",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Principal-Product-Manager---AI-Builder_R-108076-1",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -745,7 +235,7 @@
    "location": "UK - London",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Analyst---Sales-Operations_R-109060-2",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -755,7 +245,7 @@
    "location": "UK - London",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Data-Scientist--Analytics_R-107159",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -765,7 +255,7 @@
    "location": "UK - London",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Product-Manager-III--Analytics-Platform-Capabilities_R-107980-1",
    "posted": "2026-08-27",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -775,7 +265,7 @@
    "location": "Washington - Seattle Campus",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Machine-Learning-engineer---Distribution---Supply_R-106600",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -785,7 +275,7 @@
    "location": "Washington - Seattle Campus",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Data-Scientist-III--Media---Paid-Social-Analytics_R-109076",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -795,7 +285,7 @@
    "location": "UK - London",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Finance-Analyst_R-109217-1",
    "posted": "2026-08-25",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -805,7 +295,7 @@
    "location": "Washington - Seattle Campus",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Director--Machine-Learning-Science---Marketing_R-107109",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -815,7 +305,7 @@
    "location": "UK - London",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Data-Scientist-III--Analytics--B2B-Supply-Optimisation-_R-106959",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -825,7 +315,7 @@
    "location": "Washington - Seattle Campus",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Software-Development-Engineer---AI-Foundations_R-105310-1",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -835,7 +325,7 @@
    "location": "Washington - Seattle Campus",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Principal-Program-Manager---Transformation-Programs_R-108948",
    "posted": "2026-08-18",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -845,7 +335,7 @@
    "location": "UK - London",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Data-Platform-Engineer--Data-Lake-and-Catalog-_R-107322-1",
    "posted": "2026-08-18",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -855,7 +345,7 @@
    "location": "Washington - Seattle Campus",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Cyber-Threat-Intelligence-Analyst-III_R-108216",
    "posted": "2026-08-11",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -865,7 +355,7 @@
    "location": "Washington - Seattle Campus",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Machine-Learning-Engineer_R-108467",
    "posted": "2026-08-10",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   },
   {
    "type": "job",
@@ -875,7 +365,7 @@
    "location": "Washington - Seattle Campus",
    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Principal-Analyst---Security-Operations_R-108156",
    "posted": "2026-08-06",
-   "fetchedAt": "2026-09-02T16:04:14.399Z"
+   "fetchedAt": "2026-09-02T16:08:19.345Z"
   }
  ]
 }
