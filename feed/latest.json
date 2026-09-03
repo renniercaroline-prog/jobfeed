@@ -1,12 +1,5552 @@
 {
  "summary": {
-  "boards": 4,
-  "failed": [],
-  "jobsPushed": 15,
-  "maxAgeDays": 30,
-  "fetchedAt": "2026-09-02T17:41:38.989Z"
+  "boards": 392,
+  "failed": [
+   "Fireworks AI"
+  ],
+  "jobsPushed": 557,
+  "maxAgeDays": 14,
+  "fetchedAt": "2026-09-03T05:00:26.033Z"
  },
  "rows": [
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "AI Engineer, GTM Claudification ",
+   "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390966008",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Applied AI Architect, Cyber",
+   "location": "San Francisco, CA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387733008",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Applied AI Architect, Startups",
+   "location": "San Francisco, CA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5406982008",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Applied AI Architect, Strategic Enterprise Tech",
+   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409008008",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
+   "location": "San Francisco, CA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5021015008",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Applied AI Research (Capabilities)",
+   "location": "San Francisco, CA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5129961008",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Applied AI Strategist, EMEA",
+   "location": "London, UK",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390791008",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Business Systems Analyst",
+   "location": "London, UK",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398753008",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Data Center Energy Lead, EMEA",
+   "location": "London, UK",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5405710008",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Data Center Operations Lead - Partner Site Operations",
+   "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398280008",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Director, US International Tax Planning",
+   "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387009008",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Incident Management Lead, Data Center Security",
+   "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5396282008",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Manager, Applied AI Architect, Enterprise Tech",
+   "location": "San Francisco, CA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387754008",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Manager Applied AI Architecture, Financial Services",
+   "location": "New York City, NY; San Francisco, CA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390894008",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Manager Applied AI Architecture, Healthcare & Life Sciences",
+   "location": "New York City, NY; San Francisco, CA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390890008",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Manufacturing Quality Engineer, Data Center Power & Cooling",
+   "location": "San Francisco, CA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397596008",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Partnership Manager, AI for Science",
+   "location": "San Francisco, CA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5407938008",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Product Manager, Claude Science",
+   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394887008",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Regional Manager EMEA, Data Center Capacity Delivery",
+   "location": "London, UK",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5399221008",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Regulatory Counsel, AI Regulation, US",
+   "location": "San Francisco, CA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409299008",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Repairs Program Lead - Data Center Operations",
+   "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5399160008",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Research Manager, Biological Safety",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412944008",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Reseller Enablement Lead",
+   "location": "London, UK",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391269008",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Safeguards Enforcement Analyst, Conventional Weapons",
+   "location": "New York City, NY; Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5410006008",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Safeguards Policy Analyst, Cyber Harms",
+   "location": "San Francisco, CA | Washington, DC",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397711008",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Sales Enablement Lead, GTM Onboarding",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390972008",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Staff+ Research Engineer, RL Data Platform",
+   "location": "San Francisco, CA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5404725008",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anthropic",
+   "ats": "greenhouse",
+   "title": "Staff+ Software Engineer, RL Data Platform",
+   "location": "San Francisco, CA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5404730008",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Research Program Manager ",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/c7c5ef17-af83-483c-a825-f461f9f63b17",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Applied AI Engineer, Cyber, Government",
+   "location": "Washington, DC",
+   "url": "https://jobs.ashbyhq.com/openai/be7b1bf5-37ab-40f7-9ec1-e9732244f12a",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Analytics Engineer, GTM",
+   "location": "San Francisco; New York City",
+   "url": "https://jobs.ashbyhq.com/openai/bc0d4a9f-235f-4a4b-a854-c6cb0322ccaa",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Manager, Applied AI Engineering (Digital Natives)",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/ba2ead69-d118-4a91-a4d7-c880d17fa7f9",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Trust & Safety Ads Operations Analyst, Programs",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/c9e9e3a5-fb93-4162-b876-6266016819c0",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Applied AI Architect - EDU",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Enablement Lead, Government",
+   "location": "Washington, DC",
+   "url": "https://jobs.ashbyhq.com/openai/4cfc6b6b-dd8f-4101-897d-3217e45db1e4",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Manager, Applied AI Engineering (Startups)",
+   "location": "San Francisco; New York City",
+   "url": "https://jobs.ashbyhq.com/openai/7bdb15f0-1e3b-4352-b948-47fb35f25d71",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "People Research Data Scientist, AI Fairness & Bias",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/cadb7c24-2aea-4b98-a793-65ae9388b5d6",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Trust & Safety Ads Operations Analyst, Data",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/26e8c199-7dcb-4144-b263-f35220421a6d",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Data Center Physical Security Systems Engineer",
+   "location": "US - Remote; New York City; Seattle; Washington, DC; San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/f69f75f5-439f-4044-8ae1-8fd810e0402d",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Manager, Applied AI Engineering  (Enterprise)",
+   "location": "New York City; San Francisco; Mountain View",
+   "url": "https://jobs.ashbyhq.com/openai/0a24703f-6108-4422-807e-78831dd98ed1",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Strategic Sourcing Manager, Data Center Infrastructure, Owner Furnished Equipment",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/831e2f91-c213-4208-9eb3-4ce2cc6b9acf",
+   "posted": "2026-08-23",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Manufacturing Quality Engineer – Datacenter Infrastructure",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/ece054ea-ac75-4b8a-bdbf-5cdf19368312",
+   "posted": "2026-08-23",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Software Engineer, AI accelerator Runtime",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/9248eab6-74e0-4940-98eb-ca09b17da532",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "AI Deployment Manager - Builder ",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/9675cfd2-a983-49d7-80db-d3d58c42eb08",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Forward Deployed Engineer (FDE), Legal-NYC",
+   "location": "New York City",
+   "url": "https://jobs.ashbyhq.com/openai/51977acc-b1f8-48af-bde6-95ddba936d65",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "AI Support Engineer, Government - San Francisco, CA",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/48993416-b5f5-4c3f-b7c8-b8ca7c2395e0",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "AI Support Engineer, Government - Washington, D.C.",
+   "location": "Washington, DC",
+   "url": "https://jobs.ashbyhq.com/openai/6d1d835d-5882-4191-b78e-fd04a4c05f11",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Technical Operations Analyst, User Safety & Risk",
+   "location": "London, UK",
+   "url": "https://jobs.ashbyhq.com/openai/0f78e08a-669d-4d87-960f-518c649e6700",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Strategic Finance, International & Marketing",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/5b85c0cc-3f19-4b96-9bd3-3b7521e54f44",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Machine Learning Engineer, Multimodal Perception and Authentication",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/1b268692-70d8-46c2-a347-2f7705b5c174",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Research Engineer / Research Scientist, Health",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/719cc0f6-ed38-41db-8870-299b4d336f37",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "People Research Scientist",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/5a682b9f-ef1a-4e47-813a-72b23414d43e",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Data Center Infrastructure Architect",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/65bc2ffe-a622-47cd-949c-2ca8b7ec6951",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Manager, Applied AI Engineering (Codex)",
+   "location": "San Francisco; New York City",
+   "url": "https://jobs.ashbyhq.com/openai/b28b990c-54e4-4be4-a33a-d5518dc3e117",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Forward Deployed Engineer (FDE), Legal-SF",
+   "location": "New York City",
+   "url": "https://jobs.ashbyhq.com/openai/832094fd-4d89-4fe4-bc18-9ba88d347a18",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Marketing Scientist",
+   "location": "San Francisco; New York City",
+   "url": "https://jobs.ashbyhq.com/openai/6c21e5e0-a41c-4936-a278-dd7d2c88f25c",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Marketing Scientist - EMEA (London)",
+   "location": "London, UK",
+   "url": "https://jobs.ashbyhq.com/openai/aa55ee20-b904-44c1-8cc7-d9160fc8b341",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Senior Counsel, AI & Product Compliance",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/2afc5695-a2f8-4832-bf66-a2ca5f0615dc",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Applied AI Architect, Government",
+   "location": "Washington, DC",
+   "url": "https://jobs.ashbyhq.com/openai/6882c919-600e-43c8-92f9-803d4eb3bcd2",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Applied AI Architect, Education",
+   "location": "London, UK",
+   "url": "https://jobs.ashbyhq.com/openai/98bffd0e-05cf-4748-93f1-b115c84e37b4",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Technical Program Manager, Foundations Data and Operations",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/c0f0136e-f4e7-43ca-b3d5-4d7aee5eed7f",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Researcher, Alignment Interpretability",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/d4983a0f-1004-4f27-94b3-e1a38c168c1a",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Enablement Lead - Knowledge Work",
+   "location": "London, UK",
+   "url": "https://jobs.ashbyhq.com/openai/78a49da9-b768-427e-ad01-3e61d80cfea8",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Mistral AI",
+   "ats": "ashby",
+   "title": "Staff AI Deployment Strategist - UK & Nordics",
+   "location": "London; Amsterdam",
+   "url": "https://jobs.ashbyhq.com/mistral.ai/2c1ff089-db74-467c-b17d-608713e43699",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Mistral AI",
+   "ats": "ashby",
+   "title": "AI Deployment Strategist, Critical and Sovereign Institutions - UK",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/mistral.ai/ee9d2f24-527c-4ad8-b50e-6dbacee081f4",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Cohere",
+   "ats": "ashby",
+   "title": "Forward Deployed Engineer, Agentic Platform",
+   "location": "United States; New Jersey; Boston; Canada; New York; Washington, DC; Ottawa; Toronto; Montreal",
+   "url": "https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Cohere",
+   "ats": "ashby",
+   "title": "Forward Deployed Engineer, Agentic Platform (West Coast)",
+   "location": "San Francisco; Salt Lake City; Phoenix; Seattle; Los Angeles; Vancouver",
+   "url": "https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Cohere",
+   "ats": "ashby",
+   "title": "Senior Technical Program Manager, Machine Learning Infrastructure",
+   "location": "Canada; Boston; Chicago; New York; Miami; New Jersey; Atlanta; Washington, DC; Ottawa; Montreal",
+   "url": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Cohere",
+   "ats": "ashby",
+   "title": "Forward Deployed Engineer, Infrastructure Specialist (UK Public Sector)",
+   "location": "United Kingdom; Europe; London",
+   "url": "https://jobs.ashbyhq.com/cohere/a0f174cf-4407-4334-b812-45a767092fca",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Cohere",
+   "ats": "ashby",
+   "title": "Forward Deployed Engineer, Agentic Platform (UK Public Sector)",
+   "location": "United Kingdom; Europe; London",
+   "url": "https://jobs.ashbyhq.com/cohere/691982e3-9357-42e4-b4c3-a65cae906935",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Cohere",
+   "ats": "ashby",
+   "title": "People Operations Manager, Data & Reporting",
+   "location": "Toronto; United States; New York",
+   "url": "https://jobs.ashbyhq.com/cohere/5476ce62-13bd-497b-b988-0a8f85cf6262",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ElevenLabs",
+   "ats": "ashby",
+   "title": "Data Scientist - AI Safety",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/507e390a-eaeb-4000-936e-83e3e498c760",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Synthesia",
+   "ats": "ashby",
+   "title": "Revenue Enablement Manager, Onboarding",
+   "location": "New York City",
+   "url": "https://jobs.ashbyhq.com/synthesia/243dc52d-8367-4ff9-9d71-8c41437ba6e1",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wayve",
+   "ats": "greenhouse",
+   "title": "Machine Learning Engineer (Closed Loop)",
+   "location": "London",
+   "url": "https://wayve.firststage.co/jobs?gh_jid=8749904002",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wayve",
+   "ats": "greenhouse",
+   "title": "Machine Learning Engineer, Performance Tooling",
+   "location": "London; Sunnyvale",
+   "url": "https://wayve.firststage.co/jobs?gh_jid=8763509002",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wayve",
+   "ats": "greenhouse",
+   "title": "Machine Learning Engineer (Synthetic Data)",
+   "location": "London",
+   "url": "https://wayve.firststage.co/jobs?gh_jid=8749921002",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wayve",
+   "ats": "greenhouse",
+   "title": "Senior Data Scientist",
+   "location": "London",
+   "url": "https://wayve.firststage.co/jobs?gh_jid=8738575002",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wayve",
+   "ats": "greenhouse",
+   "title": "Senior Software Engineer, Data",
+   "location": "London",
+   "url": "https://wayve.firststage.co/jobs?gh_jid=8745289002",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wayve",
+   "ats": "greenhouse",
+   "title": "Staff Machine Learning Engineer - Ops",
+   "location": "London",
+   "url": "https://wayve.firststage.co/jobs?gh_jid=8749902002",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Isomorphic Labs",
+   "ats": "greenhouse",
+   "title": "Research Leader / Senior Scientist (Computational Drug Design), Cambridge, MA",
+   "location": "Cambridge, MA",
+   "url": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/6140838004",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Scale AI",
+   "ats": "greenhouse",
+   "title": "Data Acquisition Lead, Frontier Environments",
+   "location": "San Francisco, CA; New York, NY",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4725509005",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Scale AI",
+   "ats": "greenhouse",
+   "title": "Machine Learning Research Scientist, Evaluations",
+   "location": "San Francisco, CA; Seattle, WA; New York, NY",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4728014005",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Scale AI",
+   "ats": "greenhouse",
+   "title": "Program Manager, Sales Enablement",
+   "location": "Washington, DC",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4727138005",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Scale AI",
+   "ats": "greenhouse",
+   "title": "Program Manager, Technical Enablement",
+   "location": "San Francisco, CA; New York, NY",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4727135005",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Scale AI",
+   "ats": "greenhouse",
+   "title": "Senior Data Analyst, Public Sector",
+   "location": "Washington, DC",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729899005",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Palantir",
+   "ats": "lever",
+   "title": "Forward Deployed Infrastructure Engineer, New Grad - UK Government",
+   "location": "London, United Kingdom; GB; hybrid",
+   "url": "https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Sia Partners",
+   "ats": "smartrecruiters",
+   "title": "Manager, Forward Deployed Engineer",
+   "location": "San Francisco; CA; us",
+   "url": "https://jobs.smartrecruiters.com/Sia/744000146822484",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Sia Partners",
+   "ats": "smartrecruiters",
+   "title": "Manager, Forward Deployed Engineer",
+   "location": "New York; NY; us",
+   "url": "https://jobs.smartrecruiters.com/Sia/744000146566518",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Sia Partners",
+   "ats": "smartrecruiters",
+   "title": "AI Transformation & Strategy Consultant",
+   "location": "San Francisco; CA; us",
+   "url": "https://jobs.smartrecruiters.com/Sia/744000145662822",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Sia Partners",
+   "ats": "smartrecruiters",
+   "title": "AI Transformation & Strategy Consultant",
+   "location": "New York; NY; us",
+   "url": "https://jobs.smartrecruiters.com/Sia/744000145662992",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Sia Partners",
+   "ats": "smartrecruiters",
+   "title": "Senior Manager, Agentic AI Transformation - Banking & Capital Markets ",
+   "location": "New York; NY; us",
+   "url": "https://jobs.smartrecruiters.com/Sia/744000145339480",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Monzo",
+   "ats": "greenhouse",
+   "title": "Anaplan Support Analyst",
+   "location": "Cardiff, London or Remote (UK)",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8143930",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Monzo",
+   "ats": "greenhouse",
+   "title": "Director of Data, Payments",
+   "location": "Cardiff, London or Remote (UK)",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8146871",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Monzo",
+   "ats": "greenhouse",
+   "title": "FP&A Data & Analytics Manager",
+   "location": "Cardiff, London or Remote (UK)",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8156063",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Monzo",
+   "ats": "greenhouse",
+   "title": "Senior Financial Control Analyst ",
+   "location": "London",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8158933",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Stripe",
+   "ats": "greenhouse",
+   "title": "Data Excellence Manager ",
+   "location": "US Remote, Chicago, SF, Seattle, NYC",
+   "url": "https://stripe.com/jobs/search?gh_jid=8106026",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Stripe",
+   "ats": "greenhouse",
+   "title": "Software Engineer, Intern",
+   "location": "London",
+   "url": "https://stripe.com/jobs/search?gh_jid=8130867",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Stripe",
+   "ats": "greenhouse",
+   "title": "Software Engineer, Intern (Summer or Winter)",
+   "location": "San Francisco, Seattle, New York City",
+   "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Stripe",
+   "ats": "greenhouse",
+   "title": "Software Engineer, New Grad",
+   "location": "London",
+   "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Stripe",
+   "ats": "greenhouse",
+   "title": "Software Engineer, New Grad",
+   "location": "San Francisco, Seattle, New York",
+   "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Stripe",
+   "ats": "greenhouse",
+   "title": "Specialist Solutions Architect, Data",
+   "location": "SF, NY, Remote",
+   "url": "https://stripe.com/jobs/search?gh_jid=8144262",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Stripe",
+   "ats": "greenhouse",
+   "title": "Staff Machine Learning Engineer, Financial Connections",
+   "location": "New York",
+   "url": "https://stripe.com/jobs/search?gh_jid=8148653",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Stripe",
+   "ats": "greenhouse",
+   "title": "Strategy & Transformation Advisor (Enterprise Commerce Architecture)",
+   "location": "San Francisco or Seattle",
+   "url": "https://stripe.com/jobs/search?gh_jid=8139711",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Plaid",
+   "ats": "ashby",
+   "title": "Senior Data Engineer - Data Engineering",
+   "location": "San Francisco HQ; Seattle Office; New York City Office",
+   "url": "https://jobs.ashbyhq.com/plaid/ce3b3add-47d9-402d-a31d-16ffd1d0adb4",
+   "posted": "2026-09-03",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Plaid",
+   "ats": "ashby",
+   "title": "Partner Marketing Manager (AI & Financial Partners)",
+   "location": "San Francisco HQ; New York City Office",
+   "url": "https://jobs.ashbyhq.com/plaid/8efcc88b-48eb-486a-bf63-ff9143af7250",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Plaid",
+   "ats": "ashby",
+   "title": "Senior Data Scientist - Network Value (Credit)",
+   "location": "San Francisco HQ; Seattle Office; New York City Office",
+   "url": "https://jobs.ashbyhq.com/plaid/172bb8e8-7dc8-4fdc-ae20-525456989ff4",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Plaid",
+   "ats": "ashby",
+   "title": "Revenue Enablement Leader",
+   "location": "Remote United States; San Francisco HQ",
+   "url": "https://jobs.ashbyhq.com/plaid/e7536a96-d3d5-4f20-bbeb-aef633be45e0",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Plaid",
+   "ats": "ashby",
+   "title": "Senior Data Engineer",
+   "location": "New York City Office",
+   "url": "https://jobs.ashbyhq.com/plaid/eeb094c3-da73-411e-8dda-b3f4ee397f97",
+   "posted": "2026-09-03",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Starling Bank",
+   "ats": "workable",
+   "title": "Information Security Analyst - SecOps Detection",
+   "location": "London; England; United Kingdom",
+   "url": "https://apply.workable.com/j/5C283BDF08",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Starling Bank",
+   "ats": "workable",
+   "title": "Information Security Analyst - SecOps Response",
+   "location": "London; England; United Kingdom",
+   "url": "https://apply.workable.com/j/AAB5597D78",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Starling Bank",
+   "ats": "workable",
+   "title": "Junior Information Security Analyst (GRC) - Engine by Starling",
+   "location": "London; England; United Kingdom",
+   "url": "https://apply.workable.com/j/B465795049",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Starling Bank",
+   "ats": "workable",
+   "title": "Quantum Cryptography Architect",
+   "location": "London; England; United Kingdom",
+   "url": "https://apply.workable.com/j/1D8E055437",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Starling Bank",
+   "ats": "workable",
+   "title": "Treasury IRRBB Analyst: Quantitative Analytics",
+   "location": "London; England; United Kingdom",
+   "url": "https://apply.workable.com/j/77F198D9DC",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Ramp",
+   "ats": "ashby",
+   "title": "GTM Senior Business Systems Analyst",
+   "location": "New York, NY (HQ); San Francisco, CA; Miami, FL",
+   "url": "https://jobs.ashbyhq.com/ramp/87de7e0e-5214-49bc-bb81-54782e9c3ad5",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Ramp",
+   "ats": "ashby",
+   "title": "AI Solutions Engineer",
+   "location": "New York, NY (HQ)",
+   "url": "https://jobs.ashbyhq.com/ramp/8efd3a0a-fc66-46e2-9415-bffba10e2919",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Ramp",
+   "ats": "ashby",
+   "title": "AI Solutions Strategist",
+   "location": "New York, NY (HQ)",
+   "url": "https://jobs.ashbyhq.com/ramp/cbdf2857-1675-4b68-8cb5-2f92a20faa75",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Reddit",
+   "ats": "greenhouse",
+   "title": "Senior Client Account Manager, Global Strategic Accounts (Tech/AI)",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8017242",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Pinterest",
+   "ats": "greenhouse",
+   "title": "Content Enablement Lead",
+   "location": "London, UK",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8122109",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Pinterest",
+   "ats": "greenhouse",
+   "title": "Machine Learning Engineer II, Responsible AI",
+   "location": "San Francisco, CA, US; Remote, US",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8162046",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Pinterest",
+   "ats": "greenhouse",
+   "title": "Principal Engineer, Big Data Platform",
+   "location": "San Francisco, CA, US; Remote, US",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7683981",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Pinterest",
+   "ats": "greenhouse",
+   "title": "Security GRC Analyst",
+   "location": "San Francisco, CA, US; Remote, US",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684583",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Pinterest",
+   "ats": "greenhouse",
+   "title": "Sr. Product Designer, Merchant AI-first Support",
+   "location": "San Francisco, CA, US; Remote, US",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7638574",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Pinterest",
+   "ats": "greenhouse",
+   "title": "Sr. Staff Software Engineer, Big Data Platform",
+   "location": "Palo Alto; Seattle, WA; New York, NY; San Francisco, CA, US; Remote, US",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494956",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Pinterest",
+   "ats": "greenhouse",
+   "title": "Staff Software Engineer, Data Warehouse Foundation ",
+   "location": "Palo Alto, CA, US; Remote, US",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8076015",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Duolingo",
+   "ats": "greenhouse",
+   "title": "Senior Data Scientist, Growth Forecasting",
+   "location": "New York, NY",
+   "url": "https://careers.duolingo.com/jobs/8750637002?gh_jid=8750637002",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Duolingo",
+   "ats": "greenhouse",
+   "title": "Senior Data Scientist, User Growth",
+   "location": "New York, NY",
+   "url": "https://careers.duolingo.com/jobs/8750587002?gh_jid=8750587002",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Duolingo",
+   "ats": "greenhouse",
+   "title": "Senior Marketing Analytics Manager",
+   "location": "New York, NY",
+   "url": "https://careers.duolingo.com/jobs/8759720002?gh_jid=8759720002",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Duolingo",
+   "ats": "greenhouse",
+   "title": "Staff Product Researcher",
+   "location": "New York, NY",
+   "url": "https://careers.duolingo.com/jobs/8750456002?gh_jid=8750456002",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Known (NYC agency)",
+   "ats": "greenhouse",
+   "title": "Manager, Data & Media Science",
+   "location": "New York, NY",
+   "url": "https://job-boards.greenhouse.io/known/jobs/8728901002",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Spotify",
+   "ats": "lever",
+   "title": "Data Scientist - Audiobooks Analytics",
+   "location": "London; GB; hybrid",
+   "url": "https://jobs.lever.co/spotify/a4b0ebfd-86e2-4fe4-8c3e-3773220224d0",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "FanDuel",
+   "ats": "greenhouse",
+   "title": " Senior UX Researcher",
+   "location": "Atlanta, Georgia, United States; New York City",
+   "url": "https://www.fanduel.careers/open-positions?gh_jid=8160790",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Amazon (Music/entertainment)",
+   "ats": "amazon",
+   "title": "Senior Financial Analyst, Amazon Music, Amazon Music Finance",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10524019/senior-financial-analyst-amazon-music-amazon-music-finance",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Amazon (Music/entertainment)",
+   "ats": "amazon",
+   "title": "Sr. Financial Analyst, Amazon Music Finance",
+   "location": "London, England, GBR",
+   "url": "https://www.amazon.jobs/en/jobs/10523827/sr-financial-analyst-amazon-music-finance",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Sierra",
+   "ats": "ashby",
+   "title": "Software Engineer, Agent (New Grad 2027)",
+   "location": "San Francisco, CA; New York, NY",
+   "url": "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Sierra",
+   "ats": "ashby",
+   "title": "Intern, Agent Development (Summer 2027)",
+   "location": "San Francisco, CA; New York, NY",
+   "url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Sierra",
+   "ats": "ashby",
+   "title": "APX (New Grad 2027)",
+   "location": "San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/Sierra/d9c445da-c7b4-43a3-8d71-d367681c3015",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Sierra",
+   "ats": "ashby",
+   "title": "Intern, Agent Development (Winter 2027)",
+   "location": "San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/Sierra/02e1c456-8489-4a74-9fe7-af8845b040e4",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Decagon",
+   "ats": "ashby",
+   "title": "Senior Software Engineer, Data Infrastructure",
+   "location": "San Francisco; New York City",
+   "url": "https://jobs.ashbyhq.com/decagon/97f14fcf-d8ff-41b2-9108-d35ddd9f595e",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Decagon",
+   "ats": "ashby",
+   "title": "AI Acceleration Engineer",
+   "location": "San Francisco; New York City",
+   "url": "https://jobs.ashbyhq.com/decagon/c68de30e-1293-48bd-8f8e-dbbbb7d204b9",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Perplexity",
+   "ats": "ashby",
+   "title": "Member of Technical Staff (AI Researcher)",
+   "location": "San Francisco; Palo Alto",
+   "url": "https://jobs.ashbyhq.com/Perplexity/8fe61c73-0daf-4432-a47d-44714c1ef764",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Perplexity",
+   "ats": "ashby",
+   "title": "Member of Technical Staff (Search Quality Analyst)",
+   "location": "Belgrade; London; Berlin",
+   "url": "https://jobs.ashbyhq.com/Perplexity/3b349a2f-360e-44e6-a57d-6a87bc3016a7",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Perplexity",
+   "ats": "ashby",
+   "title": "Member of Technical Staff (AI Software Engineer, Agents)",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/Perplexity/50a2def5-adeb-4f13-99c1-88c32482b772",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Perplexity",
+   "ats": "ashby",
+   "title": "Forward Deployed Engineer, Perplexity Computer",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/Perplexity/4fba58de-a168-4948-9d82-a7d4b38f45f2",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Perplexity",
+   "ats": "ashby",
+   "title": "Strategic Finance Lead - AI",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/Perplexity/f4d81f6b-958c-4bc0-a9aa-9850c3508ca9",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Perplexity",
+   "ats": "ashby",
+   "title": "Product Manager, AI Capabilities",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/Perplexity/7f880194-7276-4b46-8a50-58b48da8882e",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Glean",
+   "ats": "greenhouse",
+   "title": "Solutions Engineer, UK",
+   "location": "London",
+   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4729652005",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Suno",
+   "ats": "ashby",
+   "title": "Senior / Staff Data Scientist, Trust & Safety",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/suno/2058717a-ac2a-4092-9c83-dc7f3241e789",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Multiverse",
+   "ats": "ashby",
+   "title": "Senior AI Engineer - AI Transformation",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/multiverse/58389a21-a599-43b6-9869-9885a16e2072",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Multiverse",
+   "ats": "ashby",
+   "title": "Staff AI Engineer - AI Transformation",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/multiverse/758c98cd-fce3-49e7-b81d-a003dfe7ac4f",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Multiverse",
+   "ats": "ashby",
+   "title": "Staff AI Engineer , Edinburgh",
+   "location": "Edinburgh",
+   "url": "https://jobs.ashbyhq.com/multiverse/6432c2ca-10c9-482b-a293-1f3ad60fff3d",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Multiverse",
+   "ats": "ashby",
+   "title": "Senior AI Engineer, Edinburgh",
+   "location": "Edinburgh",
+   "url": "https://jobs.ashbyhq.com/multiverse/4d5f938e-1833-442e-a32e-415ed5fb2c64",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Multiverse",
+   "ats": "ashby",
+   "title": "Director of Data Products ",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/multiverse/f678fe12-cb69-44c0-aa70-6252777a597c",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Harvey",
+   "ats": "ashby",
+   "title": "Senior Systems Analyst, Recruiting Operations",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/harvey/2ab9606f-4d25-4aef-b62f-43103de1d5a4",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Harvey",
+   "ats": "ashby",
+   "title": "Senior Software Engineer, Data Platform",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/harvey/a725492f-3412-4699-a8cd-0d195bde3450",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Harvey",
+   "ats": "ashby",
+   "title": "Senior Software Engineer, Data Platform",
+   "location": "New York",
+   "url": "https://jobs.ashbyhq.com/harvey/79bef873-33b0-4b8b-b5f0-2256b2751907",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Harvey",
+   "ats": "ashby",
+   "title": "Staff Software Engineer, Data Platform",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/harvey/504ba806-2e23-47f4-887f-b4aa777faae5",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Harvey",
+   "ats": "ashby",
+   "title": "Staff Software Engineer, Data Platform",
+   "location": "New York",
+   "url": "https://jobs.ashbyhq.com/harvey/976a512f-7665-4350-8258-098993c10ea1",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Legora",
+   "ats": "ashby",
+   "title": "AI Enablement Manager",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/legora/c2def7d8-f236-4a78-bdb9-5616900dd746",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Legora",
+   "ats": "ashby",
+   "title": "Senior Data Scientist - Product  ",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/legora/3f351429-5b70-467c-99bc-b47b4e23c554",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Legora",
+   "ats": "ashby",
+   "title": "Senior Data Scientist - Product",
+   "location": "New York City",
+   "url": "https://jobs.ashbyhq.com/legora/49cecda2-8691-4c72-ac8a-a5c9d8bcd008",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Luminance",
+   "ats": "workable",
+   "title": "Legal Implementation Specialist",
+   "location": "San Francisco; California; United States",
+   "url": "https://apply.workable.com/j/A98DBCEFCA",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Luminance",
+   "ats": "workable",
+   "title": "Senior Legal Implementation Specialist",
+   "location": "London; England; United Kingdom",
+   "url": "https://apply.workable.com/j/8D32F7AE51",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Luminance",
+   "ats": "workable",
+   "title": "Senior Legal Implementation Specialist",
+   "location": "New York; New York; United States",
+   "url": "https://apply.workable.com/j/1CAAF77FAF",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Luminance",
+   "ats": "workable",
+   "title": "Senior Legal Implementation Specialist",
+   "location": "San Francisco; California; United States",
+   "url": "https://apply.workable.com/j/783ACAA674",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Lovable",
+   "ats": "ashby",
+   "title": "AI Scaled Customer Success Programs",
+   "location": "Boston",
+   "url": "https://jobs.ashbyhq.com/lovable/3944f55e-910f-4248-ba28-2c1e6143eb28",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Lovable",
+   "ats": "ashby",
+   "title": "Forward Deployed Engineering Lead",
+   "location": "New York; Stockholm",
+   "url": "https://jobs.ashbyhq.com/lovable/2bad82d6-3fd0-42a2-afbf-f1e9511057d4",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Cursor (Anysphere)",
+   "ats": "ashby",
+   "title": "Software Engineer, RL Data ",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/cursor/9a175381-45e2-42b6-bd64-6c84532365f9",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Cursor (Anysphere)",
+   "ats": "ashby",
+   "title": "Software Engineer, ML Platform",
+   "location": "San Francisco; New York",
+   "url": "https://jobs.ashbyhq.com/cursor/167f0e93-6915-4d56-803a-be89d1441fb5",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Abridge",
+   "ats": "ashby",
+   "title": "Senior Software Engineer, Data",
+   "location": "SF Office",
+   "url": "https://jobs.ashbyhq.com/abridge/480c4c99-2ca8-4dc7-ba6b-29a9ee28ed95",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Abridge",
+   "ats": "ashby",
+   "title": "Associate General Counsel, Product  (Data Products, Machine Learning & Artificial Intelligence)",
+   "location": "SF Office",
+   "url": "https://jobs.ashbyhq.com/abridge/c709786d-5d36-4c8a-b973-e4cd0c2a16cd",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Cartesia",
+   "ats": "ashby",
+   "title": "Product and Research Operations Manager, Voices",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/cartesia/7e9aba9d-9335-46d2-bbde-247080a3d8d5",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Cartesia",
+   "ats": "ashby",
+   "title": "Product & Research Operations Manager, Human Data",
+   "location": "*HQ - San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/cartesia/177c2be2-8610-48af-b129-308bac955112",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Mercor",
+   "ats": "ashby",
+   "title": "Mercor Research Fellowship — APEX ",
+   "location": "San Francisco; New York City; London",
+   "url": "https://jobs.ashbyhq.com/mercor/a0a98be0-d856-4129-b500-c0a3e412ef01",
+   "posted": "2026-08-22",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Mercor",
+   "ats": "ashby",
+   "title": "Software Engineer, Applied AI",
+   "location": "New York City",
+   "url": "https://jobs.ashbyhq.com/mercor/59c997bf-7ec3-4631-bc4a-3dc5dbe30f28",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Mercor",
+   "ats": "ashby",
+   "title": "Software Engineer, Frontier Data Products",
+   "location": "New York City",
+   "url": "https://jobs.ashbyhq.com/mercor/2b1d7c4b-721b-4ed7-b61b-7bdceeaaa702",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Mercor",
+   "ats": "ashby",
+   "title": "Research Scientist, APEX Benchmarks",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/mercor/bebd78ce-5f12-46e9-a285-674e33838211",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "error",
+   "company": "Fireworks AI",
+   "ats": "greenhouse",
+   "endpoint": "https://boards-api.greenhouse.io/v1/boards/fireworksai/jobs",
+   "error": "HTTP 404",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Runway",
+   "ats": "ashby",
+   "title": "AI Engagement Manager",
+   "location": "New York, NY",
+   "url": "https://jobs.ashbyhq.com/runway-ml/37be5175-5a9a-4bee-9b5e-fb475350806b",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Robinhood",
+   "ats": "greenhouse",
+   "title": "Business Analyst (New Grad) ",
+   "location": "Washington, DC",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8123231?t=gh_src=&gh_jid=8123231",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Zopa",
+   "ats": "lever",
+   "title": "2027 Graduate Analyst",
+   "location": "London; GB; hybrid",
+   "url": "https://jobs.lever.co/zopa/962f3756-6e45-480f-984c-64e024b57c4f",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Zopa",
+   "ats": "lever",
+   "title": "Data Privacy Manager",
+   "location": "London; GB; hybrid",
+   "url": "https://jobs.lever.co/zopa/60357b56-61ea-42d6-a449-56f26ca1f1e1",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Zopa",
+   "ats": "lever",
+   "title": "Senior FP&A Analyst",
+   "location": "London; GB; hybrid",
+   "url": "https://jobs.lever.co/zopa/2126949a-ebe9-4308-a1bc-f3fa3effd57b",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ClearScore",
+   "ats": "greenhouse",
+   "title": "Senior Data Scientist - Full Stack ",
+   "location": "London, England, United Kingdom",
+   "url": "https://job-boards.eu.greenhouse.io/clearscoretechnologylimited/jobs/4962201101",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Oura",
+   "ats": "greenhouse",
+   "title": "International Demand Planner",
+   "location": "Hybrid - London, England",
+   "url": "https://job-boards.greenhouse.io/oura/jobs/4383256009",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Oura",
+   "ats": "greenhouse",
+   "title": "Research Coordinator, Hardware R&D",
+   "location": "Hybrid - San Francisco, California",
+   "url": "https://job-boards.greenhouse.io/oura/jobs/4386172009",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "SoundCloud",
+   "ats": "greenhouse",
+   "title": "Senior Product Designer - Creator Analytics & Tools",
+   "location": "New York",
+   "url": "https://job-boards.greenhouse.io/soundcloud71/jobs/8755542002",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "PlayStation (SIE)",
+   "ats": "greenhouse",
+   "title": "EMEA Payroll Analyst",
+   "location": "United Kingdom, London",
+   "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6166616004",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ServiceNow (Moveworks)",
+   "ats": "smartrecruiters",
+   "title": "Staff Machine Learning Engineer, GAI Search Relevance - Moveworks",
+   "location": "Mountain View; CALIFORNIA; us",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146839729",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ServiceNow (Moveworks)",
+   "ats": "smartrecruiters",
+   "title": " Senior Staff AI Agent Engineer – Moveworks | Customer Deployment",
+   "location": "San Francisco; California; us",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146802606",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ServiceNow (Moveworks)",
+   "ats": "smartrecruiters",
+   "title": "Senior AI Agent Engineer | Moveworks - Federal",
+   "location": "San Francisco; California; us",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146563519",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ServiceNow (Moveworks)",
+   "ats": "smartrecruiters",
+   "title": "Staff Inbound Product Manager - Agentic AI EmployeeWorks",
+   "location": "Mountain View; California; us",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146539137",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ServiceNow (Moveworks)",
+   "ats": "smartrecruiters",
+   "title": "Forward Deployed Solution Engineer – Applied AI FDE",
+   "location": "London; gb",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000146024879",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ServiceNow (Moveworks)",
+   "ats": "smartrecruiters",
+   "title": "Senior Staff Machine Learning Engineer, Agentic Systems - Moveworks",
+   "location": "Mountain View; CALIFORNIA; us",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000145848354",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ServiceNow (Moveworks)",
+   "ats": "smartrecruiters",
+   "title": "Staff Machine Learning Engineer, Agent Eval Platform",
+   "location": "Mountain View; CALIFORNIA; us",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000145845739",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ServiceNow (Moveworks)",
+   "ats": "smartrecruiters",
+   "title": "Implementation Manager - Moveworks",
+   "location": "Albany; New York; us",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000145578649",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ServiceNow (Moveworks)",
+   "ats": "smartrecruiters",
+   "title": "Forward Deployed Solution Engineer – Applied AI FDE",
+   "location": "London; gb",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000144813179",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ServiceNow (Moveworks)",
+   "ats": "smartrecruiters",
+   "title": "Implementation Manager - Moveworks",
+   "location": "London; gb",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000144741139",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Checkout.com",
+   "ats": "ashby",
+   "title": "Senior Machine Learning Engineer",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/checkout.com/19615c6a-f769-4af6-80aa-ff90bd92c34b",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Checkout.com",
+   "ats": "ashby",
+   "title": "Manager, AI Transformation (Legal, Risk and Compliance)",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/checkout.com/cc0a084c-2d4a-4577-8309-dda3d8ec18b8",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Percepta",
+   "ats": "ashby",
+   "title": "Applied AI Engineer - Manager",
+   "location": "New York City",
+   "url": "https://jobs.ashbyhq.com/percepta/30e1aeb2-3a1f-4867-b494-97281207eb76",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Orbital Industries",
+   "ats": "ashby",
+   "title": "Forward Deployed Engineer ",
+   "location": "London, UK",
+   "url": "https://jobs.ashbyhq.com/orbitalindustries/f61de282-ee9a-4849-a0de-6c9f13328bf7",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Orbital Industries",
+   "ats": "ashby",
+   "title": "Forward Deployed Engineering Lead ",
+   "location": "London, UK",
+   "url": "https://jobs.ashbyhq.com/orbitalindustries/47c0edc0-7f3f-4aac-85a8-fe32a3628ab4",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Farfetch",
+   "ats": "lever",
+   "title": "Merchandise Planning & Analytics Senior Analyst",
+   "location": "UK London, United Kingdom; GB; hybrid",
+   "url": "https://jobs.lever.co/farfetch/ee831684-3b68-4f8b-9d73-c4c51a65b399",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ASOS",
+   "ats": "smartrecruiters",
+   "title": "Senior Tech Product Manager - Data",
+   "location": "London; England; gb",
+   "url": "https://jobs.smartrecruiters.com/ASOS/744000147012921",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ASOS",
+   "ats": "smartrecruiters",
+   "title": "Associate Data Engineer",
+   "location": "London; England; gb",
+   "url": "https://jobs.smartrecruiters.com/ASOS/744000146981519",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ASOS",
+   "ats": "smartrecruiters",
+   "title": "Machine Learning Engineer",
+   "location": "London; England; gb",
+   "url": "https://jobs.smartrecruiters.com/ASOS/744000146975760",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ASOS",
+   "ats": "smartrecruiters",
+   "title": "Senior Machine Learning Engineer (Recommendations)",
+   "location": "London; England; gb",
+   "url": "https://jobs.smartrecruiters.com/ASOS/744000146975840",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ASOS",
+   "ats": "smartrecruiters",
+   "title": "Senior Machine Learning Engineer",
+   "location": "London; England; gb",
+   "url": "https://jobs.smartrecruiters.com/ASOS/744000146975690",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ASOS",
+   "ats": "smartrecruiters",
+   "title": "Applied Scientist",
+   "location": "London; England; gb",
+   "url": "https://jobs.smartrecruiters.com/ASOS/744000146975620",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ASOS",
+   "ats": "smartrecruiters",
+   "title": "Senior Applied Scientist",
+   "location": "London; England; gb",
+   "url": "https://jobs.smartrecruiters.com/ASOS/744000146974625",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ASOS",
+   "ats": "smartrecruiters",
+   "title": "Senior Indirect Tax analyst",
+   "location": "London; England; gb",
+   "url": "https://jobs.smartrecruiters.com/ASOS/744000146140939",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ASOS",
+   "ats": "smartrecruiters",
+   "title": "Head of Data Privacy and Compliance - 12 month FTC",
+   "location": "London; England; gb",
+   "url": "https://jobs.smartrecruiters.com/ASOS/744000146136339",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ASOS",
+   "ats": "smartrecruiters",
+   "title": "Senior Product Manager (ERP Transformation - 12 Month FTC)",
+   "location": "London; England; gb",
+   "url": "https://jobs.smartrecruiters.com/ASOS/744000145680899",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ASOS",
+   "ats": "smartrecruiters",
+   "title": "Senior AI / LLM Engineer",
+   "location": "London; England; gb",
+   "url": "https://jobs.smartrecruiters.com/ASOS/744000145559874",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "ASOS",
+   "ats": "smartrecruiters",
+   "title": "Senior Product Analyst ",
+   "location": "London; England; gb",
+   "url": "https://jobs.smartrecruiters.com/ASOS/744000145298719",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Serval",
+   "ats": "ashby",
+   "title": "Sales Enablement Lead",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/Serval/711af20c-774f-4443-9ab5-acfead236a57",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Serval",
+   "ats": "ashby",
+   "title": "Data Engineer",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/Serval/60e9f06a-e473-438d-b8e4-916f5dadc2f5",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Polymarket",
+   "ats": "ashby",
+   "title": "Performance Marketing Lead, International",
+   "location": "New York",
+   "url": "https://jobs.ashbyhq.com/polymarket/e6fc54f3-339e-4196-a221-53e8d7c2049f",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Polymarket",
+   "ats": "ashby",
+   "title": "Quantitative Risk Analyst — Derivatives & Clearing",
+   "location": "New York",
+   "url": "https://jobs.ashbyhq.com/polymarket/7659109d-e0e8-420a-a887-d48f740e25ba",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Fanatics",
+   "ats": "greenhouse",
+   "title": "HRIS Analyst (Temporary)",
+   "location": "Jacksonville, FL, United States; New York, NY, United States",
+   "url": "https://job-boards.greenhouse.io/fanaticsinc/jobs/4381751009",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Fanatics",
+   "ats": "greenhouse",
+   "title": "Sr. Analyst, Payroll Tax",
+   "location": "New York, NY, United States",
+   "url": "https://job-boards.greenhouse.io/fanaticsinc/jobs/4374985009",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "9fin",
+   "ats": "ashby",
+   "title": "Senior AI Product Manager ",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/9fin/1d21a527-7d81-412c-9088-e8c358a301e6",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Aaru",
+   "ats": "ashby",
+   "title": "Prediction Research Manager",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/aaru/612df94e-8d73-44e7-9cb7-74f90459f7a7",
+   "posted": "2026-08-22",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Aaru",
+   "ats": "ashby",
+   "title": "Evaluation Research Manager",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/aaru/d2fb850d-6d25-4efd-a125-6c2c722deab4",
+   "posted": "2026-08-22",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Aaru",
+   "ats": "ashby",
+   "title": "Prediction Researcher",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/aaru/142e5821-211a-48d4-9c9e-691ff1fbb4ca",
+   "posted": "2026-08-22",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Aaru",
+   "ats": "ashby",
+   "title": "Evaluation Researcher",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/aaru/4490a4b7-ad45-4bf6-b00f-190a6d9f41ad",
+   "posted": "2026-08-22",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "AfterQuery",
+   "ats": "ashby",
+   "title": "Data Acquisition Lead",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/afterquery/8041b75b-aeda-4363-be56-87ecabef682b",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "AfterQuery",
+   "ats": "ashby",
+   "title": "Research Engineer",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/afterquery/ae665a77-b88d-418e-941a-6c3da870f052",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "AfterQuery",
+   "ats": "ashby",
+   "title": "Research Technical Program Manager",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/afterquery/7f03dc4a-748f-4611-ac21-ee02e0ded837",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Airwallex",
+   "ats": "ashby",
+   "title": "Senior Data Scientist, Growth Analytics ",
+   "location": "US - San Francisco",
+   "url": "https://jobs.ashbyhq.com/airwallex/0c33f286-3f00-4b2b-8f8b-70e1fd7ff7ff",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Airwallex",
+   "ats": "ashby",
+   "title": "Director of Solutions Engineering - EMEA",
+   "location": "UK - London",
+   "url": "https://jobs.ashbyhq.com/airwallex/8f5b5c0d-28c9-4181-82e0-92d06597072b",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Airwallex",
+   "ats": "ashby",
+   "title": "Staff Product Manager, AI Growth",
+   "location": "US - San Francisco",
+   "url": "https://jobs.ashbyhq.com/airwallex/fae51bd0-d69d-40c7-9b4c-a244e162c93e",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Airwallex",
+   "ats": "ashby",
+   "title": "Implementation Manager - Spend/ERP",
+   "location": "US - San Francisco",
+   "url": "https://jobs.ashbyhq.com/airwallex/a139d336-cea8-4b73-b391-e1078e8c3994",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Airwallex",
+   "ats": "ashby",
+   "title": "Implementation Manager - Spend ",
+   "location": "UK - London",
+   "url": "https://jobs.ashbyhq.com/airwallex/dec2ab16-75ee-45c4-a730-63d7462c42fa",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Airwallex",
+   "ats": "ashby",
+   "title": "Technical Implementation Manager - Embedded Finance",
+   "location": "UK - London",
+   "url": "https://jobs.ashbyhq.com/airwallex/b82cbd55-7f36-4e6d-8372-d91bd7402428",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Airwallex",
+   "ats": "ashby",
+   "title": "Manager, Data Engineering ",
+   "location": "US - San Francisco",
+   "url": "https://jobs.ashbyhq.com/airwallex/55afe71d-6797-40fe-8a69-b94f7ffd5104",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Amplitude",
+   "ats": "greenhouse",
+   "title": "Principal Product Manager, AI Agents & MCP",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/amplitude/jobs/8746352002",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Amplitude",
+   "ats": "greenhouse",
+   "title": "Principal Solutions Engineer - UKI",
+   "location": "London, UK",
+   "url": "https://job-boards.greenhouse.io/amplitude/jobs/8768899002",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anduril",
+   "ats": "greenhouse",
+   "title": "Associate Director, Strategic Execution - International",
+   "location": "London, England, United Kingdom",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220149007?gh_jid=5220149007",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anduril",
+   "ats": "greenhouse",
+   "title": "Chief Solutions Engineer",
+   "location": "Washington, District of Columbia, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5225558007?gh_jid=5225558007",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anduril",
+   "ats": "greenhouse",
+   "title": "Security Operations Analyst",
+   "location": "Boston, Massachusetts, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218594007?gh_jid=5218594007",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anduril",
+   "ats": "greenhouse",
+   "title": "Security Operations Analyst",
+   "location": "Seattle, Washington, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218586007?gh_jid=5218586007",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Anduril",
+   "ats": "greenhouse",
+   "title": "Security Operations Analyst",
+   "location": "Washington, District of Columbia, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218589007?gh_jid=5218589007",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Assort Health",
+   "ats": "ashby",
+   "title": "Senior Forward Deployed Engineer",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/assorthealth/d4286634-639b-40d8-a3dc-f353c4698f74",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Assort Health",
+   "ats": "ashby",
+   "title": "AI Operations Manager",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/assorthealth/c54a2897-b9ae-456e-9319-a78cf24144e3",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Assort Health",
+   "ats": "ashby",
+   "title": "Enablement Manager, Post-Sales",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/assorthealth/50bfd833-f19b-4e0e-ad90-3e4e584dafae",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Baseten",
+   "ats": "ashby",
+   "title": "Revenue Strategy & Operations, Sr. Analyst",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/baseten/5fdfe98f-c926-4af8-891a-79610b52ff96",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Baseten",
+   "ats": "ashby",
+   "title": "Marketing Analytics Manager",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/baseten/ee8fd565-d505-49be-861f-d16995583d5a",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Baseten",
+   "ats": "ashby",
+   "title": "Product Data Scientist",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/baseten/2efc2f65-9494-482a-9b21-5d009d045423",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Baseten",
+   "ats": "ashby",
+   "title": "Revenue Analyst",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/baseten/f160637f-b6bf-4f69-a8bd-862a3a3a8b0d",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Bedrock Robotics",
+   "ats": "ashby",
+   "title": "Technical Recruiter, AI/ML and Leadership Reruiting ",
+   "location": "San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/bedrock-robotics/b1ef81db-bdd0-4c5f-9644-6f00cba34c2e",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Braze",
+   "ats": "greenhouse",
+   "title": "Partner Development Manager- Databricks, Snowflake",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8162966",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Braze",
+   "ats": "greenhouse",
+   "title": "Staff Applied Scientist",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8170743",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Braze",
+   "ats": "greenhouse",
+   "title": "Staff Applied Scientist",
+   "location": "New York City",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8159431",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "CAIS",
+   "ats": "greenhouse",
+   "title": "Fund Management, Analyst",
+   "location": "New York, New York",
+   "url": "https://job-boards.greenhouse.io/cais/jobs/8759444002",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capco",
+   "ats": "greenhouse",
+   "title": "Management Consultant - Finance Transformation ",
+   "location": "UK - London",
+   "url": "https://job-boards.greenhouse.io/capco/jobs/8172856",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capco",
+   "ats": "greenhouse",
+   "title": "Management Consultant - Finance Transformation ",
+   "location": "UK - Edinburgh",
+   "url": "https://job-boards.greenhouse.io/capco/jobs/8172878",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capco",
+   "ats": "greenhouse",
+   "title": "Managing Principal (Director) -  Financial Crime Transformation - AML Investigations, Sanctions & Fraud",
+   "location": "UK - London",
+   "url": "https://job-boards.greenhouse.io/capco/jobs/8174162",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capco",
+   "ats": "greenhouse",
+   "title": "Managing Principal - Financial Crime Transformation - AML Investigations, Sanctions & Fraud",
+   "location": "UK - Edinburgh",
+   "url": "https://job-boards.greenhouse.io/capco/jobs/8174188",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capco",
+   "ats": "greenhouse",
+   "title": "Principal Consultant - (Senior Manager) Finance Transformation ",
+   "location": "UK - Edinburgh",
+   "url": "https://job-boards.greenhouse.io/capco/jobs/8174326",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capco",
+   "ats": "greenhouse",
+   "title": "Principal Consultant (Senior Manager) - Finance Transformation ",
+   "location": "UK - London",
+   "url": "https://job-boards.greenhouse.io/capco/jobs/8174323",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capco",
+   "ats": "greenhouse",
+   "title": "Trade & Transaction Reporting Business Analyst / Project Manager",
+   "location": "UK - London",
+   "url": "https://job-boards.greenhouse.io/capco/jobs/8172872",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Celonis",
+   "ats": "greenhouse",
+   "title": "Applied Value Engineer",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/7958952003?gh_jid=7958952003",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Celonis",
+   "ats": "greenhouse",
+   "title": "Field Marketing Intern",
+   "location": "New York, US, New York",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/7977884003?gh_jid=7977884003",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Chai Discovery",
+   "ats": "ashby",
+   "title": "Scientist, Protein Design",
+   "location": "San Francisco office",
+   "url": "https://jobs.ashbyhq.com/chaidiscovery/9cc94a28-cac9-48a4-a44c-685a870b6288",
+   "posted": "2026-08-29",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Code Metal",
+   "ats": "ashby",
+   "title": "Forward Deployed Engineer",
+   "location": "Boston Hub; Remote ; San Franscisco Hub",
+   "url": "https://jobs.ashbyhq.com/code-metal/0ec68c93-f625-4d6f-b489-c483550c0158",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Code Metal",
+   "ats": "ashby",
+   "title": "Solutions Engineer",
+   "location": "Boston Hub; Remote ; San Franscisco Hub",
+   "url": "https://jobs.ashbyhq.com/code-metal/fc471444-dfef-43df-95a8-ad55d3240a2a",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Coderabbit",
+   "ats": "ashby",
+   "title": "Content & Enablement Specialist",
+   "location": "Boston, MA",
+   "url": "https://jobs.ashbyhq.com/coderabbit/bd07a5ad-6890-4de3-adaf-16d30815f3b9",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "CoreWeave",
+   "ats": "greenhouse",
+   "title": "AI Engineer",
+   "location": "Livingston, NJ / New York, NY / Sunnyvale, CA",
+   "url": "https://coreweave.com/careers/job?4709155006&board=coreweave&gh_jid=4709155006",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "CoreWeave",
+   "ats": "greenhouse",
+   "title": "Data Center Technician - Cambridge, ON",
+   "location": "Cambridge, ON",
+   "url": "https://coreweave.com/careers/job?4710680006&board=coreweave&gh_jid=4710680006",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "CoreWeave",
+   "ats": "greenhouse",
+   "title": "Senior Product Marketing Manager, AI Training Infrastructure",
+   "location": "New York, NY / Sunnyvale, CA / Bellevue, WA",
+   "url": "https://coreweave.com/careers/job?4707890006&board=coreweave&gh_jid=4707890006",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "CoreWeave",
+   "ats": "greenhouse",
+   "title": "Senior Software Engineer, Network Datapath Monitoring/Observability",
+   "location": "Sunnyvale, CA / New York City, NY / Livingston, NJ",
+   "url": "https://coreweave.com/careers/job?4709398006&board=coreweave&gh_jid=4709398006",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "CoreWeave",
+   "ats": "greenhouse",
+   "title": "Staff Software Engineer - Physical AI",
+   "location": "London, England",
+   "url": "https://coreweave.com/careers/job?4703844006&board=coreweave&gh_jid=4703844006",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Cowboy Space",
+   "ats": "ashby",
+   "title": "Lead Propulsion Analyst",
+   "location": "Kent, Washington",
+   "url": "https://jobs.ashbyhq.com/cowboyspace/03efa560-4839-418f-9960-4f04bbc67db4",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Cowboy Space",
+   "ats": "ashby",
+   "title": "Lead Propulsion Analyst",
+   "location": "Kent, Washington",
+   "url": "https://jobs.ashbyhq.com/cowboyspace/96cad89a-ae24-419c-bbd3-9a41066d7691",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Cowboy Space",
+   "ats": "ashby",
+   "title": "Fluids Analyst",
+   "location": "Kent, Washington",
+   "url": "https://jobs.ashbyhq.com/cowboyspace/5d26d5a5-56ec-4f8d-9164-f5f65fa6e6b0",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Cowboy Space",
+   "ats": "ashby",
+   "title": "Structural Analyst",
+   "location": "Kent, Washington",
+   "url": "https://jobs.ashbyhq.com/cowboyspace/be3ad13e-36e6-4464-99a1-b7f8d34f14cc",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "CreatorIQ",
+   "ats": "ashby",
+   "title": "Director, International Revenue Growth",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/creatoriq/3ba6d11e-de81-4c4e-9a32-b5bb7aa761c6",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Crusoe",
+   "ats": "ashby",
+   "title": "People Enablement Partner",
+   "location": "San Francisco, CA - US",
+   "url": "https://jobs.ashbyhq.com/crusoe/55786c36-cc4a-4882-8a0d-97143bf259c3",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Crusoe",
+   "ats": "ashby",
+   "title": "Senior Software Engineer, Datacenter Operations Platform Engineering",
+   "location": "San Francisco, CA - US",
+   "url": "https://jobs.ashbyhq.com/crusoe/45ba6923-2e3c-4433-b6c7-11fbf1456ad9",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Crusoe",
+   "ats": "ashby",
+   "title": "Principal Product Manager, AI Infrastructure (Networking)",
+   "location": "Sunnyvale, CA - US; San Francisco, CA - US",
+   "url": "https://jobs.ashbyhq.com/crusoe/9b5f4d44-a1da-4149-892c-0883de3bba54",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Crusoe",
+   "ats": "ashby",
+   "title": "Principal Product Manager, AI Infrastructure (Storage)",
+   "location": "San Francisco, CA - US; Sunnyvale, CA - US",
+   "url": "https://jobs.ashbyhq.com/crusoe/9e94c3c9-9941-42a8-9638-bb862532ba7a",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Crusoe",
+   "ats": "ashby",
+   "title": "Enablement Engineer",
+   "location": "San Francisco, CA - US; Sunnyvale, CA - US; Bellevue, WA - US; New York, NY - US",
+   "url": "https://jobs.ashbyhq.com/crusoe/91b8d1dd-2368-4509-bcce-d1a528dac9a2",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Crusoe",
+   "ats": "ashby",
+   "title": "Staff Product Manager, AI Infrastructure (Storage)",
+   "location": "San Francisco, CA - US; Sunnyvale, CA - US",
+   "url": "https://jobs.ashbyhq.com/crusoe/8fb0e3f5-3b65-4680-90a7-b5480b23eeeb",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Databricks",
+   "ats": "greenhouse",
+   "title": "AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
+   "location": "Maryland; Virginia; Washington, D.C.",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Databricks",
+   "ats": "greenhouse",
+   "title": "Sr. Forward Deployed Engineer",
+   "location": "San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739474002",
+   "posted": "2026-08-22",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Databricks",
+   "ats": "greenhouse",
+   "title": "Sr. Forward Deployed Engineer",
+   "location": "New York City, New York",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739462002",
+   "posted": "2026-08-22",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Databricks",
+   "ats": "greenhouse",
+   "title": "Sr. Forward Deployed Engineer",
+   "location": "Remote - Washington D.C.",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002",
+   "posted": "2026-08-22",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Databricks",
+   "ats": "greenhouse",
+   "title": "Sr. Forward Deployed Engineer - National Security",
+   "location": "Boston, Massachusetts; Delaware; Maryland; Remote - California; Remote - New York; Remote - Washington D.C.; Virginia; West Virginia",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Databricks",
+   "ats": "greenhouse",
+   "title": "Sr. Solutions Engineer",
+   "location": "London, United Kingdom",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8742382002",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Databricks",
+   "ats": "greenhouse",
+   "title": "Staff Software Engineer, Data Collection (Tags & SDKs)",
+   "location": "New York City, New York",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760176002",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Databricks",
+   "ats": "greenhouse",
+   "title": "Staff Software Engineer, Sales Data & Agents",
+   "location": "New York City, New York",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760171002",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "DoorDash",
+   "ats": "greenhouse",
+   "title": "Data Insights and Tooling Enablement Program Lead",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8148153",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "DoorDash",
+   "ats": "greenhouse",
+   "title": "Senior Analyst, Sales Analytics",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8148519",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "DoorDash",
+   "ats": "greenhouse",
+   "title": "Senior Associate, Advertiser Analytics",
+   "location": "San Francisco, CA; New York, NY; Seattle, WA; Chicago, IL; Los Angeles, CA; Tempe, AZ; Washington D.C.",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8160815",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "DoorDash",
+   "ats": "greenhouse",
+   "title": "Software Engineer, Data and AI Platform",
+   "location": "San Francisco, CA; Sunnyvale, CA",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171620",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "dunnhumby (Tesco)",
+   "ats": "greenhouse",
+   "title": "CPG & Retail Collaboration Transformation Manager ",
+   "location": "London",
+   "url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7829533003",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "dunnhumby (Tesco)",
+   "ats": "greenhouse",
+   "title": "Insights Enablement Lead",
+   "location": "London",
+   "url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7979142003",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Ellipsis Health",
+   "ats": "ashby",
+   "title": "Product Manager, Analytics & Reporting",
+   "location": "San Francisco - Hybrid; United States - Remote",
+   "url": "https://jobs.ashbyhq.com/ellipsis-health/e6090a61-ef0b-47a5-b99f-cc3cacf2742d",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Ellipsis Health",
+   "ats": "ashby",
+   "title": "Senior Data Scientist",
+   "location": "San Francisco - Hybrid",
+   "url": "https://jobs.ashbyhq.com/ellipsis-health/ae914a61-0b1a-42e3-a2b4-fd1b1cc753ca",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Fluidstack",
+   "ats": "ashby",
+   "title": "Software Engineer, Applied AI",
+   "location": "San Francisco, CA; New York, NY; Austin, TX; Seattle, WA",
+   "url": "https://jobs.ashbyhq.com/fluidstack/835e6b2c-bf7a-41e8-a308-71ecf4adad07",
+   "posted": "2026-08-29",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Fluidstack",
+   "ats": "ashby",
+   "title": "Data Engineer",
+   "location": "Austin, TX; New York, NY; San Francisco, CA; Seattle, WA",
+   "url": "https://jobs.ashbyhq.com/fluidstack/78365bf7-7a0e-4e15-b30f-827d68c9b8b8",
+   "posted": "2026-08-22",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Fractile",
+   "ats": "greenhouse",
+   "title": "Product & Yield Engineer (Data-focused) ",
+   "location": "London",
+   "url": "https://job-boards.eu.greenhouse.io/fractile/jobs/4959418101",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Generalist",
+   "ats": "ashby",
+   "title": "Data Partnerships",
+   "location": "San Francisco Bay Area (San Mateo) or Boston (Somerville)",
+   "url": "https://jobs.ashbyhq.com/generalist/d5aa97c1-fc3e-439a-9aba-b8c9aaa2dab4",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Generalist",
+   "ats": "ashby",
+   "title": "Research Scientist: Post-Training",
+   "location": "San Francisco Bay Area (San Mateo) or Boston (Somerville)",
+   "url": "https://jobs.ashbyhq.com/generalist/f08058fd-3aaf-45e7-8240-28193f65b822",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Harmonic",
+   "ats": "ashby",
+   "title": "Research Engineer, Formal Methods",
+   "location": "Palo Alto; London",
+   "url": "https://jobs.ashbyhq.com/harmonic/74f2ed85-b1cc-40b1-825d-fefd2fcf557c",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Helsing",
+   "ats": "greenhouse",
+   "title": "AI Research Engineer - GPU Simulation",
+   "location": "Munich - Berlin - London - Paris",
+   "url": "https://helsing.ai/jobs/4953387101?gh_jid=4953387101",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Helsing",
+   "ats": "greenhouse",
+   "title": "Team Lead - Training and Mission Success - International",
+   "location": "London",
+   "url": "https://helsing.ai/jobs/4966173101?gh_jid=4966173101",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Imprint",
+   "ats": "ashby",
+   "title": "Lead Solutions Engineer",
+   "location": "New York, San Francisco; Remote",
+   "url": "https://jobs.ashbyhq.com/imprint/332aa0e9-46b5-4f89-bee8-3e63362d3056",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Imprint",
+   "ats": "ashby",
+   "title": "Data Infrastructure Engineer",
+   "location": "New York City; San Francisco",
+   "url": "https://jobs.ashbyhq.com/imprint/25409da3-c86f-4824-a292-bbd20a0f2f11",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "InterSystems",
+   "ats": "greenhouse",
+   "title": "Lead Data Modeler",
+   "location": "Boston, MA",
+   "url": "https://job-boards.greenhouse.io/intersystems/jobs/7855915003",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "InterSystems",
+   "ats": "greenhouse",
+   "title": "Senior Business Systems Analyst",
+   "location": "Boston, MA",
+   "url": "https://job-boards.greenhouse.io/intersystems/jobs/7978522003",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Klaviyo",
+   "ats": "greenhouse",
+   "title": "Senior Implementation Consultant",
+   "location": "London, UK",
+   "url": "https://www.klaviyo.com/careers/jobs/7893998003?gh_jid=7893998003",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Klaviyo",
+   "ats": "greenhouse",
+   "title": "Senior Machine Learning Engineer",
+   "location": "Palo Alto, CA",
+   "url": "https://www.klaviyo.com/careers/jobs/7855802003?gh_jid=7855802003",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Krea",
+   "ats": "ashby",
+   "title": "ML Researcher - Image / Video Diffusion",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/krea/845dce21-e270-49a2-9229-5becd256b829",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Krea",
+   "ats": "ashby",
+   "title": "ML Researcher - Posttraining",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/krea/04d2889b-3cd6-498c-9653-0cd2e2d505fe",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Lila Sciences",
+   "ats": "greenhouse",
+   "title": "Data Scientist II / Senior Data Scientist, Life Sciences  ",
+   "location": "Cambridge, MA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4378388009",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Lila Sciences",
+   "ats": "greenhouse",
+   "title": "Research Scientist I/II, Computational Organic Electronics",
+   "location": "Cambridge, MA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4376824009",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Lila Sciences",
+   "ats": "greenhouse",
+   "title": "Research Scientist, Photonic Materials Discovery",
+   "location": "Cambridge, MA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4377093009",
+   "posted": "2026-08-22",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Lila Sciences",
+   "ats": "greenhouse",
+   "title": "Senior Data Engineer, Bioinformatics, Cheminformatics, Materials",
+   "location": "San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4377096009",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Maybern",
+   "ats": "ashby",
+   "title": "Senior Software Engineer, AI ",
+   "location": "New York Office",
+   "url": "https://jobs.ashbyhq.com/maybern/d1b17451-1ff6-4ce1-abca-5d15ae606e1d",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Mercury",
+   "ats": "greenhouse",
+   "title": "AI Ops Lead - Forward Deploy",
+   "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+   "url": "https://job-boards.greenhouse.io/mercury/jobs/6147716004",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Mercury",
+   "ats": "greenhouse",
+   "title": "Knowledge & Enablement Lead",
+   "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+   "url": "https://job-boards.greenhouse.io/mercury/jobs/6174117004",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Mercury",
+   "ats": "greenhouse",
+   "title": "Senior Data Scientist",
+   "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+   "url": "https://job-boards.greenhouse.io/mercury/jobs/6179231004",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Mercury",
+   "ats": "greenhouse",
+   "title": "Staff Data Scientist",
+   "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+   "url": "https://job-boards.greenhouse.io/mercury/jobs/6178814004",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Mixpanel",
+   "ats": "greenhouse",
+   "title": "Software Engineer, Data Runtime ",
+   "location": "San Francisco, US (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8162414",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "MongoDB",
+   "ats": "greenhouse",
+   "title": "Enterprise Account Executive, AI Natives",
+   "location": "London",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8147938",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Navan",
+   "ats": "greenhouse",
+   "title": "Proposal Analyst - EMEA",
+   "location": "London, UK",
+   "url": "https://navan.com/careers/openings?gh_jid=8164987",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Navan",
+   "ats": "greenhouse",
+   "title": "Senior Director, Data",
+   "location": "San Francisco, CA",
+   "url": "https://navan.com/careers/openings?gh_jid=8145890",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Navan",
+   "ats": "greenhouse",
+   "title": "Sr. Software Engineer, AI",
+   "location": "New York, NY",
+   "url": "https://navan.com/careers/openings?gh_jid=8147410",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Notion",
+   "ats": "ashby",
+   "title": "Data Scientist, Growth",
+   "location": "San Francisco, California",
+   "url": "https://jobs.ashbyhq.com/notion/9fc52821-c394-4a80-85ba-5f1d7c36fb2b",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Notion",
+   "ats": "ashby",
+   "title": "Workflow + Process Designer (AI Enablement)",
+   "location": "San Francisco, California",
+   "url": "https://jobs.ashbyhq.com/notion/c799f1f0-0e7b-4eac-98ce-44223130f2b0",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Notion",
+   "ats": "ashby",
+   "title": "Forward Deployed Architect",
+   "location": "New York, New York; San Francisco, California",
+   "url": "https://jobs.ashbyhq.com/notion/3e988191-692b-48b7-969f-61c000c1636e",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Notion",
+   "ats": "ashby",
+   "title": "Manager, Enablement Programs",
+   "location": "San Francisco, California",
+   "url": "https://jobs.ashbyhq.com/notion/98bb09a8-2fdf-4c12-84dd-8568553159d8",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Parafin",
+   "ats": "ashby",
+   "title": "Engineering Manager, Data Platform",
+   "location": "San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/parafin/98c6dc98-22a1-497f-a888-ade3a4d507f0",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Parallel Web Systems",
+   "ats": "ashby",
+   "title": "Deployed Engineer",
+   "location": "San Francisco or Palo Alto; New York, New York",
+   "url": "https://jobs.ashbyhq.com/parallel/bb00e740-3647-4ce8-b6e7-3dcf611f66b6",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Parallel Web Systems",
+   "ats": "ashby",
+   "title": "GTM Leader, AI Native",
+   "location": "San Francisco or Palo Alto",
+   "url": "https://jobs.ashbyhq.com/parallel/b7bd3dda-7504-48d7-a757-8d89b52ff985",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Parallel Web Systems",
+   "ats": "ashby",
+   "title": "GTM Enablement, Technical",
+   "location": "Palo Alto; New York, New York; San Francisco",
+   "url": "https://jobs.ashbyhq.com/parallel/a550cc1c-6bec-416b-a2da-a7ef06f754bc",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Physical Intelligence",
+   "ats": "ashby",
+   "title": "ML Infra Engineer, Data Systems",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/physicalintelligence/1f6cf3eb-f70f-480b-9fff-befd56c7fd07",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Physical Intelligence",
+   "ats": "ashby",
+   "title": "Software Engineer, Data Quality ",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/physicalintelligence/c01b0e18-5eb8-4255-a10a-7e9a171676b7",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Physical Intelligence",
+   "ats": "ashby",
+   "title": "ML Infra Engineer, Modeling",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/physicalintelligence/96bf6ea8-fb8d-4a76-bec7-878a8c224cea",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Qualtrics",
+   "ats": "greenhouse",
+   "title": "Senior Product Manager - Core AI (Understand)",
+   "location": "Seattle, Washington,  United States",
+   "url": "https://www.qualtrics.com/careers/us/en/job/8164973?gh_jid=8164973",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Reflection",
+   "ats": "ashby",
+   "title": "Member of Technical Staff - Engineering Lead, Data Platform",
+   "location": "San Francisco, CA; London; New York, NY",
+   "url": "https://jobs.ashbyhq.com/reflectionai/b8aa9e15-39c1-416d-bdca-9f06244ac5af",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Reflection",
+   "ats": "ashby",
+   "title": "Member of Technical Staff, Data Flywheel",
+   "location": "New York, NY; San Francisco, CA; London",
+   "url": "https://jobs.ashbyhq.com/reflectionai/266c76bf-7353-40e1-a2e6-8dd3187ec52c",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Replit",
+   "ats": "ashby",
+   "title": "Forward Deployed Engineer",
+   "location": "Foster City, CA; NYC (SoHo)",
+   "url": "https://jobs.ashbyhq.com/replit/9a56d0ac-db44-4dc1-b960-2364557bf4c8",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Socure",
+   "ats": "ashby",
+   "title": "Data Scientist II - Big Data R&D, Identity Graph & Deceased Monitoring",
+   "location": "Hybrid - San Francisco, CA; Hybrid - Seattle, WA; Hybrid - New York, NY; Hybrid - Miami, FL",
+   "url": "https://jobs.ashbyhq.com/socure/5ee37ea6-a36a-472c-90a9-73067f6d6dac",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "The Trade Desk",
+   "ats": "greenhouse",
+   "title": "Director, Data Partnerships (Measurement)",
+   "location": "Denver; New York",
+   "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5215025007",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "The Trade Desk",
+   "ats": "greenhouse",
+   "title": "Principal Design Researcher",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5227361007",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "The Trade Desk",
+   "ats": "greenhouse",
+   "title": "Senior Applied Scientist",
+   "location": "London",
+   "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5213288007",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Thinking Machines",
+   "ats": "ashby",
+   "title": "Research, General Agents",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/thinkingmachines/885f32cc-5b1c-465c-af5a-e88634065bc6",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Thinking Machines",
+   "ats": "ashby",
+   "title": "Research, Safety",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/thinkingmachines/01aba71c-b55f-4df5-b803-dc545e6a9434",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Thinking Machines",
+   "ats": "ashby",
+   "title": "Research, RL Scaling",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/thinkingmachines/0871bc29-7ca0-4906-a674-7b32527617ab",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Thinking Machines",
+   "ats": "ashby",
+   "title": "Data Operations",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/thinkingmachines/28e2d71f-dabd-4745-9903-9b363979f0aa",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Thinking Machines",
+   "ats": "ashby",
+   "title": "Research, Post-Training Evals",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/thinkingmachines/602f2a99-34eb-4fde-9eec-b4945ee4aab6",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Thinking Machines",
+   "ats": "ashby",
+   "title": "Research,  Coding Agents",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/thinkingmachines/71c91050-688e-45e9-b98e-891b82d693e8",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Thinking Machines",
+   "ats": "ashby",
+   "title": "Software Engineer, Research Tools",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/thinkingmachines/72fe46e4-a772-4ebb-a413-53e4f1a8273e",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Toast",
+   "ats": "greenhouse",
+   "title": "Retail Sales Enablement Manager",
+   "location": "Boston, MA",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8144310",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Toast",
+   "ats": "greenhouse",
+   "title": "Senior Director of Product, International",
+   "location": "London, UK",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8147296",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Toast",
+   "ats": "greenhouse",
+   "title": "Solutions Engineer",
+   "location": "London, UK",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8162094",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Trustpilot",
+   "ats": "greenhouse",
+   "title": "Senior People Analytics Manager",
+   "location": "London",
+   "url": "https://corporate.trustpilot.com/careers/job/8152767?gh_jid=8152767",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Valon",
+   "ats": "ashby",
+   "title": "Software Engineer Intern",
+   "location": "New York; San Francisco",
+   "url": "https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Valon",
+   "ats": "ashby",
+   "title": "Senior Security Analyst",
+   "location": "New York; San Francisco",
+   "url": "https://jobs.ashbyhq.com/valon/a0fc3496-aba7-4bd6-b148-c18528a71371",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Valon",
+   "ats": "ashby",
+   "title": "Software Engineer New Grad",
+   "location": "New York; San Francisco",
+   "url": "https://jobs.ashbyhq.com/valon/e08ad09a-4408-4210-8c1b-da6510f83324",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "WPP Media",
+   "ats": "greenhouse",
+   "title": "Director, AI Enablement",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5407564008",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Xaira",
+   "ats": "greenhouse",
+   "title": "AI Scientist Intern, Computational Protein Design",
+   "location": "Seattle, Washington, United States; South San Francisco, California, United States",
+   "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Xaira",
+   "ats": "greenhouse",
+   "title": "Principal Associate Scientist, Bioanalytical Science",
+   "location": "South San Francisco, California, United States",
+   "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5226047007",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Xaira",
+   "ats": "greenhouse",
+   "title": "Senior Scientist, Biology",
+   "location": "South San Francisco, California, United States",
+   "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5224222007",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Zip",
+   "ats": "ashby",
+   "title": "Software Engineer Intern (Summer 2027)",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Point72 / Cubist",
+   "ats": "greenhouse",
+   "title": "AI Instructor, Point72 Academy",
+   "location": "New York, NY",
+   "url": "https://boards.greenhouse.io/point72/jobs/8729688002?gh_jid=8729688002",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Point72 / Cubist",
+   "ats": "greenhouse",
+   "title": "Quantitative Analyst, Structured Products Investment Team",
+   "location": "New York, NY",
+   "url": "https://boards.greenhouse.io/point72/jobs/8745810002?gh_jid=8745810002",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Point72 / Cubist",
+   "ats": "greenhouse",
+   "title": "Quant Library Developer, Macro Technology",
+   "location": "New York; London",
+   "url": "https://boards.greenhouse.io/point72/jobs/8408288002?gh_jid=8408288002",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Man Group / Man AHL",
+   "ats": "greenhouse",
+   "title": "Analyst, Discretionary Middle Office Accounting",
+   "location": "London",
+   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958911101",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Man Group / Man AHL",
+   "ats": "greenhouse",
+   "title": "Investment Specialists Analyst",
+   "location": "Boston",
+   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4965206101",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Man Group / Man AHL",
+   "ats": "greenhouse",
+   "title": "Junior Quant - Systematic Multi-Strat",
+   "location": "London",
+   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4965180101",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Man Group / Man AHL",
+   "ats": "greenhouse",
+   "title": "Quant Researcher - Macro; Futures / FX",
+   "location": "London",
+   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4966466101",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Man Group / Man AHL",
+   "ats": "greenhouse",
+   "title": "Risk & Performance Analyst",
+   "location": "Boston",
+   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Man Group / Man AHL",
+   "ats": "greenhouse",
+   "title": "Senior Analyst, Regulatory Reporting and Financial Accounting",
+   "location": "London",
+   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958206101",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Man Group / Man AHL",
+   "ats": "greenhouse",
+   "title": "Trade Support Analyst",
+   "location": "New York",
+   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4965210101",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Mariana Minerals",
+   "ats": "ashby",
+   "title": "Machine Learning Engineer (Autonomy) ",
+   "location": "San Francisco HQ; Houston, TX; Ann Arbor, MI",
+   "url": "https://jobs.ashbyhq.com/marianaminerals/c9be8e0d-bb09-4792-954e-10451b170108",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Faculty",
+   "ats": "ashby",
+   "title": "Senior Data Scientist ",
+   "location": "UK - London",
+   "url": "https://jobs.ashbyhq.com/faculty/b33d0939-ba49-4b52-9580-c089c45d1556",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Faculty",
+   "ats": "ashby",
+   "title": "Senior Data Scientist (Safety)  ",
+   "location": "UK - London",
+   "url": "https://jobs.ashbyhq.com/faculty/54729948-5b4a-404c-bea4-cec5759768b5",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Faculty",
+   "ats": "ashby",
+   "title": "Lead Machine Learning Engineer",
+   "location": "UK - London",
+   "url": "https://jobs.ashbyhq.com/faculty/73372b67-3d4d-43ec-98b7-282aaec7fd09",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Faculty",
+   "ats": "ashby",
+   "title": "Lead Data Scientist",
+   "location": "UK - London",
+   "url": "https://jobs.ashbyhq.com/faculty/1f2cb0a2-4aa5-4ce3-b9fd-b90990076b6d",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Campus Recruiter, Machine Learning and Quantitative Research",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/8229056002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Data Center Construction Project Manager ",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/8434049002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Data Center Engineer",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/5002846002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Data Center Mechanical Engineer",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/7934336002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Data Engineer",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/6558007002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Data Engineer",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/8631973002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Data Specialist",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/6110602002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Data Strategist",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/8690499002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Fundamental Research Analyst",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/8347286002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Grains and Oilseeds Analyst",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/8180726002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Machine Learning Educator",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/8056588002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Machine Learning Engineer",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/8611307002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Machine Learning Performance Engineer",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/7449077002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Machine Learning Research Engineer",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/6485460002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Machine Learning Researcher",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/8576928002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Machine Learning Researcher",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/8384490002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Machine Learning Researcher",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/4276720002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Oil and Refined Products Analyst/Trader",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/8413554002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Power Analyst/Trader",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/7950706002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Quantitative Researcher",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/6302325002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Quantitative Researcher",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/8573726002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Quantitative Researcher",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/8498547002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Quantitative Trader",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/4794171002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Quantitative Trader",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/8573523002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Quantitative Trader",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/8617344002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Senior Quantitative Researcher (OCaml Experience)",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/8751845002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Jane Street",
+   "ats": "janestreet",
+   "title": "Tools and Compilers Research and Development",
+   "location": "NYC",
+   "url": "https://www.janestreet.com/join-jane-street/position/5869205002/",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Applied Researcher I (AI Foundations, VLM)",
+   "location": "New York, NY; San Francisco,  CA; McLean, VA; Cambridge, MA; San Jose, CA",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations--VLM-_R999796-1",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Senior Manager, Data Science - US Card (Upmarket Segments)",
+   "location": "Richmond, VA; New York, NY; McLean, VA",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Senior-Manager--Data-Science---US-Card--Upmarket-Segments-_R241288-1",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Applied Researcher I",
+   "location": "New York, NY; San Francisco,  CA; McLean, VA; Cambridge, MA; San Jose, CA",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I_R241118",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Senior Business Analyst, Product Strategy",
+   "location": "McLean, VA; Chicago, IL; New York, NY; Riverwoods, IL",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Business-Analyst--Product-Strategy_R249317",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Applied Researcher II",
+   "location": "McLean, VA; New York, NY; San Jose, CA",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Applied-Researcher-II_R233515-1",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Principal Associate, Data Scientist - Business Cards & Payments",
+   "location": "New York, NY; McLean, VA",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Principal-Associate--Data-Scientist---Business-Cards---Payments_R245360-2",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Senior Manager, Product Management - Fraud Model Data Strategy",
+   "location": "McLean, VA; Richmond, VA; Chicago, IL; New York, NY",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Product-Management---Fraud-Model-Data-Strategy_R999549-1",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Staff AI Engineer - Enterprise Analysis Platform (Remote Eligible)",
+   "location": "San Francisco,  CA; US Remote; McLean, VA; Cambridge, MA; San Jose, CA; New York, NY",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Francisco--CA/Staff-AI-Engineer---Enterprise-Analysis-Platform--Remote-Eligible-_R999435-1",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Director, Data Scientist - Generative AI Systems",
+   "location": "McLean, VA; New York, NY",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Data-Scientist---Generative-AI-Systems_R239529-1",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Sr. Staff Applied Researcher",
+   "location": "McLean, VA; San Francisco,  CA; Cambridge, MA; San Jose, CA; New York, NY",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Distinguished-Applied-Researcher_R227413-1",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Staff Applied Researcher",
+   "location": "McLean, VA; San Francisco,  CA; Cambridge, MA; San Jose, CA; New York, NY",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Distinguished-Applied-Researcher_R237081-1",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Principal, Data Scientist - Card Intelligence",
+   "location": "McLean, VA; New York, NY",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal--Data-Scientist---Card-Intelligence_R244940-1",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Senior Associate, Data Scientist - US Card (Applied GenAI)",
+   "location": "McLean, VA; New York, NY",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Data-Scientist---US-Card--Applied-GenAI-_R248139-1",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Principal Associate, Data Scientist - AI in Credit",
+   "location": "McLean, VA; New York, NY; Richmond, VA",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Data-Scientist_R239344-1",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Manager, Data Scientist - Card Mainstreet Acquisitions",
+   "location": "McLean, VA; New York, NY",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Card-Mainstreet-Acquisitions_R999078-1",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Sr. Director, Product Management - Enterprise AI/ML",
+   "location": "McLean, VA; San Francisco,  CA; Chicago, IL; New York, NY",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Director--Product-Management---Enterprise-AI-ML_R249914-1",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Manager, Data Scientist, Travel Intelligence, Hotels",
+   "location": "McLean, VA; New York, NY",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist--Travel-Intelligence--Hotels_R243593-1",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Applied Researcher I (AI Foundations)",
+   "location": "New York, NY; McLean, VA; Cambridge, MA; San Jose, CA",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations-_R236764-1",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Capital One",
+   "ats": "workday",
+   "title": "Manager, Cyber Risk & Analysis (International and Regulatory Risk)",
+   "location": "McLean, VA; New York, NY; Richmond, VA",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Cyber-Risk---Analysis--International-and-Regulatory-Risk-_R249846-1",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Thomson Reuters",
+   "ats": "workday",
+   "title": "Lead Applied Scientist, Document Understanding",
+   "location": "Switzerland, Zug, Zug; United Kingdom, London",
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Switzerland-Zug-Zug/Lead-Applied-Scientist--Document-Understanding_JREQ202341",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Thomson Reuters",
+   "ats": "workday",
+   "title": "Senior Applied Scientist, Search - NLP/GenAI",
+   "location": "Switzerland, Zug, Zug; United Kingdom, London",
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Switzerland-Zug-Zug/Senior-Applied-Scientist--Search---NLP-GenAI_JREQ201522-3",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Thomson Reuters",
+   "ats": "workday",
+   "title": "Senior Applied Scientist",
+   "location": "United States of America, Eagan, Minnesota; Canada, Toronto, Ontario; United States of America, New York, New York; United States of America, Ann Arbor, Michigan; United Kingdom, London; Switzerland, Zug, Zug; United States of America, Frisco, Texas",
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Senior-Applied-Scientist_JREQ198518-1",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Thomson Reuters",
+   "ats": "workday",
+   "title": "Staff Software Engineer – AI Platform",
+   "location": "United States of America, Eagan, Minnesota; United States of America, Frisco, Texas; United States of America, Brooklyn, New York; Canada, Toronto, Ontario; United States of America, Ann Arbor, Michigan",
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Staff-Software-Engineer---AI-Platform_JREQ201848",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Thomson Reuters",
+   "ats": "workday",
+   "title": "Staff Software Engineer / Architect - AI, CoCounsel FDE",
+   "location": "United States of America, Frisco, Texas; United States of America, New York, New York; United States of America, New York, New York; United States of America, Eagan, Minnesota",
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Staff-Software-Engineer---Architect---AI--CoCounsel-FDE_JREQ200171",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Thomson Reuters",
+   "ats": "workday",
+   "title": "Senior Software Engineer - AI, CoCounsel FDE",
+   "location": "United States of America, Frisco, Texas; United States of America, New York, New York; United States of America, Richmond, Virginia; United States of America, New York, New York; United States of America, Eagan, Minnesota",
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Senior-Software-Engineer---AI--CoCounsel-FDE_JREQ200170",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Fractal",
+   "ats": "workday",
+   "title": "AI Enablement Consultant",
+   "location": "New York",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/AI-Enablement-Consultant_SR-44946-1",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Fractal",
+   "ats": "workday",
+   "title": "Technical Life Sciences Consultant, Pharma (Data Governance)",
+   "location": "New York",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Technical-Life-Sciences-Consultant--Pharma--Data-Governance-_SR-44833",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Fractal",
+   "ats": "workday",
+   "title": "Senior Business Analyst",
+   "location": "New York",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Senior-Business-Analyst_SR-45283-1",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Fractal",
+   "ats": "workday",
+   "title": "Data Solutions Architect",
+   "location": "New York",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Data-Solutions-Architect_SR-45252-1",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Accenture",
+   "ats": "workday",
+   "title": "Customer AI Engineer",
+   "location": "London",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Customer-AI-Developer-Specialist_R00314667",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Accenture",
+   "ats": "workday",
+   "title": "Accenture Edge for AWS Tech Practice Leader – Data and AI",
+   "location": "Seattle, 1191 2nd Avenue, Corp; Milwaukee, 790 N Milwaukee St, Corp; Dallas, 5205 N OConnor Las Colinas, Corp; Columbus, 400 W. Nationwide Blvd, Corp; Kirkland, 416 6th Street South, Corp; Cincinnati, 4th Street, Corp; New York, One Manhattan West, Corp; Cleveland, 1400 W 10th Street, Corp; Oklahoma City, 525 NW 11th St, Corp; Austin, 323 Congress Avenue, Corp; Albany, 69 State St, Corp; Chicago, Accenture Tower, Corp; St. Pete, 140 Fountain Pkwy, Tampa Corp; Hartford, 280 Trumbull, Corp; Pittsburgh, 1001 Liberty Ave, Corp; St. Louis, 4220 Duncan Avenue, Corp; Miami, 777 Brickell Ave, Corp; Sacramento, 1610 R Street, Corp; Raleigh, 555 Fayetteville, Corp; Minneapolis, 333 S 7th, Corp; Mountain View, 650 Castro, Corp; Scottsdale, 15279 N Scottsdale Rd, Corp; San Francisco, 415 Mission Street, Corp; Morristown, 1 Speedwell Ave, Corp; Denver, 999 18th St, Corp; Boston, 888 Boylston, Corp; Philadelphia, 2001 Market St, Corp; Des Moines, 909 Locust, Corp; Overland Park, 7300 W 110th Street, Corp; Los Angeles, 6181 W Centinela Ave, Corp; Charlotte, 1120 S Tryon St., Corp; Walnut Creek, 1255 Treat Blvd, Corp; Carmel, 11939 N Meridian St., Corp; Houston, 1301 Fannin, Corp; Arlington, 1201 Wilson, Corp; Atlanta, 75 Fifth, Corp; Redmond, 8383 158th Avenue NE, Corp; Bentonville, 805 S Walton Blvd., Corp; Beaverton, 15220 NW Greenbrier, Corp; Nashville, 4101 Charlotte Ave., Corp; Detroit, 1240 Woodward, Corp; San Diego, 12680 High Bluff Dr, Corp",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Seattle-1191-2nd-Avenue-Corp/Accenture-Edge-for-AWS-Tech-Practice-Leader---Data-and-AI_R00353860-1",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Accenture",
+   "ats": "workday",
+   "title": "AI & Agentic Technical Delivery Lead (Customer)",
+   "location": "London",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI---Agentic-Technical-Delivery-Lead_R00345711",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Accenture",
+   "ats": "workday",
+   "title": "Lead AI Solution Architect – Customer",
+   "location": "London; Birmingham; Manchester; Newcastle",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Data-Science-Manager---Marketing---Customer-Generative-AI-Enterprise-Architect_R00274072",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Accenture",
+   "ats": "workday",
+   "title": "Data Science Associate Manager",
+   "location": "London",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Data-Science-Associate-Manager_R00308256",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Accenture",
+   "ats": "workday",
+   "title": "Security Analyst – Emerging Technology - Financial Services",
+   "location": "London",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Security-Analyst---Emerging-Technology---Financial-Services_R00343504",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Kantar",
+   "ats": "workday",
+   "title": "Research Manager",
+   "location": "London, South Bank Central",
+   "url": "https://kantar.wd3.myworkdayjobs.com/KANTAR/job/London-South-Bank-Central/Research-Manager_R102531",
+   "posted": "2026-08-26",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Machine Learning Engineer III",
+   "location": "USA - California - San Jose; Washington - Seattle Campus",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Jose/Machine-Learning-Engineer-III_R-109254-1",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Machine Learning Scientist III",
+   "location": "UK - London",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Machine-Learning-Scientist-III_R-109301",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Machine Learning Scientist III",
+   "location": "Washington - Seattle Campus; Austin Domain 11 - HomeAway",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Machine-Learning-Scientist-III_R-108850-1",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Senior Machine Learning Scientist - CRM Marketing",
+   "location": "Washington - Seattle Campus",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Machine-Learning-Scientist---CRM-Marketing_R-105322-1",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Senior Data Scientist, Product Analytics",
+   "location": "UK - London",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Data-Scientist--Analytics_R-107159",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Director, Machine Learning Science - Marketing",
+   "location": "Washington - Seattle Campus",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Director--Machine-Learning-Science---Marketing_R-107109",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Data Scientist III, Analytics (B2B Supply Optimisation)",
+   "location": "UK - London",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Data-Scientist-III--Analytics--B2B-Supply-Optimisation-_R-106959",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Principal Android Engineer - Search and Recommendations Experience",
+   "location": "UK - London",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Principal-Android-Engineer---Search-and-Recommendations-Experience_R-101945-1",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Senior Analytics Partner, People Analytics",
+   "location": "Washington - Seattle Campus",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Analytics-Partner--People-Analytics_R-106210-1",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Product Manager III, AI Analytics Products",
+   "location": "UK - London",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Product-Manager-III--Analytics-Platform-Capabilities_R-107980-1",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Senior Machine Learning engineer - Distribution & Supply",
+   "location": "Washington - Seattle Campus",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Machine-Learning-engineer---Distribution---Supply_R-106600",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Senior Software Development Engineer - AI Foundations",
+   "location": "Washington - Seattle Campus",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Software-Development-Engineer---AI-Foundations_R-105310-1",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Performance Marketing Analyst",
+   "location": "UK - London",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Performance-Marketing-Analyst_R-107296-1",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Senior Data Analyst - Layla AI",
+   "location": "Washington - Seattle Campus; Austin Domain 11 - HomeAway",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Data-Analyst---Layla-AI_R-109193-1",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Director, User Experience Research – Experience Design (XD)",
+   "location": "USA - New York - New York; Austin Domain 11 - HomeAway; USA - Illinois - Chicago",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/USA---New-York---New-York/Director--User-Experience-Research---Experience-Design--XD-_R-108554-1",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Analyst II, Global Crisis Operations",
+   "location": "Washington - Seattle Campus",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Analyst-Crisis-Operations_R-109163",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Analyst Crisis Operations",
+   "location": "UK - London",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Analyst-Crisis-Operations_R-108965-2",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Expedia Group",
+   "ats": "workday",
+   "title": "Senior Finance Analyst",
+   "location": "UK - London",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Finance-Analyst_R-109217-1",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "G-Research",
+   "ats": "workday",
+   "title": "Security Operations Analyst",
+   "location": "London, UK",
+   "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Security-Operations-Analyst_R3723",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "DraftKings",
+   "ats": "dkxml",
+   "title": "Senior Technical Compliance Analyst",
+   "location": "Boston, Massachusetts, United States",
+   "url": "https://careers.draftkings.com/jobs/jr14955/senior-technical-compliance-analyst/",
+   "posted": "2026-08-28",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "DraftKings",
+   "ats": "dkxml",
+   "title": "Analyst II, Casino Analytics",
+   "location": "Boston, Massachusetts, United States",
+   "url": "https://careers.draftkings.com/jobs/jr14842/analyst-ii-casino-analytics/",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Internal Communications Associate",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Internal-Communications-Associate-5902",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "AI Engineer – Human Capital",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/AI-Engineer-Human-Capital-5841",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Human Capital Analytics Developer",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Human-Capital-Analytics-Developer-5794",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Researcher - People Analytics",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Researcher-People-Analytics-5791",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Compliance Analyst",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Compliance-Analyst-5722",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Investment Management Legal Analyst",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Investment-Management-Legal-Analyst-5971",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Legal Analyst",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Legal-Analyst-6027",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Legal Analyst and Contract Negotiator (London)",
+   "location": "London",
+   "url": "https://www.deshaw.com/careers/Legal-Analyst-and-Contract-Negotiator-London-6030",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Applied AI Engineer",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Applied-AI-Engineer-5375",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Machine Learning Researcher",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Machine-Learning-Researcher-4954",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Product Manager — AI Vendor Tools",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Product-Manager-AI-Vendor-Tools-5910",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Quantitative Analyst",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Quantitative-Analyst-2636",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "All Positions in Quantitative Strategies",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/All-Positions-in-Quantitative-Strategies-3456",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Strategy and Business Development Associate – Commercial Data Insights",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Strategy-and-Business-Development-Associate-Commercial-Data-Insights-5785",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Quant Systems: Systems Developer (London)",
+   "location": "London",
+   "url": "https://www.deshaw.com/careers/Quant-Systems-Systems-Developer-London-5295",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Quant Systems: Systems Developer (New York)",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Quant-Systems-Systems-Developer-New-York-5739",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "AI Product Engineer – Venture Studio (Startup Incubator)",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/AI-Product-Engineer-Venture-Studio-Startup-Incubator-5545",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Trader/Analyst Intern (London) – Summer 2027",
+   "location": "London",
+   "url": "https://www.deshaw.com/careers/Trader-Analyst-Intern-London-Summer-2027-5862",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Quantitative Analyst Intern (New York) – Summer 2027",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Quantitative-Analyst-Intern-New-York-Summer-2027-5890",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Quantitative-Analyst-Ph-D-Intern-New-York-Summer-2027-5891",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Software Developer Intern (New York) – Summer 2027",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Software-Developer-Intern-New-York-Summer-2027-5894",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Software Developer, Ph.D. Intern (New York) – Summer 2027",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Software-Developer-Ph-D-Intern-New-York-Summer-2027-5893",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Investor Relations Intern (London) - Summer 2027",
+   "location": "London",
+   "url": "https://www.deshaw.com/careers/Investor-Relations-Intern-London-Summer-2027-5917",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Systems Engineering Intern (London) - Summer 2027",
+   "location": "London",
+   "url": "https://www.deshaw.com/careers/Systems-Engineering-Intern-London-Summer-2027-5925",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Systems Engineering Intern (New York) - Summer 2027",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Systems-Engineering-Intern-New-York-Summer-2027-5916",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "D. E. Shaw",
+   "ats": "deshaw",
+   "title": "Proprietary Trading Intern (New York) – Summer 2027",
+   "location": "New York",
+   "url": "https://www.deshaw.com/careers/Proprietary-Trading-Intern-New-York-Summer-2027-5731",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Principal Product Manager - AI Concierge & Growth",
+   "location": "london",
+   "url": "https://wise.jobs/job/principal-product-manager-ai-concierge-and-growth-in-london-jid-3689",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "AI Implementation Manager — Wise Assistant",
+   "location": "london",
+   "url": "https://wise.jobs/job/ai-implementation-manager-wise-assistant-in-london-jid-4095",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Data Analyst - Wise Platform - Fincrime",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-data-analyst-wise-platform-fincrime-in-london-jid-3958",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Staff Applied ML Engineer - Financial Crime",
+   "location": "london",
+   "url": "https://wise.jobs/job/staff-applied-ml-engineer-financial-crime-in-london-jid-3730",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Product Analyst - Business Operations - Wise Business",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-product-analyst-business-operations-wise-business-in-london-jid-3713",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Product Analyst - Business Onboarding",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-product-analyst-business-onboarding-in-london-jid-3568",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Product Analyst - Send",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-product-analyst-send-in-london-jid-3428",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Product Analyst - Onboarding",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-product-analyst-onboarding-in-london-jid-3403",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Director of Risk Analytics",
+   "location": "london",
+   "url": "https://wise.jobs/job/director-of-risk-analytics-in-london-jid-4083",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Data Science Lead - AML Risk",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-data-science-lead-aml-risk-in-london-jid-3146",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Analytics Engineering Director - Servicing",
+   "location": "london",
+   "url": "https://wise.jobs/job/analytics-engineering-director-servicing-in-london-jid-2000",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Principal Implementation Manager - Wise Platform Verification",
+   "location": "london",
+   "url": "https://wise.jobs/job/principal-implementation-manager-wise-platform-verification-in-london-jid-4079",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Staff User Researcher - Mitigation Platform",
+   "location": "london",
+   "url": "https://wise.jobs/job/staff-user-researcher-mitigation-platform-in-london-jid-3774",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Analytics Manager - Internal Audit",
+   "location": "london",
+   "url": "https://wise.jobs/job/analytics-manager-internal-audit-in-london-jid-3799",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Growth Analyst",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-growth-analyst-in-london-jid-3885",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Data Analyst - Wise Platform Pricing",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-data-analyst-wise-platform-pricing-in-london-jid-3790",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Marketing Analyst - Growth Drivers",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-marketing-analyst-growth-drivers-in-london-jid-3894",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Analytics Manager - Growth",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-analytics-manager-growth-in-london-jid-3807",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Data Analyst - Wise Platform Pricing",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-data-analyst-wise-platform-pricing-in-london-jid-3325",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Analytics Manager - Marketing Science",
+   "location": "london",
+   "url": "https://wise.jobs/job/analytics-manager-marketing-science-in-london-jid-2295",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Marketing Data Analyst - Paid Social",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-marketing-data-analyst-paid-social-in-london-jid-4035",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Data Analyst - Growth",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-data-analyst-growth-in-london-jid-3806",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Data Analyst - Regulatory Reporting",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-data-analyst-regulatory-reporting-in-london-jid-3893",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Product Analyst - FinCrime",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-product-analyst-fincrime-in-london-jid-3314",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Principal AI Content Designer, FinCrime",
+   "location": "london",
+   "url": "https://wise.jobs/job/principal-ai-content-designer-fincrime-in-london-jid-3203",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Data Scientist - Treasury Markets Quant",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-data-scientist-treasury-markets-quant-in-london-jid-4034",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Machine Learning Engineer I - FinCrime",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-machine-learning-engineer-i-fincrime-in-london-jid-3964",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Machine Learning Engineer II - FinCrime",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-machine-learning-engineer-ii-fincrime-in-london-jid-4021",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Staff Data Scientist - AML",
+   "location": "london",
+   "url": "https://wise.jobs/job/staff-data-scientist-aml-in-london-jid-2899",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Product Analyst - FinCrime",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-product-analyst-fincrime-in-london-jid-3864",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Product Analyst - Regional Expansion",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-product-analyst-regional-expansion-in-london-jid-3607",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Product Analyst - WISE Platform",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-product-analyst-wise-platform-in-london-jid-3717",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior ML Engineering Lead - Financial Crime",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-ml-engineering-lead-financial-crime-in-london-jid-3951",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Data Scientist - Liquidity",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-data-scientist-liquidity-in-london-jid-3950",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Data Scientist - Personalisation/CRM",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-data-scientist-personalisation-crm-in-london-jid-3948",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Data Engineering Manager - Treasury Global Liquidity",
+   "location": "london",
+   "url": "https://wise.jobs/job/data-engineering-manager-treasury-global-liquidity-in-london-jid-2946",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Data Engineer II - Scalable Growth",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-data-engineer-ii-scalable-growth-in-london-jid-3908",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Internal Audit Manager",
+   "location": "london",
+   "url": "https://wise.jobs/job/internal-audit-manager-in-london-jid-3935",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Solutions Engineering Lead",
+   "location": "london",
+   "url": "https://wise.jobs/job/solutions-engineering-lead-in-london-jid-3924",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Software Engineer II - Data Onboarding & Reporting",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-software-engineer-ii-data-onboarding-and-reporting-in-london-jid-3904",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Senior Product Analyst - Wise Business",
+   "location": "london",
+   "url": "https://wise.jobs/job/senior-product-analyst-wise-business-in-london-jid-2654",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Principal AI Model Designer",
+   "location": "london",
+   "url": "https://wise.jobs/job/principal-ai-model-designer-in-london-jid-3613",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Privacy and AI Counsel",
+   "location": "london",
+   "url": "https://wise.jobs/job/privacy-and-ai-counsel-in-london-jid-3902",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Data Analyst - FinCrime Operations",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-data-analyst-fincrime-operations-in-london-jid-3185",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Wise",
+   "ats": "wise",
+   "title": "Lead Product Analyst - Security Platform",
+   "location": "london",
+   "url": "https://wise.jobs/job/lead-product-analyst-security-platform-in-london-jid-3847",
+   "posted": null,
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Burberry",
+   "ats": "sfrss",
+   "title": "Client Experience & Insights Analyst",
+   "location": "London, GB",
+   "url": "https://burberrycareers.com/job/London-Client-Experience-&-Insights-Analyst-Not/1425766700/",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Burberry",
+   "ats": "sfrss",
+   "title": "Senior Manager, Finance Systems & Master Data",
+   "location": "London, GB",
+   "url": "https://burberrycareers.com/job/London-Senior-Manager%2C-Finance-Systems-&-Master-Data-Not/1422497900/",
+   "posted": "2026-08-24",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Burberry",
+   "ats": "sfrss",
+   "title": "Senior Manager, IT Internal Audit",
+   "location": "London, GB",
+   "url": "https://burberrycareers.com/job/London-Senior-Manager%2C-IT-Internal-Audit-Not/1385611200/",
+   "posted": "2026-08-21",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "EY",
+   "ats": "sfrss",
+   "title": "Tax Technology and Transformation - Direct Tax - Senior",
+   "location": "New York, NY, US, 10001-8604",
+   "url": "https://careers.ey.com/ey/job/New-York-Tax-Technology-and-Transformation-Direct-Tax-Senior-NY-10001-8604/1412394633/",
+   "posted": "2026-09-03",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Burford Capital",
+   "ats": "sfrss",
+   "title": "Data Analyst",
+   "location": "London, UKM, GB, EC4M 8AB",
+   "url": "https://careers.burfordcapital.com/job/London-Data-Analyst-UKM-EC4M-8AB/1404382800/",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "BCG X",
+   "ats": "phenom",
+   "title": "Senior Analyst - BCG Vantage",
+   "location": "Washington, District of Columbia, United States of America",
+   "url": "https://experiencedtalent.bcg.com/careerhub/explore/jobs/790318179269?post_onboarding_pid=790318179269&show_apply=1&profile_type=candidate&customredirect=1&utm_source=Phenom",
+   "posted": "2026-08-27",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "BCG X",
+   "ats": "phenom",
+   "title": "NAMR Unlocking Potential Manager, Stakeholder Enablement & Programs",
+   "location": "Boston, Massachusetts, United States of America",
+   "url": "https://experiencedtalent.bcg.com/careerhub/explore/jobs/790317592271?post_onboarding_pid=790317592271&show_apply=1&profile_type=candidate&customredirect=1&utm_source=Phenom",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "BCG X",
+   "ats": "phenom",
+   "title": "BCG Platinion | AI Tech Architect (Internship)",
+   "location": "New York, New York, United States of America",
+   "url": "https://studenttalent.bcg.com/careerhub/explore/jobs/790317332706?post_onboarding_pid=790317332706&show_apply=1&profile_type=candidate&customredirect=1&utm_source=Phenom",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "BCG X",
+   "ats": "phenom",
+   "title": "BCG Platinion | AI Tech Consultant, Tech Advisory & Delivery (Internship)",
+   "location": "New York, New York, United States of America",
+   "url": "https://studenttalent.bcg.com/careerhub/explore/jobs/790317685611?post_onboarding_pid=790317685611&show_apply=1&profile_type=candidate&customredirect=1&utm_source=Phenom",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "BCG X",
+   "ats": "phenom",
+   "title": "BCG Platinion | AI Tech Consultant, Cybersecurity (Internship)",
+   "location": "New York, New York, United States of America",
+   "url": "https://studenttalent.bcg.com/careerhub/explore/jobs/790317326706?post_onboarding_pid=790317326706&show_apply=1&profile_type=candidate&customredirect=1&utm_source=Phenom",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "BCG X",
+   "ats": "phenom",
+   "title": "BCG Platinion | AI Tech Consultant, Enterprise Solutions (Internship)",
+   "location": "New York, New York, United States of America",
+   "url": "https://studenttalent.bcg.com/careerhub/explore/jobs/790317332593?post_onboarding_pid=790317332593&show_apply=1&profile_type=candidate&customredirect=1&utm_source=Phenom",
+   "posted": "2026-09-02",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "BCG X",
+   "ats": "phenom",
+   "title": "Senior Analyst- BCG Vantage, Technology, Media, and Telecommunications (TMT)",
+   "location": "London, United Kingdom",
+   "url": "https://experiencedtalent.bcg.com/careerhub/explore/jobs/790318248615?post_onboarding_pid=790318248615&show_apply=1&profile_type=candidate&customredirect=1&utm_source=Phenom",
+   "posted": "2026-08-31",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "BCG X",
+   "ats": "phenom",
+   "title": "Global Operational Innovations Senior Analyst (Temporary)",
+   "location": "London, United Kingdom",
+   "url": "https://experiencedtalent.bcg.com/careerhub/explore/jobs/790318307769?post_onboarding_pid=790318307769&show_apply=1&profile_type=candidate&customredirect=1&utm_source=Phenom",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Conde Nast (Vogue)",
+   "ats": "workday",
+   "title": "Lead, Privacy Engineering & Data Governance",
+   "location": "The Adelphi, London, GB",
+   "url": "https://condenast.wd115.myworkdayjobs.com/CondeCareers/job/The-Adelphi-London-GB/Senior-Data-Analyst_R-24297",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Conde Nast (Vogue)",
+   "ats": "workday",
+   "title": "US Payroll & Payroll Transformation, Director",
+   "location": "1 World Trade Center, New York, NY",
+   "url": "https://condenast.wd115.myworkdayjobs.com/CondeCareers/job/1-World-Trade-Center-New-York-NY/US-Payroll---Payroll-Transformation--Director_R-24803-2",
+   "posted": "2026-09-01",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
+  {
+   "type": "job",
+   "company": "Conde Nast (Vogue)",
+   "ats": "workday",
+   "title": "Research Librarian",
+   "location": "1 World Trade Center, New York, NY",
+   "url": "https://condenast.wd115.myworkdayjobs.com/CondeCareers/job/1-World-Trade-Center-New-York-NY/Research-Librarian_R-24689-2",
+   "posted": "2026-08-25",
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
+  },
   {
    "type": "job",
    "company": "Depop",
@@ -15,77 +5555,7 @@
    "location": "London, UK",
    "url": "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Senior-Machine-Learning-Engineer--Ranking_JR5407",
    "posted": "2026-08-24",
-   "fetchedAt": "2026-09-02T17:41:38.989Z"
-  },
-  {
-   "type": "job",
-   "company": "Depop",
-   "ats": "workday",
-   "title": "Product Data Scientist",
-   "location": "London, UK",
-   "url": "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Product-Data-Scientist_JR5809",
-   "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T17:41:38.989Z"
-  },
-  {
-   "type": "job",
-   "company": "Depop",
-   "ats": "workday",
-   "title": "Senior Data Platform Engineer - Data Enablement",
-   "location": "London, UK",
-   "url": "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Senior-Data-Platform-Engineer_JR5548",
-   "posted": "2026-08-19",
-   "fetchedAt": "2026-09-02T17:41:38.989Z"
-  },
-  {
-   "type": "job",
-   "company": "Depop",
-   "ats": "workday",
-   "title": "Senior Data Engineer - Analytics Engineering",
-   "location": "London, UK",
-   "url": "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Senior-Data-Engineer_JR5465",
-   "posted": "2026-08-19",
-   "fetchedAt": "2026-09-02T17:41:38.989Z"
-  },
-  {
-   "type": "job",
-   "company": "Depop",
-   "ats": "workday",
-   "title": "Staff Machine Learning Scientist, Ranking",
-   "location": "London, UK",
-   "url": "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Staff-Machine-Learning-Scientist--Ranking_JR5355",
-   "posted": "2026-08-19",
-   "fetchedAt": "2026-09-02T17:41:38.989Z"
-  },
-  {
-   "type": "job",
-   "company": "Depop",
-   "ats": "workday",
-   "title": "Staff Machine Learning Scientist - Core ML",
-   "location": "London, UK",
-   "url": "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Staff-Machine-Learning-Scientist---Core-ML_JR5341",
-   "posted": "2026-08-19",
-   "fetchedAt": "2026-09-02T17:41:38.989Z"
-  },
-  {
-   "type": "job",
-   "company": "Depop",
-   "ats": "workday",
-   "title": "Senior Product Manager - Ranking (ML)",
-   "location": "London, UK",
-   "url": "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Senior-Product-Manager---Ranking--ML-_JR5787",
-   "posted": "2026-08-10",
-   "fetchedAt": "2026-09-02T17:41:38.989Z"
-  },
-  {
-   "type": "job",
-   "company": "Depop",
-   "ats": "workday",
-   "title": "Senior Data Platform Engineer - Data Infrastructure",
-   "location": "Depop - Remote, UK; London, UK",
-   "url": "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/Depop---Remote-UK/Senior-Data-Platform-Engineer_JR5437",
-   "posted": "2026-08-19",
-   "fetchedAt": "2026-09-02T17:41:38.989Z"
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
   },
   {
    "type": "job",
@@ -95,7 +5565,7 @@
    "location": "Brooklyn, New York",
    "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Market-Research-Analyst-III_JR5819-1",
    "posted": "2026-08-28",
-   "fetchedAt": "2026-09-02T17:41:38.989Z"
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
   },
   {
    "type": "job",
@@ -105,37 +5575,7 @@
    "location": "Brooklyn, New York",
    "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Senior-Director--Product-Analytics_JR5815-1",
    "posted": "2026-08-21",
-   "fetchedAt": "2026-09-02T17:41:38.989Z"
-  },
-  {
-   "type": "job",
-   "company": "Etsy",
-   "ats": "workday",
-   "title": "Senior Product Manager, Machine Learning, Ads",
-   "location": "Brooklyn, New York",
-   "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Senior-Product-Manager_JR5790-1",
-   "posted": "2026-08-20",
-   "fetchedAt": "2026-09-02T17:41:38.989Z"
-  },
-  {
-   "type": "job",
-   "company": "Etsy",
-   "ats": "workday",
-   "title": "Director of Analytics, Forecasting and Business Insights",
-   "location": "Brooklyn, New York",
-   "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Director-of-Analytics--Forecasting-and-Business-Insights_JR5693-1",
-   "posted": "2026-08-11",
-   "fetchedAt": "2026-09-02T17:41:38.989Z"
-  },
-  {
-   "type": "job",
-   "company": "Etsy",
-   "ats": "workday",
-   "title": "Senior Staff Machine Learning Engineer",
-   "location": "Brooklyn, New York",
-   "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Senior-Staff-Machine-Learning-Engineer_JR5795-1",
-   "posted": "2026-08-10",
-   "fetchedAt": "2026-09-02T17:41:38.989Z"
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
   },
   {
    "type": "job",
@@ -145,17 +5585,7 @@
    "location": "New York, New York, USA (Corporate Headquarters)",
    "url": "https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Sr-Analyst--Retail-Technology_JR13070",
    "posted": "2026-09-01",
-   "fetchedAt": "2026-09-02T17:41:38.989Z"
-  },
-  {
-   "type": "job",
-   "company": "Coach / Tapestry",
-   "ats": "workday",
-   "title": "Trading Analyst (FTC)",
-   "location": "Greater London, GBR (United Kingdom Corporate Office)",
-   "url": "https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/Greater-London-GBR-United-Kingdom-Corporate-Office/Trading-Analyst--FTC-_JR11795",
-   "posted": "2026-08-10",
-   "fetchedAt": "2026-09-02T17:41:38.989Z"
+   "fetchedAt": "2026-09-03T05:00:26.033Z"
   }
  ]
 }
